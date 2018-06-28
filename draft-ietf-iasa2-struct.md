@@ -220,15 +220,23 @@ Finally, the Board would be expected to operate transparently, to further addres
 
 ## Board Composition {#board-composition}
 
-The structure of the Board of Directors of the LLC shall be composed of up to seven people as follows:
+(TO BE DISCUSSED AT IETF-102)
 
-* 4 Appointed by the IETF NomCom, confirmed by the IESG
-
-* 1 IETF Chair ex officio or other person selected by the IESG
-
+Option 1 – Always 7 Directors, Two from LLC:
+* 1 IETF Chair or delegate selected by the IESG
 * 1 Appointed by the ISOC Board of Trustees
+* 3 Appointed by the IETF NomCom, confirmed by the IESG
+* 2 Appointed by the LLC board itself, confirmed by the IESG
 
-* 1 Appointed by the LLC Board itself, confirmed by IESG
+Option 2 – At Least 7 Directors, Maximum of 9, with 2 LLC-Optional Appointments:
+* 1 IETF Chair or delegate selected by the IESG
+* 1 Appointed by the ISOC Board of Trustees
+* 5 Appointed by the IETF NomCom, confirmed by the IESG
+* AS NEEDED, UP TO 2 Appointed by the LLC board itself, confirmed by the IESG (see note)
+ 
+Note: If the optional appointment strategy in option 2is used, we could adopt language similar to that used by the ISOC board, such as:
+ 
+“A maximum of two (2) Directors may be appointed by the LLC Board. The appointment of a LLC Board-appointed Director requires a 2/3rd-majority vote of the Directors then in office, and the appointee shall take office immediately upon appointment. The term of each appointment shall be designated by the Board, with the maximum term being until the beginning of the second Annual General Meeting (AGM) after appointment, or until their earlier resignation, removal or death.  The Board may decide on a case-by-case basis how long each term shall be, factoring in the By-Law restriction for consecutive terms."
 
 ## Recruiting LLC Board Directors {#director-recruitment}
 
