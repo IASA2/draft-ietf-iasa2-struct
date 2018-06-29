@@ -397,6 +397,10 @@ Once the Executive Director and any additional staff are hired, it would be expe
 * Do a thorough review of existing contracts, community volunteer arrangements, and administrative assets to determine the need for initial changes.
 * Assess areas where the IETF community needs to document its consensus, e.g., expectations about community involvement in NOC or tools efforts.
 
+# 3-Year Assessment
+
+The LLC, with the involvement of the community, shall conduct and complete a 3-year assessment of the structure, processes, and operation of the IASA and LLC. This should be presented to the community at IETF 113 in March 2022 or IETF 114 in July 2022. The assessment may potentially include recommendations for improvements or changes in the IASA and/or LLC.
+
 # Acknowledgments
 
 Thanks to Jari Arkko, Richard Barnes, Alissa Cooper, Sean Turner and the IASA 2.0 Working Group for discussions of possible structures, and to the attorneys of Morgan Lewis and Brad Biddle for legal advice.
