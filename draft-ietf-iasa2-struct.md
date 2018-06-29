@@ -399,7 +399,7 @@ Once the Executive Director and any additional staff are hired, it would be expe
 
 # 3-Year Assessment
 
-The LLC, with the involvement of the community, shall conduct and complete a 3-year assessment of the structure, processes, and operation of the IASA and LLC. This should be presented to the community at IETF 113 in March 2022 or IETF 114 in July 2022. The assessment may potentially include recommendations for improvements or changes in the IASA and/or LLC.
+The LLC, with the involvement of the community, shall conduct and complete an assessment of the structure, processes, and operation of the IASA and LLC. This should be presented to the community at IETF 113 in March 2022 or IETF 114 in July 2022. The assessment may potentially include recommendations for improvements or changes in the IASA and/or LLC.
 
 # Acknowledgments
 
