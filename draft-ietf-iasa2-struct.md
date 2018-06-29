@@ -267,7 +267,7 @@ It shall be the responsibility of each respective body that appointed a Director
 
 ## Interim Board {#interim-board}
 
-An initial interim Board will be necessary in order to legally form and bootstrap the LLC. As a result, an  interim Board will be formed on a temporary basis until the first full board is constituted.
+An initial interim Board will be necessary in order to legally form and bootstrap the LLC. As a result, an Interim Board will be formed on a temporary basis until the first full board is constituted. Barring unforseen circumstances, the Interim Board should conclude no later than the end of the 104th meeting of the IETF, in March 2019.
 
 The interim Board shall be comprised of:
 
@@ -282,8 +282,8 @@ A minimum of five Directors must be seated in order for the Board to be constitu
 
 * The IESG shall make their appointment no later than January 31, 2019.
 * ISOC shall make their appointment no later than January 31, 2019.
-* The NomCom shall make their appointments no later than January 31, 2019.
-* These initial LLC Board members shall make their appointment(s) before the end of June 2019.
+* The NomCom shall make their appointments no later than March 29, 2019.
+* These initial LLC Board members shall make their appointment(s) no later than July 26, 2019 (the end of IETF 105). (NOTE: DEPENDING ON THE BOARD COMPOSITION DETERMINED AT IETF 102, THIS ITEM MAY NEED TO BE MADE OPTIONAL WITH NO TIME REQUIREMENT OR BE REMOVED)
 
 ## Board Positions {#board-positions}
 
