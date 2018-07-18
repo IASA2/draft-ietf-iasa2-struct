@@ -30,13 +30,6 @@ author:
     organization: Comcast
     email: jason_livingood@comcast.com
 
-informative:
-  RFC2119:
-  author: Scott Bradner
-  org: Harvard University
-  date: 1997-03
-  target: https://www.ietf.org/rfc/rfc2119.txt
-
   RFC7437:
   author: Murray Kucherawy
   date: 2015-07
@@ -49,22 +42,6 @@ informative:
     date: 2018-02
     target: https://mailarchive.ietf.org/arch/msg/iasa20/XT_3vfd3OWVFCW335mRrvWuusaI/
 
-  Diagrams:
-    title: IASA 2.0 Strawman Diagram
-    author:
-      name: Richard Barnes
-      ins: R. Barnes
-    dates: 2018-02-16
-    target: https://ipv.sx/iasa2.0/IASA-Strawman.pdf
-
-  Diagrams-no-trust:
-    title: IASA 2.0 Strawman Diagram, IETF Trust Not Shown
-    author:
-      name: Richard Barnes
-      ins: R. Barnes
-    dates: 2018-02-16
-    target: https://ipv.sx/iasa2.0/IASA-Strawman-NoTrust.pdf
-
   ietf101-slides:
     title: IASA 2.0 IETF-101 Slides
     author:
@@ -72,6 +49,14 @@ informative:
       ins: J.L. Hall
     dates: 2018-03-20
     target: https://datatracker.ietf.org/meeting/101/materials/slides-101-iasa20-dt-iasa-slides-00
+
+  ietf102-slides:
+    title: IASA 2.0 IETF-102 Slides
+    author:
+      name: Joe Lorenzo Hall
+      ins: J.L. Hall
+    dates: 2018-07-18
+    target: https://datatracker.ietf.org/meeting/102/materials/slides-102-iasa2-iasa2-structure-draft-00
 
 --- abstract
 
@@ -85,28 +70,26 @@ The IETF Administrative Support Activity (IASA) was originally established in 20
 
 {{?I-D.haberman-iasa20dt-recs}} discusses the challenges facing the current structure as well as several options for reorganizing the IETF's administration under different legal structures. This document outlines how such an organization will be structured and describes how the organization will fit together with existing and new IETF community structures.
 
-This document outlines some details of a potential "IASA 2.0" arrangement. Some of the details of the organizational structure are dependent on the choice of legal structure, but others are not. The point of this document is to solicit community input about how to address the challenges identified in {{?I-D.haberman-iasa20dt-recs}}. Ultimately, if the IETF community decides to make changes to IASA, those changes will subsequently be documented in a replacement of RFC 4071 (BCP 101) and RFC 4371.
+This document outlines the high level details of the planned "IASA 2.0" arrangement, some of which are dependent on the choice of legal structure. The point of this document has been to solicit community input about how to address the challenges identified in {{?I-D.haberman-iasa20dt-recs}}, and included much debate on the IASA2 mailing list and the IASA2 working group meetings at IETF 101 {{ietf101-slides}} and IETF 102 {{ietf102-slides}}. Changes will subsequently be required in a replacement of RFC 4071 (BCP 101) and RFC 4371, which are of course based on IETF community input and the work in the IASA2 working group.
 
-The proposal in this document is to transfer most of the responsibilities that RFC 4071 currently assigns to the Internet Administrative Director (IAD) and Internet Society (ISOC) to the newly created LLC. The IAOC would be eliminated, and its oversight and advising functions transferred to the LLC Board. It would be the job of LLC to meet the administrative needs of the IETF and ensure that LLC and IASA 2.0 is meeting the needs of the IETF community.
+The proposal in this document is to transfer most of the responsibilities that RFC 4071 currently assigns to the Internet Administrative Director (IAD) and Internet Society (ISOC) to the newly created LLC. The IAOC will be eliminated, and its oversight and advising functions transferred to the LLC Board. It will be the job of LLC to meet the administrative needs of the IETF and ensure that LLC and IASA 2.0 meet the needs of the IETF community.
 
-Eliminating the IAOC means that there will need to be another way for trustees to be appointed for the IETF Trust. The details of how this is done are outlined in (PLACEHOLDER: FILL IN WITH I-D NAME IN FUTURE UPDATE).
-
-The proposal in this document is depicted visually in {{Diagrams}} showing the IETF Trust and {{Diagrams-no-trust}} not showing the IETF Trust. (NOTE: DIAGRAMS WILL BE UPDATED AS CONSENSUS FURTHER DEVELOPS, IN A FUTURE UPDATE)
-
+Eliminating the IAOC means that there will need to be another way for trustees to be appointed for the IETF Trust. The details of how this is done will be outlined in a subsequent working group Internet draft.
 
 # Scope Limitation
 
 The document does not propose any changes to anything related to the oversight or steering of the standards process as currently conducted by the Internet Engineering Steering Group (IESG) and Internet Architecture Board (IAB), the appeals chain, the process for making and organizations involved in confirming IETF and IAB appointments, the IETF Nominations Committee (NomCom), the Internet Research Task Force (IRTF), or ISOC's memberships in or support of other organizations.
 
-If the community decides to make changes to IASA along the lines sketched out in this document, normative changes to IETF processes will need to be documented in an RFC. Additional legal documents (e.g., certificate of formation, operating agreement, transition and shared services agreement) relating to the legal entity would provide the official, legal definitions of processes, roles, etc. {{transition-considerations}} sketches some initial thoughts about transition; publishing a detailed transition plan would likely also be useful.
+If the community decides to make changes to IASA along the lines outlined in this document, normative changes to IETF processes will need to be documented in one or more RFCs. Additional legal documents (e.g., certificate of formation, operating agreement, transition and shared services agreement) relating to the legal entity would provide the official, legal definitions of processes, roles, etc. {{transition-considerations}} lists some initial thoughts about transition; publishing a detailed transition plan would likely also be useful.
 
 ## Operating Agreement with the Internet Society
-The Operating Agreement (OA) is also out of scope for this document. The OA will be developed between the IETF and ISOC and is expected to include all critical terms, while still enabling maximum unilateral flexibility for the LLC Board. Thus, it is anticipated that the OA will include only basic details about how the Board manages itself or manages LLC staff, so that the LLC Board has flexibility to make changes without amending the OA. The LLC Board can independently develop policy or procedures documents that fill gaps.
+
+The Operating Agreement (OA) is also out of scope for this document. The OA is being developed between the IETF and ISOC and is expected to include all critical terms, while still enabling maximum unilateral flexibility for the LLC Board. Thus, it is anticipated that the OA will include only basic details about how the Board manages itself or manages LLC staff, so that the LLC Board has flexibility to make changes without amending the OA. The LLC Board can independently develop policy or procedures documents that fill gaps.
 
 
 # Key Differences from the IASA 1.0 Structure
 
-* The IAOC and IAD roles defined in RFC 4071 are eliminated. (NOTE: ONE WG TASK IS TO REPLACE RFC 4071)
+* The IAOC and IAD roles defined in RFC 4071 are eliminated.
 
 * The ISOC and IAD responsibilities described in RFC 4071 are assigned to a new organization, IETF Administration LLC.
 
@@ -220,23 +203,18 @@ Finally, the Board would be expected to operate transparently, to further addres
 
 ## Board Composition {#board-composition}
 
-(TO BE DISCUSSED AT IETF-102)
+There shall be a minimum of 5 directors, expandable to 6 or 7.
 
-Option 1 – Always 7 Directors, Two from LLC:
 * 1 IETF Chair or delegate selected by the IESG
 * 1 Appointed by the ISOC Board of Trustees
 * 3 Appointed by the IETF NomCom, confirmed by the IESG
-* 2 Appointed by the LLC board itself, confirmed by the IESG
+* Up to 2 Appointed by the LLC board itself, on an as needed basis, confirmed by the IESG
 
-Option 2 – At Least 7 Directors, Maximum of 9, with 2 LLC-Optional Appointments:
-* 1 IETF Chair or delegate selected by the IESG
-* 1 Appointed by the ISOC Board of Trustees
-* 5 Appointed by the IETF NomCom, confirmed by the IESG
-* AS NEEDED, UP TO 2 Appointed by the LLC board itself, confirmed by the IESG (see note)
- 
-Note: If the optional appointment strategy in option 2is used, we could adopt language similar to that used by the ISOC board, such as:
- 
-“A maximum of two (2) Directors may be appointed by the LLC Board. The appointment of a LLC Board-appointed Director requires a 2/3rd-majority vote of the Directors then in office, and the appointee shall take office immediately upon appointment. The term of each appointment shall be designated by the Board, with the maximum term being until the beginning of the second Annual General Meeting (AGM) after appointment, or until their earlier resignation, removal or death.  The Board may decide on a case-by-case basis how long each term shall be, factoring in the By-Law restriction for consecutive terms."
+## LLC-Appointed Directors {#llc-directors}
+
+As noted above, a maximum of two Directors may be appointed by the LLC Board. They can obviously choose to appoint none, one, or two. These appointments need not be on an exceptional basis, but rather be routine, and may occur at any time of the year since it is on an as needed basis.
+
+The appointment of a LLC Board-appointed Director requires a 2/3rd-majority vote of the Directors then in office, and the appointee shall take office immediately upon appointment. The term of each appointment shall be designated by the Board, with the maximum term being until the beginning of the second Annual General Meeting (AGM) after appointment, or until their earlier resignation, removal or death.  The Board may decide on a case-by-case basis how long each term shall be, factoring in the restriction for consecutive terms in {{#term-length}}.
 
 ## Recruiting LLC Board Directors {#director-recruitment}
 
@@ -274,16 +252,17 @@ The interim Board shall be comprised of:
 * The IETF chair, ex officio
 * The IAOC chair, ex officio
 * The IAB chair, ex officio
-* 1 ISOC trustee, selected by the BoT
+* One ISOC trustee, selected by the ISOC Board of Trustees
 
 ## First Full Board {#first-full-board}
 
-A minimum of five Directors must be seated in order for the Board to be constituted, and the Interim Board to be dissolved. Accordingly, the following steps must take place to ensure that this occurs on a timely basis:
+A minimum of five Directors must be seated in order for the Board to be constituted, and then the Interim Board will be dissolved. Accordingly, the following steps must take place to ensure that this occurs on a timely basis:
 
 * The IESG shall make their appointment no later than January 31, 2019.
 * ISOC shall make their appointment no later than January 31, 2019.
-* The NomCom shall make their appointments no later than March 29, 2019.
-* These initial LLC Board members shall make their appointment(s) no later than July 26, 2019 (the end of IETF 105). (NOTE: DEPENDING ON THE BOARD COMPOSITION DETERMINED AT IETF 102, THIS ITEM MAY NEED TO BE MADE OPTIONAL WITH NO TIME REQUIREMENT OR BE REMOVED)
+* The NomCom shall make their appointments no later than March 22, 2019.
+
+If these bodies can make their appointments sooner, then by all means they should do so in order to enable the first full board to begin as soon as possible. This is particularly so for the NomCom. If the NomCom can make their appointments sooner, then the first full board could be constituted in time for IETF 104 (March 23-29, 2019).
 
 ## Board Positions {#board-positions}
 
@@ -352,19 +331,19 @@ When the LLC conducts fundraising, it will substantiate charitable contributions
 Conducting a transition as envisioned in this document will encompass many different work activities and will require action, involvement, support, and/or feedback from groups and individuals across the IETF community. The transition is likely to proceed in these steps but the community should remain flexible and adapt this plan as changes occur and complications inevitably arise.
 
 Phase 1: LLC Formation
-* The LLC is formed with an Interim Board (see {#interim-board})
-* The IAOC continues to operate as usual, such as reviewing and approving the IETF's FY2019 budget
-* The NomCom is given instructions by the IETF chair to not recruit for 2019 IAOC positions, and instead recruit for LLC Board Directors
-* An update of RFC 7437 is started, reflecting this change
+* The LLC is formed with an Interim Board (see {#interim-board}).
+* The IAOC continues to operate as usual, such as reviewing and approving the IETF's FY2019 budget.
+* The NomCom is given instructions by the IETF chair to not recruit for 2019 IAOC positions, and instead recruit for LLC Board Directors.
+* An update of all relevant RFCs is started, reflecting the change from IAOC to LLC.
 
 Phase 2: Transition from IAOC to LLC
-* The LLC's Interim Board and IAOC shall agree to a transition schedule to transition IAOC responsibilities one-by-one to the LLC
-* This phase MUST conclude prior to the expiration of IAOC member terms in 1Q2019
+* The LLC's Interim Board and IAOC shall agree to a transition schedule to transition IAOC responsibilities one-by-one to the LLC.
+* This phase should optimally conclude prior to the expiration of IAOC member terms in 2019.
 
 Phase 3: Transition Complete
-* First full board is seated (see {#first-full-board})
-* All responsibilities of the IAOC have been assumed by the LLC
-* The IAOC can then be shut down
+* The first full board is seated (see {#first-full-board}).
+* All responsibilities of the IAOC have been assumed by the LLC.
+* The IAOC can then be shut down.
 
 ## Initial Tasks of the LLC Board
 
@@ -397,9 +376,9 @@ Once the Executive Director and any additional staff are hired, it would be expe
 * Do a thorough review of existing contracts, community volunteer arrangements, and administrative assets to determine the need for initial changes.
 * Assess areas where the IETF community needs to document its consensus, e.g., expectations about community involvement in NOC or tools efforts.
 
-# 3-Year Assessment
+# 2-Year or 3-Year Assessment
 
-The LLC, with the involvement of the community, shall conduct and complete an assessment of the structure, processes, and operation of the IASA and LLC. This should be presented to the community at IETF 113 in March 2022 or IETF 114 in July 2022. The assessment may potentially include recommendations for improvements or changes in the IASA and/or LLC.
+The LLC, with the involvement of the community, shall conduct and complete an assessment of the structure, processes, and operation of the IASA and LLC. This should be presented to the community after a period of two or three years of operation, such as at IETF 113 in March 2022 or IETF 114 in July 2022. The assessment may potentially include recommendations for improvements or changes in the IASA and/or LLC.
 
 # Acknowledgments
 
