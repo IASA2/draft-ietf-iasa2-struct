@@ -231,7 +231,7 @@ A director may serve no more than two consecutive terms, with at least one full 
 
 An exception to the two consecutive term rule is for an LLC-appointed Director. For such a Director, they may serve only one term via this appointment method, after which any subsequent terms would be occur via other appointment processes (such as via the NomCom process).
 
-Lastly, partial terms of less than three years for the initial appointments to the First Full Board {{#first-full-board}}, for which some Directors will have terms of one or two years, do not count against the term limit.
+Lastly, partial terms of less than three years for the initial appointments to the First Full Board {#first-full-board}, for which some Directors will have terms of one or two years, do not count against the term limit.
 
 The limit on consecutive terms supports the healthy regular introduction of new ideas and energy into the Board and mitigates potential long-term risk of ossification or conflict, without adversely impacting the potential pool of director candidates over time.
 
