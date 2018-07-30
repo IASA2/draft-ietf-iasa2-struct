@@ -75,13 +75,13 @@ This document outlines the high level details of the planned "IASA 2.0" arrangem
 
 The proposal in this document is to transfer most of the responsibilities that RFC 4071 currently assigns to the Internet Administrative Director (IAD) and Internet Society (ISOC) to the newly created LLC. The IAOC will be eliminated, and its oversight and advising functions transferred to the LLC Board. It will be the job of LLC to meet the administrative needs of the IETF and ensure that LLC and IASA 2.0 meet the needs of the IETF community.
 
-Eliminating the IAOC means that there will need to be another way for trustees to be appointed for the IETF Trust. The details of how this is done will be outlined in a subsequent working group Internet draft.
+Eliminating the IAOC means that there will need to be another way for trustees to be appointed for the IETF Trust. The details of how this is done is outside the scope of this document.
 
 # Scope Limitation
 
-The document does not propose any changes to anything related to the oversight or steering of the standards process as currently conducted by the Internet Engineering Steering Group (IESG) and Internet Architecture Board (IAB), the appeals chain, the process for making and organizations involved in confirming IETF and IAB appointments, the IETF Nominations Committee (NomCom), the Internet Research Task Force (IRTF), or ISOC's memberships in or support of other organizations.
+The document does not propose any changes to anything related to the oversight or steering of the standards process as currently conducted by the Internet Engineering Steering Group (IESG) and Internet Architecture Board (IAB), the appeals chain, the process for making and confirming IETF and IAB appointments, the IETF Nominations Committee (NomCom), the Internet Research Task Force (IRTF), or ISOC's memberships in or support of other organizations.
 
-If the community decides to make changes to IASA along the lines outlined in this document, normative changes to IETF processes will need to be documented in one or more RFCs. Additional legal documents (e.g., certificate of formation, operating agreement, transition and shared services agreement) relating to the legal entity would provide the official, legal definitions of processes, roles, etc. {{transition-considerations}} lists some initial thoughts about transition; publishing a detailed transition plan would likely also be useful.
+If the community decides to make changes to its administrative process along the lines outlined in this document, normative changes to IETF processes will need to be documented in one or more additional RFCs. Additional legal documents (e.g., certificate of formation, operating agreement, transition and shared services agreement) relating to the legal entity would provide the official, legal definitions of processes, roles, etc. {{transition-considerations}} lists some initial thoughts about transition; publishing a detailed transition plan would likely also be useful.
 
 ## Operating Agreement with the Internet Society
 
@@ -123,7 +123,7 @@ In addition, by having the LLC manage the IETF's finances and conduct the IETF's
 
 The LLC will be expected to conduct its work according to the following proposed principles:
 
-* Transparency. The LLC will keep the IETF community reasonably informed about its work and will engage with the community to obtain consensus-based community input on key issues and otherwise as needed. As discusses in {{ietf101-slides}}, whatever doesn't have a specific justification for being kept confidential, should be made public. There must exist a public list of confidential items, describing the nature of the information and the reason for confidentiality.
+* Transparency. The LLC will keep the IETF community informed about its work and will engage with the community to obtain consensus-based community input on key issues and otherwise as needed. As discusses in {{ietf101-slides}}, whatever doesn't have a specific justification for being kept confidential, should be made public. There must exist a public list of confidential items, describing the nature of the information and the reason for confidentiality.
 
 * Responsiveness to the community. The LLC will act consistently with the documented consensus of the IETF community, to be responsive to the community's needs, and adapt its decisions in response to consensus-based community feedback.
 
@@ -135,9 +135,9 @@ The transparency and responsiveness principles are designed to address the conce
 
 The LLC Board will be responsible for conducting oversight of LLC's execution of its responsibilities, as described in {{llc-responsibilities}}.  They have duties of loyalty, care, and good faith. This includes the responsibility to:
 
-* provide strategic direction for the LLC and to the Executive Director;
+* provide strategic direction for the LLC to the Executive Director;
 
-* hire, supervise, and manage the employment of the role of the Executive Director of LLC, including tasks such as hiring, termination, performance review, amendment of employment terms, the award of compensation and other requisite employment benefits or decisions;
+* hire, supervise, and manage the employment of the role of the Executive Director of the LLC, including tasks such as hiring, termination, performance review, amendment of employment terms, the award of compensation and other requisite employment benefits or decisions;
 
 * adopting any employee benefit plans;
 
