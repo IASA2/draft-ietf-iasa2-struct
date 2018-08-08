@@ -94,7 +94,7 @@ The Operating Agreement (OA) is also out of scope for this document. The OA is b
 
 * The ISOC and IAD responsibilities described in RFC 4071 are assigned to a new organization, IETF Administration LLC.
 
-* The Board of Directors of the LLC -- formerly a multi-member "manager" of the LLC on behalf of ISOC -- will assume the oversight responsibilities of the IAOC.
+* The Board of Directors of the LLC -- formally a multi-member "manager" of the LLC on behalf of ISOC -- will assume the oversight responsibilities of the IAOC.
 
 * The Board of the LLC shall be more focused on strategy and oversight, with the Executive Director and their team in charge of day-to-day operations.
 
