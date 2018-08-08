@@ -216,7 +216,7 @@ There shall be a minimum of 5 directors, expandable to 6 or 7.
 
 As noted above, a maximum of two Directors may be appointed by the LLC Board. They can obviously choose to appoint none, one, or two. These appointments need not be on an exceptional basis, but rather be routine, and may occur at any time of the year since it is on an as needed basis.
 
-The appointment of a LLC Board-appointed Director requires a 2/3rd-majority vote of the Directors then in office, and the appointee shall take office immediately upon appointment. The term of each appointment shall be designated by the Board, with the maximum term being until the beginning of the second Annual General Meeting (AGM) after appointment, or until their earlier resignation, removal or death.  The Board may decide on a case-by-case basis how long each term shall be, factoring in the restriction for consecutive terms in {{term-length}}.
+The appointment of a LLC Board-appointed Director requires a 2/3rd-majority vote of the Directors then in office, and the appointee shall take office immediately upon appointment. The term of each appointment shall be designated by the Board, with the maximum term being until the beginning of the second annual meeting after appointment, or until their earlier resignation, removal or death.  The Board may decide on a case-by-case basis how long each term shall be, factoring in the restriction for consecutive terms in {{term-length}}.
 
 ## Recruiting LLC Board Directors {#director-recruitment}
 
