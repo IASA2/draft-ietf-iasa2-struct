@@ -219,7 +219,7 @@ The appointment of a LLC Board-appointed Director requires a 2/3rd-majority vote
 
 ## Recruiting LLC Board Directors {#director-recruitment}
 
-The LLC Board itself, as well as the community as a whole, should take an active role in recruiting potential new Directors, regardless of the process that may be used to appoint them. In particular, the NomCom is primarily focused on considering requirements expressed by the Board and others, reviewing community feedback on candidates, conducting candidate interviews, and ultimately appointing Directors. The LLC Board and others can recruit potential Directors and get them into the consideration process of the NomCom or other appointing bodies.
+The LLC Board itself should take an active role in recruiting potential new Directors, regardless of the process that may be used to appoint them. In particular, the NomCom is primarily focused on considering requirements expressed by the Board and others, reviewing community feedback on candidates, conducting candidate interviews, and ultimately appointing Directors. The LLC Board and others can recruit potential Directors and get them into the consideration process of the NomCom or other appointing bodies.
 
 ## LLC Board Director Term Length {#term-length}
 
