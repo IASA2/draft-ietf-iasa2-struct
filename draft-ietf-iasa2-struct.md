@@ -187,11 +187,17 @@ The IETF currently benefits from the use of contractors for accounting, finance,
 The IETF has a long history of community involvement in the execution of certain administrative functions, in particular development of IETF tools, the NOC's operation of the meeting network, and some outreach and communications activities conducted by the EDU and Mentoring Directorate. The LLC staff would be expected to respect the IETF community's wishes about community involvement in these and other functions going forward as long as the staff feels that they can meet the otherwise-stated needs of the community. Establishing the framework to allow the LLC to staff each administrative function as appropriate may require the IETF community to document its consensus expectations in areas where no documentation currently exists (see {{transition-considerations}}).
 
 In summary, the LLC Executive Director, with support from the team that they alone direct and lead, will be responsible for:
+
 * Developing and refining an annual budget and other strategic financial planning documents at the direction of the LLC Board.
+
 * Executing on the annual budget, including reporting to the LLC Board regularly with forecasts and actual performance to budget.
+
 * Hiring and/or contracting the necessary resources to meet their goals, within the defined limits of their authority and within the approved budget. This includes managing and leading any such resources, including performing regular performance reviews.
+
 * Following the pre-approval guidelines set forth by the LLC Board for contracts or other decisions that have financial costs that exceed a certain threshold of significance. Such threshold will be set reasonably high so that the need for such approvals is infrequent and only occurs when something is truly significant or otherwise exceptional. It is important to ensure that the Executive Director is sufficiently empowered to perform their job on a day to day basis, being held accountable for meeting high level goals rather than micromanaged.
+
 * Regularly updating the LLC Board on operations and other notable issues as reasonable and appropriate.
+
 * Ensuring that all staff and/or other resources comply with any applicable policies established or approved by the LLC Board, such as ethics guidelines and/or a code of conduct.
 
 ## Board Design Goals {#board-design-goals}
@@ -208,8 +214,11 @@ Finally, the Board would be expected to operate transparently, to further addres
 There shall be a minimum of 5 directors, expandable to 6 or 7.
 
 * 1 IETF Chair or delegate selected by the IESG
+
 * 1 Appointed by the ISOC Board of Trustees
+
 * 3 Appointed by the IETF NomCom, confirmed by the IESG
+
 * Up to 2 Appointed by the LLC board itself, on an as needed basis, confirmed by the IESG
 
 ## LLC-Appointed Directors {#llc-directors}
@@ -254,8 +263,11 @@ An initial interim Board will be necessary in order to legally form and bootstra
 The interim Board shall be comprised of:
 
 * The IETF chair, ex officio
+
 * The IAOC chair, ex officio
+
 * The IAB chair, ex officio
+
 * One ISOC trustee, selected by the ISOC Board of Trustees
 
 ## First Full Board {#first-full-board}
@@ -263,7 +275,9 @@ The interim Board shall be comprised of:
 A minimum of five Directors must be seated in order for the Board to be constituted, and then the Interim Board will be dissolved. Accordingly, the following steps must take place to ensure that this occurs on a timely basis:
 
 * The IESG shall make their appointment no later than January 31, 2019.
+
 * ISOC shall make their appointment no later than January 31, 2019.
+
 * The NomCom shall make their appointments no later than March 22, 2019.
 
 If these bodies can make their appointments sooner, then by all means they should do so in order to enable the first full board to begin as soon as possible. This is particularly so for the NomCom. If the NomCom can make their appointments sooner, then the first full board could be constituted in time for IETF 104 (March 23-29, 2019).
@@ -335,18 +349,27 @@ When the LLC conducts fundraising, it will substantiate charitable contributions
 Conducting a transition as envisioned in this document will encompass many different work activities and will require action, involvement, support, and/or feedback from groups and individuals across the IETF community. The transition is likely to proceed in these steps but the community should remain flexible and adapt this plan as changes occur and complications inevitably arise.
 
 Phase 1: LLC Formation
+
 * The LLC is formed with an Interim Board (see {#interim-board}).
+
 * The IAOC continues to operate as usual, such as reviewing and approving the IETF's FY2019 budget.
+
 * The NomCom is given instructions by the IETF chair to not recruit for 2019 IAOC positions, and instead recruit for LLC Board Directors.
+
 * An update of all relevant RFCs is started, reflecting the change from IAOC to LLC.
 
 Phase 2: Transition from IAOC to LLC
+
 * The LLC's Interim Board and IAOC shall agree to a transition schedule to transition IAOC responsibilities one-by-one to the LLC.
+
 * This phase should optimally conclude prior to the expiration of IAOC member terms in 2019.
 
 Phase 3: Transition Complete
+
 * The first full board is seated (see {#first-full-board}).
+
 * All responsibilities of the IAOC have been assumed by the LLC.
+
 * The IAOC can then be shut down.
 
 ## Initial Tasks of the LLC Board
@@ -354,30 +377,47 @@ Phase 3: Transition Complete
 The initial tasks of the LLC Board should be prioritized according to legal necessity and relative importance. Below are suggested priorities to consider as and after the LLC is formed.
 
 High priority for the Interim Board:
+
 1 – Form the LLC legally
+
 2 – Setup a bank account so that funds can be moved over
+
 3 – Transfer all necessary contracts from ISOC/IAOC to the LLC
+
 4 – Establish & implement a process to pay any employees or contractors, as necessary
+
 5 - Agree to a transition schedule with the IAOC
+
 6 - Secure any necessary insurance such as Commercial General Liability and other appropriate insurance policies, with appropriate coverage limits
 
 Medium Priority for the Interim Board:
+
 1 – Create a job description for the IETF Executive Director
+
 2 - Initiate the process of beginning to search for an IETF Executive Director and/or outline a process to do so and defer it to the first full board, as appropriate
 
 Low Priority for the Interim Board / First Tasks of the Full Board:
+
 1 – Develop all necessary LLC policies
+
 2 – Develop all necesssary Board operating procedures and bylaws
+
 3 – Determine the employee benefits/salary framework and/or make associated staffing decisions
+
 4 – Interview and hire an IETF Executive Director (targeting 1H2019)
 
 The first full Board will also need to focus on the following tasks:
+
 * Selecting a chair and other positions as necessary
+
 * Define and document how the Board will fulfill its transparency obligations to the IETF community
+
 * Defining the "significant materiality threshold", above which the Board must approve any contracts, expenditures, or other commitments.
 
 Once the Executive Director and any additional staff are hired, it would be expected for LLC to:
+
 * Do a thorough review of existing contracts, community volunteer arrangements, and administrative assets to determine the need for initial changes.
+
 * Assess areas where the IETF community needs to document its consensus, e.g., expectations about community involvement in NOC or tools efforts.
 
 # 2-Year or 3-Year Assessment
