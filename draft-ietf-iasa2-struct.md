@@ -31,10 +31,11 @@ author:
     email: jason_livingood@comcast.com
 
 informative:
-  RFC7437:
+  BCP10:
   author: Murray Kucherawy
   date: 2015-07
-  target: https://tools.ietf.org/html/rfc7437
+  target: https://tools.ietf.org/html/bcp10
+ 
 
   ML-memo:
     title: Options for New Organization to Conduct IETF Administrative Support Activities
@@ -223,11 +224,11 @@ The LLC Board itself should take an active role in recruiting potential new Dire
 
 ## LLC Board Director Term Length {#term-length}
 
-The term length for a Director shall be three years in length. The exceptions to this guideline will be for the terms for some Directors during the first full formation of the LLC Board in order to establish staggered terms and for any appointments to fill a vacancy. The final exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s term length is governed instead by the term lengths established in RFC 7437, Section 3.4.
+The term length for a Director shall be three years in length. The exceptions to this guideline will be for the terms for some Directors during the first full formation of the LLC Board in order to establish staggered terms and for any appointments to fill a vacancy. The final exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s term length is governed instead by the term lengths established in {{BCP10}}, Section 3.4.
 
 ## LLC Board Director Limit {#term-limit}
 
-A director may serve no more than two consecutive terms, with at least one full term prior to the start of any additional terms. An exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s service is governed instead by the term lengths established in {{RFC7437}}, Section 3.4.
+A director may serve no more than two consecutive terms, with at least one full term prior to the start of any additional terms. An exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s service is governed instead by the term lengths established in {{BCP10}}, Section 3.4.
 
 An exception to the two consecutive term rule is for an LLC-appointed Director. For such a Director, they may serve only one term via this appointment method, after which any subsequent terms would be occur via other appointment processes (such as via the NomCom process).
 
@@ -240,11 +241,11 @@ ISOC, the IESG, the Nominating Committee, and the Board shall coordinate with ea
 
 ## LLC Board Director Removal {#director-removal}
 
-Directors may be removed with or without cause. A vote in favor of removal must be no fewer than the number of Directors less two. Directors may also be removed via the IETF recall process defined in {{RFC7437}}, Section 7. So for example, if there are seven directors, then five votes are required. Directors may also be removed via the IETF recall process defined in {{RFC7437}}, Section 7.
+Directors may be removed with or without cause. A vote in favor of removal must be no fewer than the number of Directors less two. Directors may also be removed via the IETF recall process defined in {{BCP10}}, Section 7. So for example, if there are seven directors, then five votes are required. Directors may also be removed via the IETF recall process defined in {{BCP10}}, Section 7.
 
 ## Filling a LLC Board Director Vacancy {#director-vacancy}
 
-It shall be the responsibility of each respective body that appointed a Director that vacates the Board to appoint a new Director to fill the vacancy. For example, if a Director appointed by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director.
+It shall be the responsibility of each respective body that appointed a Director that vacates the Board to appoint a new Director to fill the vacancy. For example, if a Director appointed by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom (using it's mid-term rules, as specified in {{RFC8318}}, Section 3.5) as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director.
 
 ## Interim Board {#interim-board}
 
