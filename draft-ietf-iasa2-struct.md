@@ -294,7 +294,7 @@ The Board shall develop policies as necessary to achieve the goals of the LLC, m
 
 The Board shall develop a Conflict of Interest policy for the LLC. While the details shall be determined by the Board, at a minimum such policy will include the following:
 
-* The IETF, ISOC, IAB, IRTF chair cannot be chair of this LLC Board.
+* The IETF, ISOC Board, IAB, or IRTF chair cannot be chair of this LLC Board.
 
 * A Director cannot be a paid consultant or employee of the Executive Director or their sub-contractors, nor a paid consultant or employee of ISOC.
 
