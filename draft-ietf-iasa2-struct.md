@@ -338,7 +338,7 @@ At all meetings of the Board, at least 2/3 of the Directors then in office shall
 
 # Board Voting {#voting}
 
-The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. Decisions on regular LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted.
+The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. The Board will make reasonable efforts to provide synchronous live consideration of any matter if requested by any Director. Decisions on regular LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted.
 
 # Fundraising Practices {#fundraising-practices}
 
