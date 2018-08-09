@@ -294,7 +294,9 @@ The Board shall develop policies as necessary to achieve the goals of the LLC, m
 
 The Board shall develop a Conflict of Interest policy for the LLC. While the details shall be determined by the Board, at a minimum such policy will include the following:
 
-* The IETF, ISOC Board, IAB, or IRTF chair cannot be chair of this LLC Board.
+* The IETF, ISOC Board, IAB, or IRTF chair cannot be chair of this LLC Board, though they may serve as a Director.
+
+* The ISOC chair cannot serve as a Director on this LLC Board.
 
 * A Director cannot be a paid consultant or employee of the Executive Director or their sub-contractors, nor a paid consultant or employee of ISOC.
 
@@ -338,7 +340,7 @@ At all meetings of the Board, at least 2/3 of the Directors then in office shall
 
 # Board Voting {#voting}
 
-The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. The Board will make reasonable efforts to provide synchronous live consideration of any matter if requested by any Director. Decisions on regular LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted.
+The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. Decisions on regular LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted.
 
 # Fundraising Practices {#fundraising-practices}
 
