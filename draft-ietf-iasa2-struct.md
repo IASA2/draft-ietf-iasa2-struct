@@ -296,8 +296,6 @@ The Board shall develop a Conflict of Interest policy for the LLC. While the det
 
 * The IETF, ISOC Board, IAB, or IRTF chair cannot be chair of this LLC Board, though they may serve as a Director.
 
-* The ISOC chair cannot serve as a Director on this LLC Board.
-
 * A Director cannot be a paid consultant or employee of the Executive Director or their sub-contractors, nor a paid consultant or employee of ISOC.
 
 ## Other Policies {#other-policies}
