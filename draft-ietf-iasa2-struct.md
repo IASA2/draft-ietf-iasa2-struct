@@ -254,7 +254,7 @@ Directors may be removed with or without cause. A vote in favor of removal must 
 
 ## Filling a LLC Board Director Vacancy {#director-vacancy}
 
-It shall be the responsibility of each respective body that appointed or selected a Director that vacates the Board to appoint a new Director to fill the vacancy. For example, if a Director selected by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom (using it's mid-term rules, as specified in {{RFC8318}}, Section 3.5) as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director.
+It shall be the responsibility of each respective body that appointed or selected a Director that vacates the Board to appoint a new Director to fill the vacancy. However this obligation will not apply to vacancies in Board-appointed positions. For example, if a Director selected by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom (using it's mid-term rules, as specified in {{RFC8318}}, Section 3.5) as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director. 
 
 ## Interim Board {#interim-board}
 
