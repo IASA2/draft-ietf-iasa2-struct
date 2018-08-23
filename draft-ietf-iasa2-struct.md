@@ -121,7 +121,7 @@ In addition, by having the LLC manage the IETF's finances and conduct the IETF's
 
 The LLC will be expected to conduct its work according to the following proposed principles:
 
-* Transparency. The LLC will keep the IETF community informed about its work and will engage with the community to obtain consensus-based community input on key issues and otherwise as needed. As discusses in {{ietf101-slides}}, whatever doesn't have a specific justification for being kept confidential, should be made public. There must exist a public list of confidential items, describing the nature of the information and the reason for confidentiality.
+* Transparency. The LLC will keep the IETF community informed about its work and will engage with the community to obtain consensus-based community input on key issues and otherwise as needed. As discussed in {{ietf101-slides}}, whatever doesn't have a specific justification for being kept confidential, should be made public. There must exist a public list of confidential items, describing the nature of the information and the reason for confidentiality.
 
 * Responsiveness to the community. The LLC will act consistently with the documented consensus of the IETF community, to be responsive to the community's needs, and adapt its decisions in response to consensus-based community feedback.
 
@@ -143,7 +143,7 @@ The LLC Board will be responsible for conducting oversight of LLC's execution of
 
 * exercising a fiduciary duty to ensure that LLC has the financial and business stability that it needs to be able to meet the needs of the IETF, including adopting an annual budget, and as necessary incurring any debt or making other financial arrangements;
 
-* approving or entering into agreements that that meet a significant materiality threshold;
+* approving or entering into agreements that meet a significant materiality threshold;
 
 * exercising a legal duty to ensure that the LLC complies with any applicable tax and other laws;
 
@@ -347,7 +347,7 @@ Conducting a transition as envisioned in this document will encompass many diffe
 
 Phase 1: LLC Formation
 
-* The LLC is formed with an Interim Board (see {#interim-board}).
+* The LLC is formed with an Interim Board (see {{interim-board}}).
 
 * The IAOC continues to operate as usual, such as reviewing and approving the IETF's FY2019 budget.
 
@@ -363,7 +363,7 @@ Phase 2: Transition from IAOC to LLC
 
 Phase 3: Transition Complete
 
-* The first full board is seated (see {#first-full-board}).
+* The first full board is seated (see {{first-full-board}}).
 
 * All responsibilities of the IAOC have been assumed by the LLC.
 
