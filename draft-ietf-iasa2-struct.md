@@ -155,7 +155,7 @@ The Board will be an oversight body, with responsibilities limited to those list
 
 The role of the LLC Board will be to ensure that the strategy and conduct of LLC is consistent with the IETF's needs -- both its concrete needs and its needs for transparency and accountability.  The Board is not intended to directly define the IETF's needs; to the extent that is required, the IETF community should document its needs in consensus-based RFCs (e.g., as the community is aiming to do in {{?I-D.ietf-mtgvenue-iaoc-venue-selection-process}}) and provide more detailed input via consultations with the LLC Board (such as takes place on email discussion lists or at IETF meetings).
 
-As part of the responsibilities outlined above, some of which is outlined further in (TODO: reference board-policies document) the Board shall work to ensure that LLC will:
+As part of the responsibilities outlined above the Board shall work to ensure that LLC will:
 
 * Act consistently with ISOC’s 501(c)(3) status;
 
