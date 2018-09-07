@@ -1,6 +1,6 @@
 ---
 
-title: Proposed Structure of the IETF Administrative Support Activity (IASA), Version 2.0
+title: Record of Proposed Structure of the IETF Administrative Support Activity (IASA), Version 2.0
 abbrev: IASA 2.0
 docname: draft-ietf-iasa2-struct-latest
 category: info
@@ -59,7 +59,7 @@ informative:
 
 --- abstract
 
-The IETF Administrative Support Activity (IASA) was originally established in 2005.  In the 13 years from 2005 to 2018, the needs of the IETF have evolved in ways that require changes to its administrative structure.  The purpose of this document is to outline a proposed new "IASA 2.0" structure. The proposal is for the work of the IETF's administrative and fundraising tasks to be conducted by a new administrative organization, the IETF Administration Limited Liability Company ("LLC"). Under the proposal, the Internet Administrative Oversight Committee (IAOC) will be eliminated, and its oversight and advising functions transferred to the new LLC Board.
+The IETF Administrative Support Activity (IASA) was originally established in 2005.  In the 13 years from 2005 to 2018, the needs of the IETF have evolved in ways that require changes to its administrative structure.  The purpose of this document is to outline a proposed new "IASA 2.0" structure and to document the decisions made by the IASA2 Working Group over the past 20 months in developing the proposed structure. The proposal is for the work of the IETF's administrative and fundraising tasks to be conducted by a new administrative organization, the IETF Administration Limited Liability Company ("LLC"). Under the proposal, the Internet Administrative Oversight Committee (IAOC) will be eliminated, and its oversight and advising functions transferred to the new LLC Board.
 
 --- middle
 
