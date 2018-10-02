@@ -1,6 +1,6 @@
 ---
 
-title: Record of Proposed Structure of the IETF Administrative Support Activity (IASA), Version 2.0
+title: Structure of the IETF Administrative Support Activity (IASA), Version 2.0
 abbrev: IASA 2.0
 docname: draft-ietf-iasa2-struct-latest
 category: info
