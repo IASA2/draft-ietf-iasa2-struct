@@ -244,7 +244,7 @@ Lastly, partial terms of less than three years for the initial appointments to t
 The limit on consecutive terms supports the healthy regular introduction of new ideas and energy into the Board and mitigates potential long-term risk of ossification or conflict, without adversely impacting the potential pool of director candidates over time.
 
 ## Staggered Terms {#staggered-terms}
-ISOC, the IESG, the Nominating Committee, and the Board shall coordinate with each other to ensure that collectively their appointment or selection processes provide for no more than three Directors’ terms concluding in the same year.
+ISOC, the IESG, the Nominations Committee, and the Board shall coordinate with each other to ensure that collectively their appointment or selection processes provide for no more than three Directors’ terms concluding in the same year.
 
 ## LLC Board Director Removal {#director-removal}
 
