@@ -34,6 +34,7 @@ author:
 informative:
   RFC7437:
   RFC8318:
+  RFC2026:
 
   ML-memo:
     title: Options for New Organization to Conduct IETF Administrative Support Activities
@@ -175,6 +176,7 @@ The description below outlines the composition of the LLC Board, selection of LL
 ## IETF Executive Director and Staff Responsibilities {#staff-responsibilities}
 
 The LLC shall be led by an IETF Executive Director chosen by the Board. The IETF Executive Director will be responsible for managing the day-to-day operations of the LLC, including hiring staff to perform various operational functions. The IETF Executive Director and any staff may be employees or independent contractors.
+(Note: The is the Executive Director of the IETF LLC, not the "IETF Executive Director" mentioned in some older documents (e.g., {{RFC2026}}).)
 
 Allowing for the division of responsibilities among multiple staff members and contractors should hopefully address some of the concerns raised in Section 3.2 (Lack of Resources) and Section 3.4 (Funding/Operating Model Mismatch and Rising Costs) of {{?I-D.haberman-iasa20dt-recs}}.
 
