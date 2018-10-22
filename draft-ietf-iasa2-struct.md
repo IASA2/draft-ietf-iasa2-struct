@@ -131,6 +131,21 @@ The LLC will be expected to conduct its work according to the following proposed
 
 The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA 2.0 process, with little to no dissent.  It was recognized that there will naturally be a confidentiality requirement about some aspects of hotel contracting, personnel matters, and other narrow areas.
 
+## Community Consensus and Grant of Authority
+
+The IETF is a consensus-based group, and authority to act on behalf of
+the community requires a high degree of consensus and the continued
+consent of the community.  After a careful process of deliberation, a
+broad-based community consensus emerged to house the IETF
+Administrative Support Activity, version 2.0 (IASA2) within the Internet Society.
+This document reflects that consensus.
+
+##  Termination and Change
+
+Any change to this agreement shall require a similar level of
+community consensus and deliberation and shall be reflected by a
+subsequent Best Current Practice (BCP) document.
+
 ## LLC Board Responsibilities {#board-responsibilities}
 
 The LLC Board will be responsible for conducting oversight of LLC's execution of its responsibilities, as described in {{llc-responsibilities}}.  They have duties of loyalty, care, and good faith. This includes the responsibility to:
