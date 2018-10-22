@@ -4,7 +4,7 @@ title: Structure of the IETF Administrative Support Activity (IASA), Version 2.0
 abbrev: IASA 2.0
 docname: draft-ietf-iasa2-struct-latest
 category: bcp
-obsoletes: RFC4071, RFC4333, RFC 7691
+obsoletes: RFC4071, RFC4333, RFC7691
 
 ipr: trust200902
 area: General
