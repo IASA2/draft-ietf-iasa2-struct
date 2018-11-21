@@ -36,6 +36,13 @@ informative:
   RFC8318:
   RFC2026:
 
+  IETF-LLC-OA:
+    title: Limited Liability Company Agreement of IETF Administration LLC
+    author:
+      org: The Internet Society
+    date: 2018-08
+    target: https://www.ietf.org/documents/180/IETF-LLC-Agreement.pdf
+
   ML-memo:
     title: Options for New Organization to Conduct IETF Administrative Support Activities
     author:
@@ -96,14 +103,13 @@ established in 2005.  In the years since 2005, the needs of
 the IETF have evolved in ways that require changes to its
 administrative structure.  The purpose of this document is to document
 and describe
-a proposed new "IASA2" structure. The work of
+a new "IASA2" structure. The work of
 the IETF's administrative and fundraising tasks will be conducted by a
 new administrative organization, the IETF Administration Limited
 Liability Company ("LLC"). Under the proposal, the Internet
 Administrative Oversight Committee (IAOC) will be eliminated, and its
 oversight and advising functions transferred to the new LLC
-Board. This document describes all of the details involved in the
-proposal.
+Board. 
 
 {{?I-D.haberman-iasa20dt-recs}} discusses the challenges facing the
 current structure as well as several options for reorganizing the
@@ -112,31 +118,33 @@ outlines how such an organization will be structured and describes how
 the organization will fit together with existing and new IETF
 community structures.
 
-This document outlines the high level details of the planned "IASA2"
-arrangement, some of which are dependent on the choice of legal
-structure. The point of the IASA2 WG and process has been to solicit community
+The point of the IASA2 WG and process has been to solicit community
 input about how to address the challenges identified in
 {{?I-D.haberman-iasa20dt-recs}}, and included much debate on the IASA2
 mailing list and the IASA2 working group meetings at IETF 101
-{{ietf101-slides}} and IETF 102 {{ietf102-slides}}. This document replaces
+{{ietf101-slides}} and IETF 102 {{ietf102-slides}}.
+
+This document obsoletes
 RFC 4071 (BCP 101) and
-RFC 4371 [TODO: I believe Jari's trust draft may obsolete 4371? -JLH],
+RFC 4371 (TODO: Jari's latest trust draft (draft-ietf-iasa2-trust-update-02)
+only updates 4371 and does not obsolete it. If we are going to say here that
+this 4071bis is going to obsolete 4371 I suspect there is text we will need in this document that is in 4371 but not in Jari's Trust draft. -JLH),
 which are of course based on IETF community input and the
 work in the IASA2 working group.
 
 IASA2 transfers most of the
 responsibilities that RFC 4071 currently assigns to the IETF
 Administrative Director (IAD) and Internet Society (ISOC) to the newly
-created IETF LLC and corresponding IETF Administraion LLC Executive
-Director (IETF Executive Director). The IAOC will be eliminated, and
-its oversight and
-advising functions transferred to the LLC Board. It will be the job of
+created IETF LLC and corresponding IETF Administration LLC Executive
+Director (IETF Executive Director).
+It will be the job of
 LLC to meet the administrative needs of the IETF and ensure that LLC
 and IASA2 meet the needs of the IETF community.
 
 Eliminating the IAOC means that there will need to be another way for
 trustees to be appointed for the IETF Trust. The details of how this
-is done is outside the scope of this document.
+is done is outside the scope of this document but covered in
+{{?I-D.ietf-iasa2-trust-update}}.
 
 # Scope Limitation
 
@@ -146,12 +154,14 @@ by the Internet Engineering Steering Group (IESG) and Internet
 Architecture Board (IAB), the appeals chain, the process for making
 and confirming IETF and IAB appointments, the IETF Nominating
 Committee (NomCom), the Internet Research Task Force (IRTF), or ISOC's
-memberships in or support of other organizations.
+memberships in or support of other organizations. (TODO: explicitly mention
+liasion relationships? -JLH)
 
 ## Operating Agreement with the Internet Society
 
-The Operating Agreement (OA) between the IETF LLC and ISOC is also out
-of scope for this document, however this document depends heavily on
+The Operating Agreement (OA) between the IETF LLC and ISOC {{IETF-LLC-OA}}
+is also out
+of scope for this document, however this document depends on
 the OA and will refer to it for certain aspects of the legal
 relationship between the IETF LLC and ISOC. The OA was developed
 between legal representatives of the IETF and ISOC and includes all
@@ -164,22 +174,28 @@ documents that fill gaps.
 
 # Definitions and Principles
 
+(TODO: Do we want an "alphabet soup" section of abbreviations
+explained here like in 2.1 of 4071? We might then standardize as IED =
+IETF LLC Executive Director, for example, to replace the use of
+IAD. -JLH)
 
 ## Key Differences from the old IASA Structure
 
 * The IAOC and IAD roles defined in RFC 4071 are eliminated.
 
-* The ISOC and IAD responsibilities described in RFC 4071 are assigned to a new organization, IETF Administration LLC.
+* The former ISOC and IAD responsibilities are assigned to a new
+  organization, IETF Administration LLC.
 
 * The Board of Directors of the LLC -- formally a multi-member "manager" of the LLC on behalf of ISOC -- will assume the oversight responsibilities of the IAOC.
 
 * The Board of the LLC shall be more focused on strategy and oversight, with the IETF Executive Director and their team in charge of day-to-day operations.
 
+* The IAD role is now "IETF Executive Director" as they are the
+  executive director of the IETF Administration LLC.
+
 * The role that was previously referred to as "IETF Executive
   Director" in older documents such as {{RFC2026}} is now "Managing
   Director, IETF Secretariat".
-
-* The IAD role is now "IETF LLC Executive Director".
 
 ## General LLC Responsibilities {#llc-responsibilities}
 
@@ -195,7 +211,13 @@ The proposed responsibilities of the LLC are:
 
 * Compliance. The LLC is responsible for establishing and enforcing policies to ensure compliance with applicable laws, regulations, and rules.
 
-The manner by which these responsibilities under the LLC are organized is intended to address the problems described in Sections 3.1.1., 3.1.2, and 3.1.3 of {{?I-D.haberman-iasa20dt-recs}}. Specifically, this is intended to bring greater clarity around roles, responsibilities, representation, decision-making, and authority.
+The manner by which these responsibilities under the LLC are organized
+is intended to address the problems described in Sections 3.1.1.,
+3.1.2, and 3.1.3 of {{?I-D.haberman-iasa20dt-recs}}. (TODO: we cite
+draft-haberman a few times... does it need to be an appendix or
+something more formal for a BCP to cite to it?)  Specifically, this is
+intended to bring greater clarity around roles, responsibilities,
+representation, decision-making, and authority.
 
 In addition, by having the LLC manage the IETF's finances and conduct the IETF's fundraising, confusion about who is responsible for representing the IETF to sponsors and who directs the uses of sponsorship funds will be eliminated. Finally, having the LLC reside in a defined, distinct legal entity, and taking responsibility for operations, will enable the organization to execute its own contracts without the need for review and approval by ISOC.
 
@@ -216,21 +238,6 @@ The transparency and responsiveness principles are designed to address the conce
 (TODO: This can point to the new ISOC-IETF Relationship doc in process
 w/Gonzalo (to be published soon in -00).)
 
-## Community Consensus and Grant of Authority
-
-The IETF is a consensus-based group, and authority to act on behalf of
-the community requires a high degree of consensus and the continued
-consent of the community.  After a careful process of deliberation, a
-broad-based community consensus emerged to house the IETF
-Administrative Support Activity, version 2 (IASA2) within the Internet Society.
-This document reflects that consensus.
-
-##  Termination and Change
-
-Any change to this agreement shall require a similar level of
-community consensus and deliberation and shall be reflected by a
-subsequent Best Current Practice (BCP) document.
-
 ## Relationship of the LLC Board to Existing IETF Leadership
 
 The LLC Board is directly accountable to the IETF community for the
@@ -247,8 +254,11 @@ LLC Board cannot achieve a consensus decision, then the LLC Board may
 decide by voting.
 
 The LLC Board decides the details about its decision-making rules,
-including its rules for quorum, conflict of interest, and breaking of
-ties.  These rules shall be made public.
+including its rules for quorum (see {{quorum}}), conflict of interest
+(see {{conflict-of-interest}}), and breaking of ties. (JLH: I don't
+think we have anyting about breaking of ties as the voting mechanism
+is 2/3. Am I missing something? -JLH) These rules shall be made
+public.
 
 All LLC Board decisions shall be recorded in LLC Board minutes, and
 LLC Board minutes shall be published in a timely fashion.
@@ -286,8 +296,8 @@ to his or her review request, he or she may escalate the issue by
 appealing the decision or action to the IAB, using the appeals
 procedures outlined in {{RFC2026}}.  If he or she is not satisfied
 with the IAB response, he or she can escalate the issue to the ISOC
-Board of Trustees, as described in {{RFC2026}}. [TODO: is the escalation
-to the ISOC BoT still relevant? -JLH]
+Board of Trustees, as described in {{RFC2026}}. (TODO: is the escalation
+to the ISOC BoT still relevant? -JLH)
 
 The reviewing body (the IAB or ISOC Board of Trustees) shall review
 the decision of the IETF Executive Director or LLC Board to determine whether it was made in
@@ -309,13 +319,28 @@ binding contract or overturn a personnel-related action (such as
 hiring, firing, promotion, demotion, performance reviews, salary
 adjustments, etc.).
 
+## Community Consensus and Grant of Authority
+
+The IETF is a consensus-based group, and authority to act on behalf of
+the community requires a high degree of consensus and the continued
+consent of the community.  After a careful process of deliberation, a
+broad-based community consensus emerged to house the IETF
+Administrative Support Activity, version 2 (IASA2) within the Internet Society.
+This document reflects that consensus.
+
+##  Termination and Change
+
+Any change to this agreement shall require a similar level of
+community consensus and deliberation and shall be reflected by a
+subsequent Best Current Practice (BCP) document.
+
 
 # Structure of the IASA2
 
 ## IETF Executive Director and Staff Responsibilities {#staff-responsibilities}
 
 The LLC shall be led by an IETF Executive Director chosen by the Board. The IETF Executive Director will be responsible for managing the day-to-day operations of the LLC, including hiring staff to perform various operational functions. The IETF Executive Director and any staff may be employees or independent contractors.
-(Note: The is the Executive Director of the IETF LLC, not the "IETF Executive Director" mentioned in some older documents (e.g., {{RFC2026}}).)
+(Note: The is the Executive Director of the IETF LLC, not the "IETF Executive Director" mentioned in some older documents (e.g., {{RFC2026}}), which is now known as the Managing Director of the IETF Secretariat.)
 
 Allowing for the division of responsibilities among multiple staff members and contractors should hopefully address some of the concerns raised in Section 3.2 (Lack of Resources) and Section 3.4 (Funding/Operating Model Mismatch and Rising Costs) of {{?I-D.haberman-iasa20dt-recs}}.
 
@@ -362,7 +387,7 @@ The LLC Board will be responsible for conducting oversight of LLC's execution of
 
 * recruit new Directors, for consideration in all of the various appointment processes.
 
-The Board will be an oversight body, with responsibilities limited to those listed above. It will not directly conduct any of the IETF's administrative work, which is the day-to-day job of the IETF Executive Director at their team.
+The LLC Board will be an oversight body, with responsibilities limited to those listed above. It will not directly conduct any of the IETF's administrative work, which is the day-to-day job of the IETF Executive Director and their team.
 
 The role of the LLC Board will be to ensure that the strategy and conduct of LLC is consistent with the IETF's needs -- both its concrete needs and its needs for transparency and accountability.  The Board is not intended to directly define the IETF's needs; to the extent that is required, the IETF community should document its needs in consensus-based RFCs (e.g., as the community is aiming to do in {{?I-D.ietf-mtgvenue-iaoc-venue-selection-process}}) and provide more detailed input via consultations with the LLC Board (such as takes place on email discussion lists or at IETF meetings).
 
@@ -385,11 +410,11 @@ The description below outlines the composition of the LLC Board, selection of LL
 
 ## Board Design Goals {#board-design-goals}
 
-A goal of this proposed Board composition is to balance the need for the LLC to be accountable to the IETF community with the need for this Board to have the expertise necessary to oversee a small non-profit corporation. The Board is smaller than the current IAOC and the other leadership bodies of the IETF, in part to keep the Board focused on its rather limited set of strategic responsibilities as noted in {{board-responsibilities}}.
+A goal of this proposed Board composition is to balance the need for the LLC to be accountable to the IETF community with the need for this Board to have the expertise necessary to oversee a small non-profit corporation. The Board is smaller than the previous IAOC and the other leadership bodies of the IETF, in part to keep the Board focused on its rather limited set of strategic responsibilities as noted in {{board-responsibilities}}.
 
-This board structure, with limited strategic responsibilities noted in {{board-responsibilities}} and limited size, together with the staff responsibilities noted in {{staff-responsibilities}}, is designed to overcome the challenges described in Section 3.1.4 of {{?I-D.haberman-iasa20dt-recs}} concerning oversight. This establishes a clear line of oversight over staff performance: the Board oversees the IETF Executive Director's performance and has actual legal authority to remove a non-performing IETF Executive Director. The IETF Executive Director is responsible for the day-to-day operation of the LLC.
+This board structure, with limited strategic responsibilities noted in {{board-responsibilities}} and limited size, together with the staff responsibilities noted in {{staff-responsibilities}}, is designed to overcome the challenges described in Section 3.1.4 of {{?I-D.haberman-iasa20dt-recs}} concerning oversight. This establishes a clear line of oversight over staff performance: the LLC Board oversees the IETF Executive Director's performance and has actual legal authority to remove a non-performing IETF Executive Director. The IETF Executive Director is responsible for the day-to-day operation of the LLC.
 
-Finally, the Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA2 design process is detailed above in in {{principles}}. The Board will need to establish how it will meet that commitment.
+Finally, the LLC Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA2 design process is detailed above in in {{principles}}. The Board will need to establish how it will meet that commitment.
 
 
 # LLC Board Membership, Selection and Accountability
@@ -443,11 +468,19 @@ ISOC, the IESG, the Nominating Committee, and the Board shall coordinate with ea
 
 ## LLC Board Director Removal {#director-removal}
 
-Directors may be removed with or without cause. A vote in favor of removal must be no fewer than the number of Directors less two. Directors may also be removed via the IETF recall process defined in {{RFC7437}} (BCP10), Section 7. So for example, if there are seven directors, then five votes are required. Directors may also be removed via the IETF recall process defined in {{RFC7437}} (BCP10), Section 7.
+Directors may be removed with or without cause. A vote in favor of removal must be no fewer than the number of Directors less two.  So for example, if there are seven directors, then five votes are required. Directors may also be removed via the IETF recall process defined in {{RFC7437}} (BCP10), Section 7.
 
 ## Filling a LLC Board Director Vacancy {#director-vacancy}
 
-It shall be the responsibility of each respective body that appointed or selected a Director that vacates the Board to appoint a new Director to fill the vacancy. However this obligation will not apply to vacancies in Board-appointed positions. For example, if a Director selected by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom (using it's mid-term rules, as specified in {{RFC8318}}, Section 3.5) as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director. 
+It shall be the responsibility of each respective body that appointed or selected a Director that vacates the Board to appoint a new Director to fill the vacancy.  For example, if a Director selected by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom (using its mid-term rules, as specified in {{RFC8318}}, Section 3.5) as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director.  However, this obligation will not apply to vacancies in Board-appointed positions. 
+
+## Quorum {#quorum}
+
+At all meetings of the Board, at least 2/3 of the Directors then in office shall constitute a quorum for the transaction of business. If a quorum shall not be present at any meeting of the Board, the Directors present thereat may adjourn the meeting without notice other than announcement at the meeting, until a quorum shall be present.
+
+## Board Voting {#voting}
+
+The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. Decisions on regular LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted.
 
 ## Interim Board {#interim-board}
 
@@ -525,14 +558,6 @@ The LLC shall develop and implement a compliance program to ensure its complianc
 
 The LLC shall report to ISOC on the implementation of its compliance plan on an annual basis.
 
-# Quorum {#quorum}
-
-At all meetings of the Board, at least 2/3 of the Directors then in office shall constitute a quorum for the transaction of business. If a quorum shall not be present at any meeting of the Board, the Directors present thereat may adjourn the meeting without notice other than announcement at the meeting, until a quorum shall be present.
-
-# Board Voting {#voting}
-
-The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. Decisions on regular LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted.
-
 # Fundraising Practices {#fundraising-practices}
 
 When the LLC conducts fundraising, it will substantiate charitable contributions on behalf of ISOC. The LLC will evaluate and facilitate state, federal, and other applicable law and regulatory compliance for ISOC and/or the LLC with respect to such fundraising activities. In addition, the LLC shall ensure that all fundraising activities are conducted in compliance with any policies developed by the LLC, including but not limited to those noted in {{llc-policies}}.
@@ -597,7 +622,8 @@ First Tasks of the Full Board:
 
 3 – Determine the employee benefits/salary framework and/or make associated staffing decisions
 
-4 - Interview and hire an IETF Executive Director (targeting 1H2019)
+4 - Interview and hire an IETF Executive Director (targeting the first
+half of 2019)
 
 5 - Select a chair and other positions as necessary
 
@@ -613,7 +639,7 @@ Once the IETF Executive Director and any additional staff are hired, it would be
 
 # Three-Year Assessment
 
-The LLC, with the involvement of the community, shall conduct and complete an assessment of the structure, processes, and operation of the IASA and LLC. This should be presented to the community after a period of roughly three years of operation. The assessment may potentially include recommendations for improvements or changes in the IASA and/or LLC.
+The LLC, with the involvement of the community, shall conduct and complete an assessment of the structure, processes, and operation of the IASA2 and LLC. This should be presented to the community after a period of roughly three years of operation. The assessment may potentially include recommendations for improvements or changes in the IASA2 and/or LLC.
 
 # Acknowledgments
 
