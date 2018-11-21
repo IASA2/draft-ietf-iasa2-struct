@@ -65,20 +65,25 @@ The IETF Administrative Support Activity (IASA) was originally
 established in 2005.  In the years since that time, the needs of the
 IETF have evolved in ways that require changes to its administrative
 structure.  The purpose of this document is to describe the structure
-of a new "IASA2" and to document the decisions made by the IASA2
-Working Group since May 2017 in developing the proposed structure.
+of a new "IASA2" and to document the decisions made by the IETF community
+since the IETF Chair announced the IASA2 project in November of 2016 and
+the work of the resulting IASA2 Working Group.
 
 In IASA2, IETF's administrative and fundraising tasks are conducted by
 a new administrative organization, the IETF Administration Limited
-Liability Company ("LLC"), a disregarded LLC of the Internet Society
+Liability Company (LLC), a disregarded LLC of the Internet Society
 (ISOC). Under the proposal, the Internet Administrative Oversight
-Committee (IAOC) will be eliminated, and its oversight and advising
-functions transferred to the new LLC Board.
+Committee (IAOC) and the IETF Administrative Director (IAD) will be
+eliminated, and the corresponding oversight and administrative
+functions transferred to the new IETF Administration LLC Board of
+Directors (LLC
+Board) and the IETF LLC Executive Director (IETF Executive Director),
+respectively.
 
 This document describes the structure of the IETF Administrative
-Support Activity, version 2.0 (IASA2).  It defines the roles and
-responsibilities of the LLC Board, the IETF Administration LLC
-Executive Director ("IETF Executive Director"), and ISOC in the fiscal
+Support Activity, version 2 (IASA2).  It defines the roles and
+responsibilities of the LLC Board, the IETF 
+Executive Director, and ISOC in the fiscal
 and administrative support of the IETF standards process.  It also
 defines the membership and selection rules for the LLC Board.
 
@@ -120,7 +125,7 @@ which are of course based on IETF community input and the
 work in the IASA2 working group.
 
 IASA2 transfers most of the
-responsibilities that RFC 4071 currently assigns to the Internet
+responsibilities that RFC 4071 currently assigns to the IETF
 Administrative Director (IAD) and Internet Society (ISOC) to the newly
 created IETF LLC and corresponding IETF Administraion LLC Executive
 Director (IETF Executive Director). The IAOC will be eliminated, and
@@ -401,6 +406,13 @@ There shall be a minimum of 5 directors, expandable to 6 or 7.
 * 3 Selected by the IETF NomCom, confirmed by the IESG
 
 * Up to 2 Appointed by the LLC board itself, on an as needed basis, confirmed by the IESG
+
+For the first slot listed above, the presumption is that the IETF
+Chair will serve on the board. At the IESG's discretion, another area
+director may serve instead, or exceptionally the IESG may run a
+selection process to appoint a director. The goal of having this slot
+on the board is to maintain coordination and communication between the
+board and the IESG.
 
 ## LLC-Appointed Directors {#llc-directors}
 
