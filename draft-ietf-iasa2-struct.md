@@ -1,7 +1,7 @@
 ---
 
 title: Structure of the IETF Administrative Support Activity, Version 2.0
-abbrev: IASA 2.0
+abbrev: IASA2
 docname: draft-ietf-iasa2-struct-latest
 category: bcp
 obsoletes: RFC4071, RFC4333, RFC7691
@@ -61,7 +61,26 @@ informative:
 
 --- abstract
 
-The IETF Administrative Support Activity (IASA) was originally established in 2005.  In the 13 years from 2005 to 2018, the needs of the IETF have evolved in ways that require changes to its administrative structure.  The purpose of this document is to outline a proposed new "IASA 2.0" structure and to document the decisions made by the IASA2 Working Group over the past 20 months in developing the proposed structure. The proposal is for the work of the IETF's administrative and fundraising tasks to be conducted by a new administrative organization, the IETF Administration Limited Liability Company ("LLC"). Under the proposal, the Internet Administrative Oversight Committee (IAOC) will be eliminated, and its oversight and advising functions transferred to the new LLC Board.
+The IETF Administrative Support Activity (IASA) was originally
+established in 2005.  In the years since that time, the needs of the
+IETF have evolved in ways that require changes to its administrative
+structure.  The purpose of this document is to describe the structure
+of a new "IASA2" and to document the decisions made by the IASA2
+Working Group since May 2017 in developing the proposed structure.
+
+In IASA2, IETF's administrative and fundraising tasks are conducted by
+a new administrative organization, the IETF Administration Limited
+Liability Company ("LLC"), a disregarded LLC of the Internet Society
+(ISOC). Under the proposal, the Internet Administrative Oversight
+Committee (IAOC) will be eliminated, and its oversight and advising
+functions transferred to the new LLC Board.
+
+This document describes the structure of the IETF Administrative
+Support Activity, version 2.0 (IASA2).  It defines the roles and
+responsibilities of the LLC Board, the IETF Administration LLC
+Executive Director ("IETF Executive Director"), and ISOC in the fiscal
+and administrative support of the IETF standards process.  It also
+defines the membership and selection rules for the LLC Board.
 
 --- middle
 
