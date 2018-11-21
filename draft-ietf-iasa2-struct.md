@@ -144,7 +144,7 @@ If the community decides to make changes to its administrative process along the
 The Operating Agreement (OA) is also out of scope for this document. The OA is being developed between the IETF and ISOC and is expected to include all critical terms, while still enabling maximum unilateral flexibility for the LLC Board. Thus, it is anticipated that the OA will include only basic details about how the Board manages itself or manages LLC staff, so that the LLC Board has flexibility to make changes without amending the OA. The LLC Board can independently develop policy or procedures documents that fill gaps.
 
 
-# Key Differences from the IASA 1.0 Structure
+# Key Differences from the old IASA Structure
 
 * The IAOC and IAD roles defined in RFC 4071 are eliminated.
 
@@ -185,7 +185,7 @@ The LLC will be expected to conduct its work according to the following proposed
 
 * Diligence. The LLC will act responsibly so as to minimize risks to IETF participants and to the future of the IETF as a whole, such as financial risks.
 
-The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA 2.0 process, with little to no dissent.  It was recognized that there will naturally be a confidentiality requirement about some aspects of hotel contracting, personnel matters, and other narrow areas.
+The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA2 process, with little to no dissent.  It was recognized that there will naturally be a confidentiality requirement about some aspects of hotel contracting, personnel matters, and other narrow areas.
 
 ## Principles of the IASA, IETF, and ISOC Relationship
 
@@ -198,7 +198,7 @@ The IETF is a consensus-based group, and authority to act on behalf of
 the community requires a high degree of consensus and the continued
 consent of the community.  After a careful process of deliberation, a
 broad-based community consensus emerged to house the IETF
-Administrative Support Activity, version 2.0 (IASA2) within the Internet Society.
+Administrative Support Activity, version 2 (IASA2) within the Internet Society.
 This document reflects that consensus.
 
 ##  Termination and Change
@@ -282,7 +282,7 @@ A goal of this proposed Board composition is to balance the need for the LLC to 
 
 This board structure, with limited strategic responsibilities noted in {{board-responsibilities}} and limited size, together with the staff responsibilities noted in {{staff-responsibilities}}, is designed to overcome the challenges described in Section 3.1.4 of {{?I-D.haberman-iasa20dt-recs}} concerning oversight. This establishes a clear line of oversight over staff performance: the Board oversees the IETF Executive Director's performance and has actual legal authority to remove a non-performing IETF Executive Director. The IETF Executive Director is responsible for the day-to-day operation of the LLC.
 
-Finally, the Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA 2.0 design process is detailed above in in {{principles}}. The Board will need to establish how it will meet that commitment.
+Finally, the Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA2 design process is detailed above in in {{principles}}. The Board will need to establish how it will meet that commitment.
 
 
 ## Board Composition {#board-composition}
@@ -500,4 +500,4 @@ The LLC, with the involvement of the community, shall conduct and complete an as
 
 # Acknowledgments
 
-Thanks to Jari Arkko, Richard Barnes, Alissa Cooper, Sean Turner and the IASA 2.0 Working Group for discussions of possible structures, and to the attorneys of Morgan Lewis and Brad Biddle for legal advice.
+Thanks to Jari Arkko, Richard Barnes, Alissa Cooper, Sean Turner and the IASA2 Working Group for discussions of possible structures, and to the attorneys of Morgan Lewis and Brad Biddle for legal advice.
