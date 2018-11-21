@@ -1,6 +1,6 @@
 ---
 
-title: Structure of the IETF Administrative Support Activity (IASA), Version 2.0
+title: Structure of the IETF Administrative Support Activity, Version 2.0
 abbrev: IASA 2.0
 docname: draft-ietf-iasa2-struct-latest
 category: bcp
@@ -130,6 +130,11 @@ The LLC will be expected to conduct its work according to the following proposed
 * Diligence. The LLC will act responsibly so as to minimize risks to IETF participants and to the future of the IETF as a whole, such as financial risks.
 
 The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA 2.0 process, with little to no dissent.  It was recognized that there will naturally be a confidentiality requirement about some aspects of hotel contracting, personnel matters, and other narrow areas.
+
+## Principles of the IASA, IETF, and ISOC Relationship
+
+(TODO: This can point to the new ISOC-IETF Relationship doc in process
+w/Gonzalo (to be published soon in -00).)
 
 ## Community Consensus and Grant of Authority
 
