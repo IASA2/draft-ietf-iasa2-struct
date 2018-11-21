@@ -87,16 +87,17 @@ defines the membership and selection rules for the LLC Board.
 # Introduction
 
 The IETF Administrative Support Activity (IASA) was originally
-established in 2005.  In the 13 years from 2005 to 2018, the needs of
+established in 2005.  In the years since 2005, the needs of
 the IETF have evolved in ways that require changes to its
-administrative structure.  The purpose of this document is to outline
-a proposed new "IASA 2.0" structure. The proposal is for the work of
-the IETF's administrative and fundraising tasks to be conducted by a
+administrative structure.  The purpose of this document is to document
+and describe
+a proposed new "IASA2" structure. The work of
+the IETF's administrative and fundraising tasks will be conducted by a
 new administrative organization, the IETF Administration Limited
 Liability Company ("LLC"). Under the proposal, the Internet
 Administrative Oversight Committee (IAOC) will be eliminated, and its
 oversight and advising functions transferred to the new LLC
-Board. This document explores all of the details involved in the
+Board. This document describes all of the details involved in the
 proposal.
 
 {{?I-D.haberman-iasa20dt-recs}} discusses the challenges facing the
@@ -106,24 +107,27 @@ outlines how such an organization will be structured and describes how
 the organization will fit together with existing and new IETF
 community structures.
 
-This document outlines the high level details of the planned "IASA
-2.0" arrangement, some of which are dependent on the choice of legal
-structure. The point of this document has been to solicit community
+This document outlines the high level details of the planned "IASA2"
+arrangement, some of which are dependent on the choice of legal
+structure. The point of the IASA2 WG and process has been to solicit community
 input about how to address the challenges identified in
 {{?I-D.haberman-iasa20dt-recs}}, and included much debate on the IASA2
 mailing list and the IASA2 working group meetings at IETF 101
-{{ietf101-slides}} and IETF 102 {{ietf102-slides}}. Changes will
-subsequently be required in a replacement of RFC 4071 (BCP 101) and
-RFC 4371, which are of course based on IETF community input and the
+{{ietf101-slides}} and IETF 102 {{ietf102-slides}}. This document replaces
+RFC 4071 (BCP 101) and
+RFC 4371 [TODO: I believe Jari's trust draft may obsolete 4371? -JLH],
+which are of course based on IETF community input and the
 work in the IASA2 working group.
 
-The proposal in this document is to transfer most of the
+IASA2 transfers most of the
 responsibilities that RFC 4071 currently assigns to the Internet
 Administrative Director (IAD) and Internet Society (ISOC) to the newly
-created LLC. The IAOC will be eliminated, and its oversight and
+created IETF LLC and corresponding IETF Administraion LLC Executive
+Director (IETF Executive Director). The IAOC will be eliminated, and
+its oversight and
 advising functions transferred to the LLC Board. It will be the job of
 LLC to meet the administrative needs of the IETF and ensure that LLC
-and IASA 2.0 meet the needs of the IETF community.
+and IASA2 meet the needs of the IETF community.
 
 Eliminating the IAOC means that there will need to be another way for
 trustees to be appointed for the IETF Trust. The details of how this
