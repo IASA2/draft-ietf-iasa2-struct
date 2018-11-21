@@ -170,6 +170,11 @@ documents that fill gaps.
 
 * The Board of the LLC shall be more focused on strategy and oversight, with the IETF Executive Director and their team in charge of day-to-day operations.
 
+* The role that was previously referred to as "IETF Executive
+  Director" in older documents such as {{RFC2026}} is now "Managing
+  Director, IETF Secretariat".
+
+* The IAD role is now "IETF LLC Executive Director".
 
 ## General LLC Responsibilities {#llc-responsibilities}
 
@@ -221,79 +226,80 @@ Any change to this agreement shall require a similar level of
 community consensus and deliberation and shall be reflected by a
 subsequent Best Current Practice (BCP) document.
 
-## Relationship of the IAOC to Existing IETF Leadership
+## Relationship of the LLC Board to Existing IETF Leadership
 
-The IAOC is directly accountable to the IETF community for the
-performance of the IASA.  However, the nature of the IAOC's work
+The LLC Board is directly accountable to the IETF community for the
+performance of the IASA2.  However, the nature of the LLC Board's work
 involves treating the IESG and IAB as major internal customers of the
-administrative support services.  The IAOC and the IAD should not
+administrative support services.  The LLC Board and the IETF Executive Director should not
 consider their work successful unless the IESG and IAB are also
 satisfied with the administrative support that the IETF is receiving.
 
-## IAOC Decision Making
+## LLC Board Decision Making
 
-The IAOC attempts to reach consensus on all decisions.  If the IAOC
-cannot achieve a consensus decision, then the IAOC may decide by
-voting.
+The LLC Board attempts to reach consensus on all decisions.  If the
+LLC Board cannot achieve a consensus decision, then the LLC Board may
+decide by voting.
 
-The IAOC decides the details about its decision-making rules,
+The LLC Board decides the details about its decision-making rules,
 including its rules for quorum, conflict of interest, and breaking of
 ties.  These rules shall be made public.
 
-All IAOC decisions shall be recorded in IAOC minutes, and IAOC minutes
-shall be published in a timely fashion.
+All LLC Board decisions shall be recorded in LLC Board minutes, and
+LLC Board minutes shall be published in a timely fashion.
 
-## Review and Appeal of IAD and IAOC Decision
+## Review and Appeal of IETF Executive Director and LLC Board Decision
 
-The IAOC is directly accountable to the IETF community for the
-performance of the IASA.  In order to achieve this, the IAOC and IAD
+The LLC Board is directly accountable to the IETF community for the
+performance of the IASA2.  In order to achieve this, the LLC Board and IETF Executive Director
 will ensure that guidelines are developed for regular operational
 decision making.  Where appropriate, these guidelines should be
 developed with public input.  In all cases, they must be made public.
 
 If a member of the IETF community questions whether a decision or
-action of the IAD or the IAOC has been undertaken in accordance with
-IETF BCPs or IASA operational guidelines, or questions whether the
-IASA has created and maintained appropriate guidelines, he or she may
-ask the IAOC for a formal review of the decision or action.
+action of the IETF Executive Director or the LLC Board has been undertaken in accordance with
+IETF BCPs or IASA2 operational guidelines, or questions whether the
+IASA2 has created and maintained appropriate guidelines, he or she may
+ask the LLC Board for a formal review of the decision or action.
 
-The request for review should be addressed to the IAOC chair and
+The request for review should be addressed to the LLC Board chair and
 should include a description of the decision or action to be reviewed,
 an explanation of how, in the requestor's opinion, the decision or
 action violates the BCPs or operational guidelines, and a suggestion
 for how the situation could be rectified.  All requests for review
-shall be posted publicly, and the IAOC is expected to respond to these
+shall be posted publicly, and the LLC Board is expected to respond to these
 requests within a reasonable period, typically within 90 days.  It is
-up to the IAOC to determine what type of review and response is
+up to the LLC Board to determine what type of review and response is
 required, based on the nature of the review request.  Based on the
-results of the review, the IAOC may choose to overturn their own
+results of the review, the LLC Board may choose to overturn their own
 decision, to change their operational guidelines to prevent further
 misunderstandings, to take other action as appropriate, or just to
 publish the review result and take no other action.
 
-If a member of the community is not satisfied with the IAOC's response
+If a member of the community is not satisfied with the LLC Board's response
 to his or her review request, he or she may escalate the issue by
 appealing the decision or action to the IAB, using the appeals
-procedures outlined in RFC 2026 [RFC2026].  If he or she is not
-satisfied with the IAB response, he or she can escalate the issue to
-the ISOC Board of Trustees, as described in RFC 2026.
+procedures outlined in {{RFC2026}}.  If he or she is not satisfied
+with the IAB response, he or she can escalate the issue to the ISOC
+Board of Trustees, as described in {{RFC2026}}. [TODO: is the escalation
+to the ISOC BoT still relevant? -JLH]
 
 The reviewing body (the IAB or ISOC Board of Trustees) shall review
-the decision of the IAD or IAOC to determine whether it was made in
+the decision of the IETF Executive Director or LLC Board to determine whether it was made in
 accordance with existing BCPs and operational guidelines.  As a result
 of this review, the reviewing body may recommend to the community that
-the BCPs governing IAOC actions should be changed.  The reviewing body
-may also advise the IAOC to modify existing operational guidelines to
-avoid similar issues in the future and/or it may advise the IAOC to
+the BCPs governing LLC Board actions should be changed.  The reviewing body
+may also advise the LLC Board to modify existing operational guidelines to
+avoid similar issues in the future and/or it may advise the LLC Board to
 re-consider their decision or action.  It may also recommend that no
 action be taken, based on the review.
 
 In exceptional cases, when no other recourse seems reasonable, the
 reviewing body may overturn or reverse a non-binding decision or
-action of the IAOC.  This should be done only after careful
-consideration and consultation with the IAOC regarding the
+action of the LLC Board.  This should be done only after careful
+consideration and consultation with the LLC Board regarding the
 ramifications of this action.  In no circumstances may the IAB or ISOC
-Board of Trustees overturn a decision of the IAOC that involves a
+Board of Trustees overturn a decision of the LLC Board that involves a
 binding contract or overturn a personnel-related action (such as
 hiring, firing, promotion, demotion, performance reviews, salary
 adjustments, etc.).
