@@ -154,8 +154,7 @@ by the Internet Engineering Steering Group (IESG) and Internet
 Architecture Board (IAB), the appeals chain, the process for making
 and confirming IETF and IAB appointments, the IETF Nominating
 Committee (NomCom), the Internet Research Task Force (IRTF), or ISOC's
-memberships in or support of other organizations. (TODO: explicitly mention
-liasion relationships? -JLH)
+memberships in or support of other organizations.
 
 ## Operating Agreement with the Internet Society
 
