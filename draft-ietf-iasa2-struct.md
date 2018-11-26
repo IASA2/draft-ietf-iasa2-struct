@@ -296,8 +296,7 @@ to his or her review request, he or she may escalate the issue by
 appealing the decision or action to the IAB, using the appeals
 procedures outlined in {{RFC2026}}.  If he or she is not satisfied
 with the IAB response, he or she can escalate the issue to the ISOC
-Board of Trustees, as described in {{RFC2026}}. (TODO: is the escalation
-to the ISOC BoT still relevant? -JLH)
+Board of Trustees, as described in {{RFC2026}}. 
 
 The reviewing body (the IAB or ISOC Board of Trustees) shall review
 the decision of the IETF Executive Director or LLC Board to determine whether it was made in
