@@ -212,12 +212,16 @@ IESG: Internet Engineering Steering Group (see {{RFC2026}},
 IETF: Internet Engineering Task Force (see {{RFC3233}}).
 
 IETF LLC Executive Director: the executive director for the IETF
-Limited Liability Company, responsible for day-to-day administrative
+Administration Limited Liability Company, responsible for day-to-day administrative
 and operational direction (See {{staff-responsibilities}}).
+Also referred to as "IETF Executive Director".
+(Note that
+the title of "IETF Executive Director" in older documents such as
+{{RFC2026}} is now "Managing Director, IETF Secretariat".)
 
-IETF LLC: The legal entity -- a disregared Limited Liability Company
+IETF Administration LLC: The legal entity -- a disregared Limited Liability Company
 (LLC) of The Internet Society -- established to house IASA2, specified
-by the ISOC/IETF LLC Agreement ({{IETF-LLC-OA}}).
+by the ISOC/IETF LLC Agreement ({{IETF-LLC-OA}}). Also referred to as "IETF LLC" or just the "LLC".
 
 IETF LLC Board: The Board of Directors of the IETF LLC -- formally a
 multi-member "manager" of the LLC on behalf of ISOC (See
@@ -259,9 +263,8 @@ The proposed responsibilities of the LLC are:
 
 The manner by which these responsibilities under the LLC are organized
 is intended to address the problems described in Sections 3.1.1.,
-3.1.2, and 3.1.3 of {{?I-D.haberman-iasa20dt-recs}}. (TODO: we cite
-draft-haberman a few times... does it need to be an appendix or
-something more formal for a BCP to cite to it?)  Specifically, this is
+3.1.2, and 3.1.3 of {{?I-D.haberman-iasa20dt-recs}}.
+Specifically, this is
 intended to bring greater clarity around roles, responsibilities,
 representation, decision-making, and authority.
 
@@ -303,10 +306,8 @@ decide by voting.
 
 The LLC Board decides the details about its decision-making rules,
 including its rules for quorum (see {{quorum}}), conflict of interest
-(see {{conflict-of-interest}}), and breaking of ties. (JLH: I don't
-think we have anyting about breaking of ties as the voting mechanism
-is 2/3. Am I missing something? -JLH) These rules shall be made
-public.
+(see {{conflict-of-interest}}), and breaking of ties. These rules
+shall be made public.
 
 All LLC Board decisions shall be recorded in LLC Board minutes, and
 LLC Board minutes shall be published in a timely fashion.
