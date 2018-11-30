@@ -195,7 +195,7 @@ IAD: IETF Administrative Director, a role obsoleted by this document
 and the ISOC/IETF LLC Agreement ({{IETF-LLC-OA}}) and replaced by the
 IETF LLC Executive Director.
 
-IAOC: IETF Administrative Oversight Committee, a committe that oversaw
+IAOC: IETF Administrative Oversight Committee, a committee that oversaw
 IETF administrative activity, obsoleted by this document and replaced
 by the LLC Board.
 
@@ -219,7 +219,7 @@ Also referred to as "IETF Executive Director".
 the title of "IETF Executive Director" in older documents such as
 {{RFC2026}} is now "Managing Director, IETF Secretariat".)
 
-IETF Administration LLC: The legal entity -- a disregared Limited Liability Company
+IETF Administration LLC: The legal entity -- a disregarded Limited Liability Company
 (LLC) of The Internet Society -- established to house IASA2, specified
 by the ISOC/IETF LLC Agreement ({{IETF-LLC-OA}}). Also referred to as "IETF LLC" or just the "LLC".
 
@@ -284,7 +284,7 @@ The transparency and responsiveness principles are designed to address the conce
 
 ## Principles of the IETF and ISOC Relationship
 
-The principles outlining the realtionaship between the IETF and ISOC
+The principles outlining the relationship between the IETF and ISOC
 are now outlined in a separate document
 {{?I-D.ietf-iasa2-rfc2031bis}}. (TODO: Summarize that document in a
 few sentences?)
@@ -533,7 +533,7 @@ The Board can hold votes during synchronous live meetings of the Board (includin
 
 ## Interim Board {#interim-board}
 
-An initial interim Board will be necessary in order to legally form and bootstrap the LLC. As a result, an Interim Board will be formed on a temporary basis until the first full board is constituted. Barring unforseen circumstances, the Interim Board should conclude no later than the end of the 104th meeting of the IETF, in March 2019.
+An initial interim Board will be necessary in order to legally form and bootstrap the LLC. As a result, an Interim Board will be formed on a temporary basis until the first full board is constituted. Barring unforeseen circumstances, the Interim Board should conclude no later than the end of the 104th meeting of the IETF, in March 2019.
 
 The interim Board shall be comprised of:
 
@@ -672,7 +672,7 @@ First Tasks of the Full Board:
 
 1 – Develop all necessary LLC policies
 
-2 – Develop all necesssary Board operating procedures and bylaws
+2 – Develop all necessary Board operating procedures and bylaws
 
 3 – Determine the employee benefits/salary framework and/or make associated staffing decisions
 
@@ -683,7 +683,7 @@ half of 2019)
 
 6 - Define and document how the Board will fulfill its transparency obligations to the IETF community
 
-7 - Definine the "significant materiality threshold", above which the Board must approve any contracts, expenditures, or other commitments.
+7 - Define the "significant materiality threshold", above which the Board must approve any contracts, expenditures, or other commitments.
 
 Once the IETF Executive Director and any additional staff are hired, it would be expected for LLC to:
 
