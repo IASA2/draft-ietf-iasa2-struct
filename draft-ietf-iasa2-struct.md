@@ -206,10 +206,25 @@ IASA: The original IETF Administrative Support Activity, defined by
 {{RFC4071}} and obsoleted by this document and the ISOC/IETF LLC
 Agreement ({{IETF-LLC-OA}}).
 
+IASA2: Version 2.0 of the IETF Administrative Support Activity,
+defined by this document.
+
 IESG: Internet Engineering Steering Group (see {{RFC2026}},
 {{RFC3710}}).
 
 IETF: Internet Engineering Task Force (see {{RFC3233}}).
+
+IETF LLC Executive Director: the executive director for the IETF
+Limited Liability Company, responsible for day-to-day administrative
+and operational direction (See {{staff-responsibilities}}).
+
+IETF LLC: The legal entity -- a disregared Limited Liability Company
+(LLC) of The Internet Society -- established to house IASA2, specified
+by the ISOC/IETF LLC Agreement ({{IETF-LLC-OA}}).
+
+IETF LLC Board: The Board of Directors of the IETF LLC -- formally a
+multi-member "manager" of the LLC on behalf of ISOC (See
+{{board-responsibilities}}).
 
 ISOC: Internet Society (see {{RFC2031}} and {{ISOC}}).
 
@@ -450,7 +465,7 @@ This board structure, with limited strategic responsibilities noted in {{board-r
 Finally, the LLC Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA2 design process is detailed above in in {{principles}}. The Board will need to establish how it will meet that commitment.
 
 
-# LLC Board Membership, Selection and Accountability
+# LLC Board Membership, Selection and Accountability {#board}
 
 
 ## Board Composition {#board-composition}
