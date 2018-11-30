@@ -138,9 +138,7 @@ mailing list and the IASA2 working group meetings at IETF 101
 
 This document obsoletes
 RFC 4071 (BCP 101) and
-RFC 4371 (TODO: Jari's latest trust draft (draft-ietf-iasa2-trust-update-02)
-only updates 4371 and does not obsolete it. If we are going to say here that
-this 4071bis is going to obsolete 4371 I suspect there is text we will need in this document that is in 4371 but not in Jari's Trust draft. -JLH),
+RFC 4371,
 which are of course based on IETF community input and the
 work in the IASA2 working group.
 
