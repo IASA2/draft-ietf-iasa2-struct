@@ -137,9 +137,8 @@ mailing list and the IASA2 working group meetings at IETF 101
 {{ietf101-slides}} and IETF 102 {{ietf102-slides}}.
 
 This document obsoletes
-RFC 4071 (BCP 101) and
-RFC 4371,
-which are of course based on IETF community input and the
+RFC 4071 (BCP 101),
+and is of course based on IETF community input and the
 work in the IASA2 working group.
 
 IASA2 transfers most of the
