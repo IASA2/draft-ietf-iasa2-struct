@@ -397,6 +397,7 @@ Based on the amount of work currently undertaken by the IAD and others involved 
 The IETF currently benefits from the use of contractors for accounting, finance, meeting planning, administrative assistance, legal counsel, tools, and web site support, as well as other services related to the standards process (RFC Editor and IANA). The IETF budget currently reflects specific support from ISOC for communications and fundraising as well as some general support for accounting, finance, legal, and other services. The division of responsibilities between staff and contractors will be at the discretion of the IETF Executive Director and his or her staff.
 
 The IETF has a long history of community involvement in the execution of certain administrative functions, in particular development of IETF tools, the NOC's operation of the meeting network, and some outreach and communications activities conducted by the EDU and Mentoring Directorate. The LLC staff would be expected to respect the IETF community's wishes about community involvement in these and other functions going forward as long as the staff feels that they can meet the otherwise-stated needs of the community. Establishing the framework to allow the LLC to staff each administrative function as appropriate may require the IETF community to document its consensus expectations in areas where no documentation currently exists (see {{transition-considerations}}).
+(TODO: We are considering removing {{transition-considerations}} or moving it to {{?I-D.haberman-iasa20dt-recs}}.)
 
 In summary, the IETF Executive Director, with support from the team that they alone direct and lead, will be responsible for:
 
@@ -612,6 +613,11 @@ When the LLC conducts fundraising, it will substantiate charitable contributions
 
 # Transition Considerations {#transition-considerations}
 
+(TODO: This section is a bit out of place now. It was appropriate when
+this was -struct which was documenting work of the IASA2 WG and not
+obsoleting 4071bis. We can probably either 1) delete this section, or
+2) move to {{?I-D.haberman-iasa20dt-recs}}.)
+
 Conducting a transition as envisioned in this document will encompass many different work activities and will require action, involvement, support, and/or feedback from groups and individuals across the IETF community. The transition is likely to proceed in these steps but the community should remain flexible and adapt this plan as changes occur and complications inevitably arise.
 
 Phase 1: LLC Formation
@@ -689,6 +695,22 @@ Once the IETF Executive Director and any additional staff are hired, it would be
 
 The LLC, with the involvement of the community, shall conduct and complete an assessment of the structure, processes, and operation of the IASA2 and LLC. This should be presented to the community after a period of roughly three years of operation. The assessment may potentially include recommendations for improvements or changes in the IASA2 and/or LLC.
 
+# Security Considerations
+
+This document describes the structure of the IETF's administrative
+support activity, version 2.  It introduces no security considerations
+for the Internet.
+
+# IANA Considerations
+
+This document has no IANA considerations in the traditional sense.
+However, some of the information in this document may affect how the
+IETF standards process interfaces with the IANA, so the IANA may be
+interested in the contents.
+
 # Acknowledgments
 
-Thanks to Jari Arkko, Richard Barnes, Alissa Cooper, Sean Turner and the IASA2 Working Group for discussions of possible structures, and to the attorneys of Morgan Lewis and Brad Biddle for legal advice.
+Thanks to Jari Arkko, Richard Barnes, Brian E Carpenter, Alissa
+Cooper, John C Klensin, Bob Hinden, Jon Peterson, Sean Turner and the
+IASA2 Working Group for discussions of possible structures, and to the
+attorneys of Morgan Lewis and Brad Biddle for legal advice.
