@@ -35,6 +35,11 @@ informative:
   RFC7437:
   RFC8318:
   RFC2026:
+  RFC2850:
+  RFC4071:
+  RFC2031:
+  RFC3710:
+  RFC3233:
 
   IETF-LLC-OA:
     title: Limited Liability Company Agreement of IETF Administration LLC
@@ -42,6 +47,13 @@ informative:
       org: The Internet Society
     date: 2018-08
     target: https://www.ietf.org/documents/180/IETF-LLC-Agreement.pdf
+
+  ISOC:
+    title: Amended and restated By-Laws of the Internet Society
+    author:
+      org: The Internet Society
+    date: 2018-07
+    target: https://www.internetsociety.org/about-internet-society/governance-policies/by-laws/
 
   ML-memo:
     title: Options for New Organization to Conduct IETF Administrative Support Activities
@@ -173,10 +185,33 @@ documents that fill gaps.
 
 # Definitions and Principles
 
-(TODO: Do we want an "alphabet soup" section of abbreviations
-explained here like in 2.1 of 4071? We might then standardize as IED =
-IETF LLC Executive Director, for example, to replace the use of
-IAD. -JLH)
+## Alphabet Soup
+
+Although most of the terms, abbreviations, and acronyms used in this
+document are reasonably well known, first-time readers may find this
+alphabet soup confusing.  This section therefore attempts to provide a
+quick summary.
+
+IAB: Internet Architecture Board (see {{RFC2026}}, {{RFC2850}}).
+
+IAD: IETF Administrative Director, a role obsoleted by this document
+and the ISOC/IETF LLC Agreement ({{IETF-LLC-OA}}) and replaced by the
+IETF LLC Executive Director.
+
+IAOC: IETF Administrative Oversight Committee, a committe that oversaw
+IETF administrative activity, obsoleted by this document and replaced
+by the LLC Board.
+
+IASA: The original IETF Administrative Support Activity, defined by
+{{RFC4071}} and obsoleted by this document and the ISOC/IETF LLC
+Agreement ({{IETF-LLC-OA}}).
+
+IESG: Internet Engineering Steering Group (see {{RFC2026}},
+{{RFC3710}}).
+
+IETF: Internet Engineering Task Force (see {{RFC3233}}).
+
+ISOC: Internet Society (see {{RFC2031}} and {{ISOC}}).
 
 ## Key Differences from the old IASA Structure
 
