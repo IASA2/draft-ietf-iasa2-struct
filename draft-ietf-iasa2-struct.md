@@ -41,7 +41,7 @@ informative:
   RFC3710:
   RFC3233:
 
-  IETF-LLC-OA:
+  IETF-LLC-A:
     title: Limited Liability Company Agreement of IETF Administration LLC
     author:
       org: The Internet Society
@@ -159,19 +159,19 @@ and confirming IETF and IAB appointments, the IETF Nominating
 Committee (NomCom), the Internet Research Task Force (IRTF), or ISOC's
 memberships in or support of other organizations.
 
-## Operating Agreement with the Internet Society
+## LLC Agreement with the Internet Society
 
-The Operating Agreement (OA) between the IETF LLC and ISOC {{IETF-LLC-OA}}
+The LLC Agreement between the IETF LLC and ISOC {{IETF-LLC-A}}
 is also out
 of scope for this document, however this document depends on
-the OA and will refer to it for certain aspects of the legal
-relationship between the IETF LLC and ISOC. The OA was developed
+the LLC Agreement and will refer to it for certain aspects of the legal
+relationship between the IETF LLC and ISOC. The LLC Agreement was developed
 between legal representatives of the IETF and ISOC and includes all
 critical terms of the relationship, while still enabling maximum
-unilateral flexibility for the IETF LLC Board.  The OA includes only basic
+unilateral flexibility for the IETF LLC Board.  The LLC Agreement includes only basic
 details about how the IETF LLC Board manages itself or manages IETF LLC staff,
 so that the IETF LLC Board has flexibility to make changes without amending
-the OA. The IETF LLC Board can independently develop policy or procedures
+the agreement. The IETF LLC Board can independently develop policy or procedures
 documents that fill gaps.
 
 # Definitions and Principles
@@ -186,7 +186,7 @@ quick summary.
 IAB: Internet Architecture Board (see {{RFC2026}}, {{RFC2850}}).
 
 IAD: IETF Administrative Director, a role obsoleted by this document
-and the ISOC/IETF LLC Agreement ({{IETF-LLC-OA}}) and replaced by the
+and the ISOC/IETF LLC Agreement ({{IETF-LLC-A}}) and replaced by the
 IETF LLC Executive Director.
 
 IAOC: IETF Administrative Oversight Committee, a committee that oversaw
@@ -195,7 +195,7 @@ by the IETF LLC Board.
 
 IASA: The original IETF Administrative Support Activity, defined by
 {{RFC4071}} and obsoleted by this document and the ISOC/IETF LLC
-Agreement ({{IETF-LLC-OA}}).
+Agreement ({{IETF-LLC-A}}).
 
 IASA2: Version 2.0 of the IETF Administrative Support Activity,
 defined by this document.
@@ -207,7 +207,7 @@ IETF: Internet Engineering Task Force (see {{RFC3233}}).
 
 IETF Administration LLC: The legal entity -- a disregarded Limited Liability Company
 (LLC) of The Internet Society -- established to house IASA2, specified
-by the ISOC/IETF LLC Agreement ({{IETF-LLC-OA}}). Also referred to as "IETF LLC" or just the "LLC".
+by the ISOC/IETF LLC Agreement ({{IETF-LLC-A}}). Also referred to as "IETF LLC" or just the "LLC".
 
 IETF LLC Executive Director: the executive director for the IETF
 Administration Limited Liability Company, responsible for day-to-day administrative
@@ -280,7 +280,7 @@ shall develop and maintain a public list of confidential items, describing the n
 * Unification: The IETF IETF LLC is reponsible for providing unified legal, financial, and administrative support for 
 operation of the IETF, IAB, IESG, IRTF, and RFC Editor.
 
-* Transfer or Dissolution: Consistent with {{IETF-LLC-OA}}, the IETF LLC subsidiary may be transferred from ISOC to 
+* Transfer or Dissolution: Consistent with {{IETF-LLC-A}}, the IETF LLC subsidiary may be transferred from ISOC to 
 another organization, at the request of either party. Similarly, the IETF LLC may be dissolved if necessary. Should 
 either event occur, the IETF community should be closely involved in any decisions and plans, and any tranfer, 
 transition, or dissolution conducted carefully and with minimal potential disruption to the IETF.
@@ -601,7 +601,7 @@ The IETF LLC shall retain and work with an independent auditor. Reports from the
 
 ## ISOC Financial Support
 
-ISOC currently provides significant financial support to the IETF LLC. Exhibit B of the {{IETF-LLC-OA}} summarizes the one-time and on-going financial support from ISOC for the forseeable future. It is envisioned that this support will be periodically reviewed and revised, via a cooperative assessment process between ISOC and the IETF LLC. 
+ISOC currently provides significant financial support to the IETF LLC. Exhibit B of the {{IETF-LLC-A}} summarizes the one-time and on-going financial support from ISOC for the forseeable future. It is envisioned that this support will be periodically reviewed and revised, via a cooperative assessment process between ISOC and the IETF LLC. 
 
 ## IETF Meeting Revenues
 
