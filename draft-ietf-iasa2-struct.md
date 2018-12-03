@@ -229,7 +229,7 @@ multi-member "manager" of the IETF LLC on behalf of ISOC (See
 
 ISOC: Internet Society (see {{RFC2031}} and {{ISOC}}).
 
-## Key Differences From the Old IASA Structure
+## Key Differences From the Old IASA Structure to IASA2
 
 * The IAOC and IAD roles defined in RFC 4071 are eliminated.
 
@@ -716,7 +716,7 @@ The IETF LLC shall report to ISOC on the implementation of its compliance plan o
 
 # Three-Year Assessment
 
-The IETF LLC, with the involvement of the community, shall conduct and complete an assessment of the structure, processes, and operation of the IASA and IETF LLC. This should be presented to the community after a period of roughly three years of operation. The assessment may potentially include recommendations for improvements or changes in the IASA and/or IETF LLC.
+The IETF LLC, with the involvement of the community, shall conduct and complete an assessment of the structure, processes, and operation of the IASA2 and IETF LLC. This should be presented to the community after a period of roughly three years of operation. The assessment may potentially include recommendations for improvements or changes to the IASA2 and/or IETF LLC.
 
 # Transitioning to the IETF LLC {#transition-considerations}
 
@@ -725,7 +725,7 @@ this was -struct which was documenting work of the IASA2 WG and not
 obsoleting 4071bis. We can probably either 1) delete this section, or
 2) move to {{?I-D.haberman-iasa20dt-recs}}.)
 
-Conducting a transition to the IETF LLC from the earlier structure of the IASA will encompass many different work activities and will require action, involvement, support, and/or feedback from groups and individuals across the IETF community. The transition is likely to proceed in these steps but the community should remain flexible and adapt this plan as changes occur and complications inevitably arise.
+Conducting a transition to the IETF LLC from the earlier structure of the IASAn to IASA2 will encompass many different work activities and will require action, involvement, support, and/or feedback from groups and individuals across the IETF community. The transition is likely to proceed in these steps but the community should remain flexible and adapt this plan as changes occur and complications inevitably arise.
 
 Phase 1: IETF LLC Formation (Complete)
 
@@ -801,7 +801,7 @@ Once the IETF Executive Director and any additional staff are hired, it would be
 # Security Considerations
 
 This document describes the structure of the IETF's Administrative
-Aupport Activity (IASA), version 2.  It introduces no security considerations
+Aupport Activity (IASA), version 2 (IASA2).  It introduces no security considerations
 for the Internet.
 
 # IANA Considerations
