@@ -91,7 +91,7 @@ the work of the resulting IASA2 Working Group.
 In IASA2, IETF's administrative and fundraising tasks are conducted by
 a new administrative organization, the IETF Administration Limited
 Liability Company (LLC), a disregarded LLC of the Internet Society
-(ISOC). Under the proposal, the Internet Administrative Oversight
+(ISOC). Under the new structure, the Internet Administrative Oversight
 Committee (IAOC) and the IETF Administrative Director (IAD) will be
 eliminated, and the corresponding oversight and administrative
 functions transferred to the new IETF Administration LLC Board of
@@ -118,7 +118,7 @@ and describe
 a new "IASA2" structure. The work of
 the IETF's administrative and fundraising tasks will be conducted by a
 new administrative organization, the IETF Administration Limited
-Liability Company ("LLC"). Under the proposal, the Internet
+Liability Company ("LLC"). Under the new structure, the Internet
 Administrative Oversight Committee (IAOC) will be eliminated, and its
 oversight and advising functions transferred to the new LLC
 Board. 
@@ -251,7 +251,7 @@ ISOC: Internet Society (see {{RFC2031}} and {{ISOC}}).
 
 The LLC will be established to provide administrative support to the IETF. It will have no authority over the standards development activities of the IETF.
 
-The proposed responsibilities of the LLC are:
+The responsibilities of the LLC are:
 
 * Operations. The LLC is responsible for supporting the ongoing operations of the IETF, including meetings and non-meeting activities.
 
@@ -272,7 +272,7 @@ In addition, by having the LLC manage the IETF's finances and conduct the IETF's
 
 ## LLC Working Principles {#principles}
 
-The LLC will be expected to conduct its work according to the following proposed principles, subject to any reasonable confidentiality obligations:
+The LLC will be expected to conduct its work according to the following principles, subject to any reasonable confidentiality obligations:
 
 * Transparency. The LLC will keep the IETF community informed about its work and will engage with the community to obtain consensus-based community input on key issues and otherwise as needed. The IETF community shall have complete visibility 
 into the financial and legal structure of the IETF LLC. This includes information about the IETF LLC annual budget and associated regular financial reports, results of financial and any other independent audits, tax filings, significant contracts or other significant long-term financial commitments that bind the IETF LLC. As discussed in {{ietf101-slides}}, 
@@ -470,7 +470,7 @@ The description below outlines the composition of the LLC Board, selection of LL
 
 ## Board Design Goals {#board-design-goals}
 
-A goal of this proposed Board composition is to balance the need for the LLC to be accountable to the IETF community with the need for this Board to have the expertise necessary to oversee a small non-profit corporation. The Board is smaller than the previous IAOC and the other leadership bodies of the IETF, in part to keep the Board focused on its rather limited set of strategic responsibilities as noted in {{board-responsibilities}}.
+A goal of this Board composition is to balance the need for the LLC to be accountable to the IETF community with the need for this Board to have the expertise necessary to oversee a small non-profit corporation. The Board is smaller than the previous IAOC and the other leadership bodies of the IETF, in part to keep the Board focused on its rather limited set of strategic responsibilities as noted in {{board-responsibilities}}.
 
 This board structure, with limited strategic responsibilities noted in {{board-responsibilities}} and limited size, together with the staff responsibilities noted in {{staff-responsibilities}}, is designed to overcome the challenges described in Section 3.1.4 of {{?I-D.haberman-iasa20dt-recs}} concerning oversight. This establishes a clear line of oversight over staff performance: the LLC Board oversees the IETF Executive Director's performance and has actual legal authority to remove a non-performing IETF Executive Director. The IETF Executive Director is responsible for the day-to-day operation of the LLC.
 
@@ -667,8 +667,6 @@ The annual budget shall be developed in an open, transparent, and collaborative 
 be established by the IETF LLC Board and may be revised as needed. In order to meet the expectations in {{#principles}}, 
 there should be sufficient time for the IETF community and others to review and comment on drafts of the annual budget, 
 and so the process should begin several months before the start of the next fiscal year.
-
-
 
 # LLC Policies {#llc-policies}
 
