@@ -714,16 +714,20 @@ The LLC shall develop and implement a compliance program to ensure its complianc
 
 The LLC shall report to ISOC on the implementation of its compliance plan on an annual basis.
 
-# Transition Considerations {#transition-considerations}
+# Three-Year Assessment
+
+The LLC, with the involvement of the community, shall conduct and complete an assessment of the structure, processes, and operation of the IASA and LLC. This should be presented to the community after a period of roughly three years of operation. The assessment may potentially include recommendations for improvements or changes in the IASA and/or LLC.
+
+# Transitioning to the IETF LLC {#transition-considerations}
 
 (TODO: This section is a bit out of place now. It was appropriate when
 this was -struct which was documenting work of the IASA2 WG and not
 obsoleting 4071bis. We can probably either 1) delete this section, or
 2) move to {{?I-D.haberman-iasa20dt-recs}}.)
 
-Conducting a transition as envisioned in this document will encompass many different work activities and will require action, involvement, support, and/or feedback from groups and individuals across the IETF community. The transition is likely to proceed in these steps but the community should remain flexible and adapt this plan as changes occur and complications inevitably arise.
+Conducting a transition to the IETF LLC from the earlier structure of the IASA will encompass many different work activities and will require action, involvement, support, and/or feedback from groups and individuals across the IETF community. The transition is likely to proceed in these steps but the community should remain flexible and adapt this plan as changes occur and complications inevitably arise.
 
-Phase 1: LLC Formation
+Phase 1: LLC Formation (Complete)
 
 * The LLC is formed with an Interim Board (see {{interim-board}}).
 
@@ -733,7 +737,7 @@ Phase 1: LLC Formation
 
 * An update of all relevant RFCs is started, reflecting the change from IAOC to LLC.
 
-Phase 2: Transition from IAOC to LLC
+Phase 2: Transition from IAOC to LLC (In Process)
 
 * The LLC's Interim Board and IAOC shall agree to a transition schedule to transition IAOC responsibilities one-by-one to the LLC.
 
@@ -794,14 +798,10 @@ Once the IETF Executive Director and any additional staff are hired, it would be
 
 * Assess areas where the IETF community needs to document its consensus, e.g., expectations about community involvement in NOC or tools efforts.
 
-# Three-Year Assessment
-
-The LLC, with the involvement of the community, shall conduct and complete an assessment of the structure, processes, and operation of the IASA2 and LLC. This should be presented to the community after a period of roughly three years of operation. The assessment may potentially include recommendations for improvements or changes in the IASA2 and/or LLC.
-
 # Security Considerations
 
-This document describes the structure of the IETF's administrative
-support activity, version 2.  It introduces no security considerations
+This document describes the structure of the IETF's Administrative
+Aupport Activity (IASA), version 2.  It introduces no security considerations
 for the Internet.
 
 # IANA Considerations
