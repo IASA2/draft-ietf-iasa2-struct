@@ -396,19 +396,19 @@ subsequent Best Current Practice (BCP) document.
 
 ## IETF Executive Director and Staff Responsibilities {#staff-responsibilities}
 
-The IETF LLC shall be led by an IETF Executive Director chosen by the Board. The IETF Executive Director will be responsible for managing the day-to-day operations of the IETF LLC, including hiring staff to perform various operational functions. The IETF Executive Director and any staff may be employees or independent contractors.
-(Note: The is the Executive Director of the IETF LLC, not the "IETF Executive Director" mentioned in some older documents (e.g., {{RFC2026}}), which is now known as the Managing Director of the IETF Secretariat.)
+The IETF LLC is led by an IETF Executive Director chosen by the Board. The IETF Executive Director is responsible for managing the day-to-day operations of the IETF LLC, including hiring staff to perform various operational functions. The IETF Executive Director and any staff may be employees or independent contractors.
+(Note: The is the Executive Director of the IETF LLC, not the "IETF Executive Director" mentioned in some older documents (e.g., {{RFC2026}}), which is currently known as "Managing Director, IETF Secretariat.")
 
-Allowing for the division of responsibilities among multiple staff members and contractors should hopefully address some of the concerns raised in Section 3.2 (Lack of Resources) and Section 3.4 (Funding/Operating Model Mismatch and Rising Costs) of {{?I-D.haberman-iasa20dt-recs}}.
+Allowing for the division of responsibilities among multiple staff members and contractors is designed to address some of the concerns raised in Section 3.2 (Lack of Resources) and Section 3.4 (Funding/Operating Model Mismatch and Rising Costs) of {{?I-D.haberman-iasa20dt-recs}}.
 
-Based on the amount of work currently undertaken by the IAD and others involved in the IETF administration who are not currently in contracted roles, it is anticipated that the IETF Executive Director may need to hire multiple additional staff members. For example, there will likely be a need for resources to manage fundraising, to manage the various contractors that are engaged to fulfill the IETF's administrative needs, and to support outreach and communications.
+Based on the amount of work previously undertaken by the IAD and others involved in the IETF administration, the design of the IETF LLC anticipated that the IETF Executive Director may need to hire multiple additional staff members. For example, resources to manage fundraising, to manage the various contractors that are engaged to fulfill the IETF's administrative needs, and to support outreach and communications were envisioned.
 
-The IETF currently benefits from the use of contractors for accounting, finance, meeting planning, administrative assistance, legal counsel, tools, and web site support, as well as other services related to the standards process (RFC Editor and IANA). The IETF budget currently reflects specific support from ISOC for communications and fundraising as well as some general support for accounting, finance, legal, and other services. The division of responsibilities between staff and contractors will be at the discretion of the IETF Executive Director and his or her staff.
+The IETF has historically benefitted from the use of contractors for accounting, finance, meeting planning, administrative assistance, legal counsel, tools, and web site support, as well as other services related to the standards process (RFC Editor and IANA). Prior to making the transition from IASA to IASA 2.0, the IETF budget reflected specific support from ISOC for communications and fundraising as well as some general support for accounting, finance, legal, and other services. The division of responsibilities between staff and contractors is at the discretion of the IETF Executive Director and his or her staff.
 
-The IETF has a long history of community involvement in the execution of certain administrative functions, in particular development of IETF tools, the NOC's operation of the meeting network, and some outreach and communications activities conducted by the EDU and Mentoring Directorate. The IETF LLC staff would be expected to respect the IETF community's wishes about community involvement in these and other functions going forward as long as the staff feels that they can meet the otherwise-stated needs of the community. Establishing the framework to allow the IETF LLC to staff each administrative function as appropriate may require the IETF community to document its consensus expectations in areas where no documentation currently exists (see {{transition-considerations}}).
+The IETF has a long history of community involvement in the execution of certain administrative functions, in particular development of IETF tools, the NOC's operation of the meeting network, and some outreach and communications activities conducted by the Education and Mentoring Directorate. The IETF LLC staff is expected to respect the IETF community's wishes about community involvement in these and other functions going forward as long as the staff feels that they can meet the otherwise-stated needs of the community. Establishing the framework to allow the IETF LLC to staff each administrative function as appropriate may require the IETF community to document its consensus expectations in areas where no documentation currently exists (see {{transition-considerations}}).
 (TODO: We are considering removing {{transition-considerations}} or moving it to {{?I-D.haberman-iasa20dt-recs}}.)
 
-In summary, the IETF Executive Director, with support from the team that they alone direct and lead, will be responsible for:
+In summary, the IETF Executive Director, with support from the team that they alone direct and lead, is responsible for:
 
 * Developing and refining an annual budget and other strategic financial planning documents at the direction of the IETF LLC Board.
 
@@ -416,7 +416,7 @@ In summary, the IETF Executive Director, with support from the team that they al
 
 * Hiring and/or contracting the necessary resources to meet their goals, within the defined limits of their authority and within the approved budget. This includes managing and leading any such resources, including performing regular performance reviews.
 
-* Following the pre-approval guidelines set forth by the IETF LLC Board for contracts or other decisions that have financial costs that exceed a certain threshold of significance. Such threshold will be set reasonably high so that the need for such approvals is infrequent and only occurs when something is truly significant or otherwise exceptional. It is important to ensure that the IETF Executive Director is sufficiently empowered to perform their job on a day to day basis, being held accountable for meeting high level goals rather than micromanaged.
+* Following the pre-approval guidelines set forth by the IETF LLC Board for contracts or other decisions that have financial costs that exceed a certain threshold of significance. Such thresholds are expected to be set reasonably high so that the need for such approvals is infrequent and only occurs when something is truly significant or otherwise exceptional. It is expected that the IETF Executive Director is sufficiently empowered to perform their job on a day-to-day basis, being held accountable for meeting high level goals rather than micromanaged.
 
 * Regularly updating the IETF LLC Board on operations and other notable issues as reasonable and appropriate.
 
@@ -425,7 +425,7 @@ In summary, the IETF Executive Director, with support from the team that they al
 
 ## IETF LLC Board Responsibilities {#board-responsibilities}
 
-The IETF LLC Board will be responsible for conducting oversight of IETF LLC's execution of its responsibilities, as described in {{llc-responsibilities}}.  They have duties of loyalty, care, and good faith. This includes the responsibility to:
+The IETF LLC Board is responsible for conducting oversight of the IETF LLC's execution of its responsibilities, as described in {{llc-responsibilities}}.  They have duties of loyalty, care, and good faith. This includes the responsibility to:
 
 * provide strategic direction for the IETF LLC to the IETF Executive Director;
 
@@ -443,25 +443,25 @@ The IETF LLC Board will be responsible for conducting oversight of IETF LLC's ex
 
 * ensuring that IETF LLC is run in a manner that is transparent and accountable to the IETF community;
 
-* recruit new Directors, for consideration in all of the various appointment processes.
+* recruiting new Directors, for consideration in all of the various appointment processes.
 
-The IETF LLC Board will be an oversight body, with responsibilities limited to those listed above. It will not directly conduct any of the IETF's administrative work, which is the day-to-day job of the IETF Executive Director and their team.
+The IETF LLC Board is an oversight body, with responsibilities limited to those listed above. It does not directly conduct any of the IETF's administrative work, which is the day-to-day job of the IETF Executive Director and their team.
 
-The role of the IETF LLC Board will be to ensure that the strategy and conduct of IETF LLC is consistent with the IETF's needs -- both its concrete needs and its needs for transparency and accountability.  The Board is not intended to directly define the IETF's needs; to the extent that is required, the IETF community should document its needs in consensus-based RFCs (e.g., as the community is aiming to do in {{?I-D.ietf-mtgvenue-iaoc-venue-selection-process}}) and provide more detailed input via consultations with the IETF LLC Board (such as takes place on email discussion lists or at IETF meetings).
+The role of the IETF LLC Board is to ensure that the strategy and conduct of the IETF LLC is consistent with the IETF's needs -- both its concrete needs and its needs for transparency and accountability.  The Board is not intended to directly define the IETF's needs; to the extent that is required, the IETF community should document its needs in consensus-based RFCs (e.g., as the community did in {{?I-D.ietf-mtgvenue-iaoc-venue-selection-process}}) and provide more detailed input via consultations with the IETF LLC Board (such as takes place on email discussion lists or at IETF meetings).
 
-As part of the responsibilities outlined above the Board shall work to ensure that IETF LLC will:
+As part of the responsibilities outlined above the Board is expected to work to ensure that IETF LLC:
 
-* Act consistently with ISOC’s 501(c)(3) status;
+* Acts consistently with ISOC’s 501(c)(3) status;
 
-* Provide accurate financial statements to ISOC on a timely basis;
+* Provides accurate financial statements to ISOC on a timely basis;
 
-* Prepare its financial reports in accordance with generally accepted accounting principles;
+* Prepares its financial reports in accordance with generally accepted accounting principles;
 
-* Provide assistance to help facilitate ISOC’s tax compliance, including but not limited to assistance related to preparing the Form 990 and responding to any IRS questions and audits;
+* Provides assistance to help facilitate ISOC’s tax compliance, including but not limited to assistance related to preparing the Form 990 and responding to any IRS questions and audits;
 
-* Obtain appropriate insurance, including commercial general liability insurance with appropriate limits;
+* Obtains appropriate insurance, including commercial general liability insurance with appropriate limits;
 
-* Implement risk management and compliance processes in a manner consistent with industry norms.
+* Implements risk management and compliance processes in a manner consistent with industry norms.
 
 The description below outlines the composition of the IETF LLC Board, selection of IETF LLC Board Directors, and related details.
 
