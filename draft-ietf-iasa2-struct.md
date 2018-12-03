@@ -272,22 +272,33 @@ In addition, by having the LLC manage the IETF's finances and conduct the IETF's
 
 ## LLC Working Principles {#principles}
 
-The LLC will be expected to conduct its work according to the following proposed principles:
+The LLC will be expected to conduct its work according to the following proposed principles, subject to any reasonable confidentiality obligations:
 
-* Transparency. The LLC will keep the IETF community informed about its work and will engage with the community to obtain consensus-based community input on key issues and otherwise as needed. As discussed in {{ietf101-slides}}, whatever doesn't have a specific justification for being kept confidential, should be made public. There must exist a public list of confidential items, describing the nature of the information and the reason for confidentiality.
+* Transparency. The LLC will keep the IETF community informed about its work and will engage with the community to obtain consensus-based community input on key issues and otherwise as needed. The IETF community shall have complete visibility 
+into the financial and legal structure of the IETF LLC. This includes information about the IETF LLC annual budget and associated regular financial reports, results of financial and any other independent audits, tax filings, significant contracts or other significant long-term financial commitments that bind the IETF LLC. As discussed in {{ietf101-slides}}, 
+whatever doesn't have a specific justification for being kept confidential, should be made public. The IETF LLC Board 
+shall develop and maintain a public list of confidential items, describing the nature of the information and the reason for confidentiality. 
 
 * Responsiveness to the community. The LLC will act consistently with the documented consensus of the IETF community, to be responsive to the community's needs, and adapt its decisions in response to consensus-based community feedback.
 
 * Diligence. The LLC will act responsibly so as to minimize risks to IETF participants and to the future of the IETF as a whole, such as financial risks.
 
+* Unification: The IETF LLC is reponsible for providing unified legal, financial, and administrative support for 
+operation of the IETF, IAB, IESG, IRTF, and RFC Editor.
+
 The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA2 process, with little to no dissent.  It was recognized that there will naturally be a confidentiality requirement about some aspects of hotel contracting, personnel matters, and other narrow areas.
 
 ## Principles of the IETF and ISOC Relationship
 
-The principles outlining the relationship between the IETF and ISOC
-are now outlined in a separate document
-{{?I-D.ietf-iasa2-rfc2031bis}}. (TODO: Summarize that document in a
-few sentences?)
+ISOC and the IETF have historically been philosophically aligned. The principles of the relationship between the 
+IETF and ISOC are outlined in {{?I-D.ietf-iasa2-rfc2031bis}}. ISOC's connection with the IETF community has always 
+played an important role in its policy work. ISOC has always been an advocate for multistakeholder processes, which 
+includes the technical community.  Open standards are an explicit part of one of the focus areas in ISOC's mission: Advancing the development and application of Internet infrastructure, technologies, and open standards.
+
+On a practical level, the IETF LLC is a distinct subsidiary (disregarded entity) of ISOC. The IETF remains responsible 
+for the development and quality of the Internet Standards.  ISOC aids the IETF by providing it an legal framework 
+within which the IETF LLC can exist, as well as with financial support. ISOC has no influence whatsoever on the 
+technical content of Internet Standards.
 
 ## Relationship of the LLC Board to Existing IETF Leadership
 
