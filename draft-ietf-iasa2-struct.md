@@ -293,15 +293,15 @@ IETF and ISOC are outlined in {{?I-D.ietf-iasa2-rfc2031bis}}. ISOC's connection 
 played an important role in its policy work. ISOC has always been an advocate for multistakeholder processes, which 
 includes the technical community.  Open standards are an explicit part of one of the focus areas in ISOC's mission: Advancing the development and application of Internet infrastructure, technologies, and open standards.
 
-On a practical level, the IETF LLC is a distinct subsidiary (disregarded entity) of ISOC. The IETF remains responsible 
-for the development and quality of the Internet Standards.  ISOC aids the IETF by providing it an legal framework 
-within which the IETF LLC can exist, as well as with financial support. ISOC has no influence whatsoever on the 
+On a practical level, the IETF LLC is a distinct entity (a disregarded entity) of ISOC. The IETF remains responsible 
+for the development and quality of the Internet Standards.  ISOC aids the IETF by providing it a legal entity 
+within which the IETF LLC exists, as well as with financial support. ISOC has no influence whatsoever on the 
 technical content of Internet Standards.
 
 ## Relationship of the IETF LLC Board to the IETF Leadership
 
 The IETF LLC Board is directly accountable to the IETF community for the
-performance of the IASA2.  However, the nature of the IETF LLC Board's work
+performance of the IASA 2.0.  However, the nature of the IETF LLC Board's work
 involves treating the IESG and IAB as major internal customers of the
 administrative support services.  The IETF LLC Board and the IETF Executive Director should not
 consider their work successful unless the IESG and IAB are also
@@ -316,23 +316,22 @@ decide by voting.
 The IETF LLC Board decides the details about its decision-making rules,
 including its rules for quorum (see {{quorum}}), conflict of interest
 (see {{conflict-of-interest}}), and breaking of ties. These rules
-shall be made public.
+are expected to be public.
 
-All IETF LLC Board decisions shall be recorded in IETF LLC Board minutes, and
-IETF LLC Board minutes shall be published in a timely fashion.
+All IETF LLC Board decisions are expected to be recorded in IETF LLC Board minutes, and
+IETF LLC Board minutes are expected to be published in a timely fashion.
 
 ## Review and Appeal of IETF Executive Director and IETF LLC Board Decisions
 
 The IETF LLC Board is directly accountable to the IETF community for the
-performance of the IASA2.  In order to achieve this, the IETF LLC Board and IETF Executive Director
-will ensure that guidelines are developed for regular operational
+performance of the IASA 2.0.  In order to achieve this, the IETF LLC Board and IETF Executive Director
+are expected to ensure that guidelines are developed for regular operational
 decision making.  Where appropriate, these guidelines should be
 developed with public input.  In all cases, they must be made public.
 
 If a member of the IETF community questions whether a decision or
 action of the IETF Executive Director or the IETF LLC Board has been undertaken in accordance with
-IETF BCPs or IASA2 operational guidelines, or questions whether the
-IASA2 has created and maintained appropriate guidelines, he or she may
+IETF BCPs or IASA 2.0 operational guidelines, or questions whether the IETF LLC has created and maintained appropriate guidelines, he or she may
 ask the IETF LLC Board for a formal review of the decision or action.
 
 The request for review should be addressed to the IETF LLC Board chair and
@@ -340,7 +339,7 @@ should include a description of the decision or action to be reviewed,
 an explanation of how, in the requestor's opinion, the decision or
 action violates the BCPs or operational guidelines, and a suggestion
 for how the situation could be rectified.  All requests for review
-shall be posted publicly, and the IETF LLC Board is expected to respond to these
+shall be posted publicly, and the IETF LLC Board is expected to respond publicly to these
 requests within a reasonable period, typically within 90 days.  It is
 up to the IETF LLC Board to determine what type of review and response is
 required, based on the nature of the review request.  Based on the
@@ -381,13 +380,11 @@ adjustments, etc.).
 The IETF is a consensus-based group, and authority to act on behalf of
 the community requires a high degree of consensus and the continued
 consent of the community.  After a careful process of deliberation, a
-broad-based community consensus emerged to house the IETF
-Administrative Support Activity, version 2 (IASA2) within the Internet Society.
-This document reflects that consensus.
+broad-based community consensus emerged to house the administration of the IETF within the IETF LLC as a disregarded entity of the Internet Society. This document reflects that consensus.
 
 ##  Termination and Change
 
-Any change to this agreement shall require a similar level of
+Any major change to the IASA 2.0 arrangements shall require a similar level of
 community consensus and deliberation and shall be reflected by a
 subsequent Best Current Practice (BCP) document.
 
