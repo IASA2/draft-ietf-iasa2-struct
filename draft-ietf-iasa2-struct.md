@@ -632,7 +632,7 @@ The IETF LLC exists to support the IETF.  Therefore, the IETF LLC's funding and 
 and other income that comprise that funding shall be used solely to support IETF-related activities and for no 
 other purposes.
 
-# Fundraising Practices {#fundraising-practices}
+## Fundraising Practices {#fundraising-practices}
 
 When the LLC conducts fundraising, it will substantiate charitable contributions on behalf of ISOC. The LLC will evaluate and facilitate state, federal, and other applicable law and regulatory compliance for ISOC and/or the LLC with respect to such fundraising activities. In addition, the LLC shall ensure that all fundraising activities are conducted in compliance with any policies developed by the LLC, including but not limited to those noted in {{llc-policies}}.
 
