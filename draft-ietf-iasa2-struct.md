@@ -665,11 +665,11 @@ and so the process should begin several months before the start of the next fisc
 
 # IETF LLC Policies {#llc-policies}
 
-The Board shall develop policies as necessary to achieve the goals of the IETF LLC, meet transparency expectations of the community, comply with applicable laws or regulations, or for other reasons as appropriate. All policies should be developed with input from the IETF community. Some policies of ISOC may provide a good starting point from which the Board can begin.
+The Board is expected to maintain policies as necessary to achieve the goals of the IETF LLC, meet transparency expectations of the community, comply with applicable laws or regulations, or for other reasons as appropriate. All policies are expected to be developed with input from the IETF community. Some policies of ISOC provided a useful starting point for the Board to consider.
 
 ## Conflict of Interest Policy {#conflict-of-interest}
 
-The Board shall develop a Conflict of Interest policy for the IETF LLC. While the details shall be determined by the Board, at a minimum such policy will include the following:
+The Board is expected to maintain a Conflict of Interest policy for the IETF LLC. While the details are determined by the Board, at a minimum such policy is expected to include the following:
 
 * The IETF, ISOC Board, IAB, or IRTF chair cannot be chair of this IETF LLC Board, though they may serve as a Director.
 
@@ -677,7 +677,7 @@ The Board shall develop a Conflict of Interest policy for the IETF LLC. While th
 
 ## Other Policies {#other-policies}
 
-The Board shall develop additional policies for the IETF LLC as necessary, covering Directors, employees, and contractors, concerning issues such as:
+The Board is expected to maintain additional policies for the IETF LLC as necessary, covering Directors, employees, and contractors, concerning issues such as:
 
 * Acceptance of gifts and other non-cash compensation;
 
@@ -705,13 +705,13 @@ The Board shall develop additional policies for the IETF LLC as necessary, cover
 
 ## Compliance {#compliance}
 
-The IETF LLC shall develop and implement a compliance program to ensure its compliance with all applicable laws, rules and regulations, including without limitation laws governing bribery, anti-terrorism sanctions, export controls, data protection/privacy, as well as other applicable policies noted in {{llc-policies}}. In addition, actions and activities of the IETF LLC must be consistent with 501(c)(3) purposes.
+The IETF LLC is expected to implement a compliance program to ensure its compliance with all applicable laws, rules and regulations, including without limitation laws governing bribery, anti-terrorism sanctions, export controls, data protection/privacy, as well as other applicable policies noted in {{llc-policies}}. In addition, actions and activities of the IETF LLC must be consistent with 501(c)(3) purposes.
 
-The IETF LLC shall report to ISOC on the implementation of its compliance plan on an annual basis.
+The IETF LLC is expected report to ISOC on the implementation of its compliance plan on an annual basis.
 
 # Three-Year Assessment
 
-The IETF LLC, with the involvement of the community, shall conduct and complete an assessment of the structure, processes, and operation of the IASA2 and IETF LLC. This should be presented to the community after a period of roughly three years of operation. The assessment may potentially include recommendations for improvements or changes to the IASA2 and/or IETF LLC.
+The IETF LLC, with the involvement of the community, shall conduct and complete an assessment of the structure, processes, and operation of IASA 2.0 and the IETF LLC. This should be presented to the community after a period of roughly three years of operation. The assessment may potentially include recommendations for improvements or changes to the IASA2 and/or IETF LLC.
 
 # Transitioning to the IETF LLC {#transition-considerations}
 
