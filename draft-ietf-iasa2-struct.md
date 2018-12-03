@@ -632,6 +632,10 @@ The IETF LLC exists to support the IETF.  Therefore, the IETF LLC's funding and 
 and other income that comprise that funding shall be used solely to support IETF-related activities and for no 
 other purposes.
 
+# Fundraising Practices {#fundraising-practices}
+
+When the LLC conducts fundraising, it will substantiate charitable contributions on behalf of ISOC. The LLC will evaluate and facilitate state, federal, and other applicable law and regulatory compliance for ISOC and/or the LLC with respect to such fundraising activities. In addition, the LLC shall ensure that all fundraising activities are conducted in compliance with any policies developed by the LLC, including but not limited to those noted in {{llc-policies}}.
+
 ## Operating Reserve
 
 As an initial guideline and in normal operating circumstances, the IETF LLC should have an operating reserve for 
@@ -663,6 +667,8 @@ The annual budget shall be developed in an open, transparent, and collaborative 
 be established by the IETF LLC Board and may be revised as needed. In order to meet the expectations in {{#principles}}, 
 there should be sufficient time for the IETF community and others to review and comment on drafts of the annual budget, 
 and so the process should begin several months before the start of the next fiscal year.
+
+
 
 # LLC Policies {#llc-policies}
 
@@ -709,10 +715,6 @@ The Board shall develop additional policies for the LLC as necessary, covering D
 The LLC shall develop and implement a compliance program to ensure its compliance with all applicable laws, rules and regulations, including without limitation laws governing bribery, anti-terrorism sanctions, export controls, data protection/privacy, as well as other applicable policies noted in {{llc-policies}}. In addition, actions and activities of the LLC must be consistent with 501(c)(3) purposes.
 
 The LLC shall report to ISOC on the implementation of its compliance plan on an annual basis.
-
-# Fundraising Practices {#fundraising-practices}
-
-When the LLC conducts fundraising, it will substantiate charitable contributions on behalf of ISOC. The LLC will evaluate and facilitate state, federal, and other applicable law and regulatory compliance for ISOC and/or the LLC with respect to such fundraising activities. In addition, the LLC shall ensure that all fundraising activities are conducted in compliance with any policies developed by the LLC, including but not limited to those noted in {{llc-policies}}.
 
 # Transition Considerations {#transition-considerations}
 
