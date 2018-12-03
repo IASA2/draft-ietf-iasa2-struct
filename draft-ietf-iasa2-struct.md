@@ -476,6 +476,99 @@ This board structure, with limited strategic responsibilities noted in {{board-r
 
 Finally, the LLC Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA2 design process is detailed above in in {{principles}}. The Board will need to establish how it will meet that commitment.
 
+# LLC Board Membership, Selection and Accountability {#board}
+
+## Board Composition {#board-composition}
+
+There shall be a minimum of 5 directors, expandable to 6 or 7.
+
+* 1 IETF Chair or delegate selected by the IESG
+
+* 1 Appointed by the ISOC Board of Trustees
+
+* 3 Selected by the IETF NomCom, confirmed by the IESG
+
+* Up to 2 Appointed by the LLC board itself, on an as needed basis, confirmed by the IESG
+
+For the first slot listed above, the presumption is that the IETF
+Chair will serve on the board. At the IESG's discretion, another area
+director may serve instead, or exceptionally the IESG may run a
+selection process to appoint a director. The goal of having this slot
+on the board is to maintain coordination and communication between the
+board and the IESG.
+
+## LLC-Appointed Directors {#llc-directors}
+
+As noted above, a maximum of two Directors may be appointed by the LLC Board. They can obviously choose to appoint none, one, or two. These appointments need not be on an exceptional basis, but rather be routine, and may occur at any time of the year since it is on an as needed basis.
+
+The appointment of a LLC Board-appointed Director requires a 2/3rd-majority vote of the Directors then in office, and the appointee shall take office immediately upon appointment. The term of each appointment shall be designated by the Board, with the maximum term being three years, or until their earlier resignation, removal or death.  The Board may decide on a case-by-case basis how long each term shall be, factoring in the restriction for consecutive terms in {{term-length}}.
+
+## Recruiting LLC Board Directors {#director-recruitment}
+
+The LLC Board itself should take an active role in recruiting potential new Directors, regardless of the process that may be used to appoint them. In particular, the NomCom is primarily focused on considering requirements expressed by the Board and others, reviewing community feedback on candidates, conducting candidate interviews, and ultimately appointing Directors. The LLC Board and others can recruit potential Directors and get them into the consideration process of the NomCom or other appointing bodies.
+
+## LLC Board Director Term Length {#term-length}
+
+The term length for a Director shall be three years in length. The exceptions to this guideline will be for the terms for some Directors during the first full formation of the LLC Board in order to establish staggered terms and for any appointments to fill a vacancy. The final exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s term length is governed instead by the term lengths established in {{RFC7437}} (BCP10), Section 3.4.
+
+## LLC Board Director Limit {#term-limit}
+
+A director may serve no more than two consecutive terms, with at least one full term prior to the start of any additional terms. An exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s service is governed instead by the term lengths established in {{RFC7437}} (BCP10), Section 3.4.
+
+An exception to the two consecutive term rule is for an LLC-appointed Director. For such a Director, they may serve only one term via this appointment method, after which any subsequent terms would be occur via other appointment or selection processes (such as via the NomCom process).
+
+Lastly, partial terms of less than three years for the initial appointments to the First Full Board {{first-full-board}}, for which some Directors will have terms of one or two years, do not count against the term limit.
+
+The limit on consecutive terms supports the healthy regular introduction of new ideas and energy into the Board and mitigates potential long-term risk of ossification or conflict, without adversely impacting the potential pool of director candidates over time.
+
+## Staggered Terms {#staggered-terms}
+ISOC, the IESG, the Nominating Committee, and the Board shall coordinate with each other to ensure that collectively their appointment or selection processes provide for no more than three Directors’ terms concluding in the same year.
+
+## LLC Board Director Removal {#director-removal}
+
+Directors may be removed with or without cause. A vote in favor of removal must be no fewer than the number of Directors less two.  So for example, if there are seven directors, then five votes are required. Directors may also be removed via the IETF recall process defined in {{RFC7437}} (BCP10), Section 7.
+
+## Filling a LLC Board Director Vacancy {#director-vacancy}
+
+It shall be the responsibility of each respective body that appointed or selected a Director that vacates the Board to appoint a new Director to fill the vacancy.  For example, if a Director selected by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom (using its mid-term rules, as specified in {{RFC8318}}, Section 3.5) as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director.  However, this obligation will not apply to vacancies in Board-appointed positions. 
+
+## Quorum {#quorum}
+
+At all meetings of the Board, at least 2/3 of the Directors then in office shall constitute a quorum for the transaction of business. If a quorum shall not be present at any meeting of the Board, the Directors present thereat may adjourn the meeting without notice other than announcement at the meeting, until a quorum shall be present.
+
+## Board Voting {#voting}
+
+The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. Decisions on regular LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted.
+
+## Interim Board {#interim-board}
+
+An initial interim Board will be necessary in order to legally form and bootstrap the LLC. As a result, an Interim Board will be formed on a temporary basis until the first full board is constituted. Barring unforeseen circumstances, the Interim Board should conclude no later than the end of the 104th meeting of the IETF, in March 2019.
+
+The interim Board shall be comprised of:
+
+* The IETF chair, ex officio
+
+* The IAOC chair, ex officio
+
+* The IAB chair, ex officio
+
+* One ISOC trustee, selected by the ISOC Board of Trustees
+
+## First Full Board {#first-full-board}
+
+A minimum of five Directors must be seated in order for the Board to be constituted, and then the Interim Board will be dissolved. Accordingly, the following steps must take place to ensure that this occurs on a timely basis:
+
+* The IESG shall make their appointment no later than January 31, 2019.
+
+* ISOC shall make their appointment no later than January 31, 2019.
+
+* The NomCom shall make their appointments no later than March 22, 2019.
+
+If these bodies can make their appointments sooner, then by all means they should do so in order to enable the first full board to begin as soon as possible. This is particularly so for the NomCom. If the NomCom can make their appointments sooner, then the first full board could be constituted in time for IETF 104 (March 23-29, 2019).
+
+## Board Positions {#board-positions}
+
+Following the formation of the first full LLC Board, and at each subsequent annual meeting of the LLC Board, the Directors shall elect by a majority vote of the LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for LLC Board Directors as necessary.
 
 # IETF LLC Funding
 
@@ -570,100 +663,6 @@ The annual budget shall be developed in an open, transparent, and collaborative 
 be established by the IETF LLC Board and may be revised as needed. In order to meet the expectations in {{#principles}}, 
 there should be sufficient time for the IETF community and others to review and comment on drafts of the annual budget, 
 and so the process should begin several months before the start of the next fiscal year.
-
-# LLC Board Membership, Selection and Accountability {#board}
-
-## Board Composition {#board-composition}
-
-There shall be a minimum of 5 directors, expandable to 6 or 7.
-
-* 1 IETF Chair or delegate selected by the IESG
-
-* 1 Appointed by the ISOC Board of Trustees
-
-* 3 Selected by the IETF NomCom, confirmed by the IESG
-
-* Up to 2 Appointed by the LLC board itself, on an as needed basis, confirmed by the IESG
-
-For the first slot listed above, the presumption is that the IETF
-Chair will serve on the board. At the IESG's discretion, another area
-director may serve instead, or exceptionally the IESG may run a
-selection process to appoint a director. The goal of having this slot
-on the board is to maintain coordination and communication between the
-board and the IESG.
-
-## LLC-Appointed Directors {#llc-directors}
-
-As noted above, a maximum of two Directors may be appointed by the LLC Board. They can obviously choose to appoint none, one, or two. These appointments need not be on an exceptional basis, but rather be routine, and may occur at any time of the year since it is on an as needed basis.
-
-The appointment of a LLC Board-appointed Director requires a 2/3rd-majority vote of the Directors then in office, and the appointee shall take office immediately upon appointment. The term of each appointment shall be designated by the Board, with the maximum term being three years, or until their earlier resignation, removal or death.  The Board may decide on a case-by-case basis how long each term shall be, factoring in the restriction for consecutive terms in {{term-length}}.
-
-## Recruiting LLC Board Directors {#director-recruitment}
-
-The LLC Board itself should take an active role in recruiting potential new Directors, regardless of the process that may be used to appoint them. In particular, the NomCom is primarily focused on considering requirements expressed by the Board and others, reviewing community feedback on candidates, conducting candidate interviews, and ultimately appointing Directors. The LLC Board and others can recruit potential Directors and get them into the consideration process of the NomCom or other appointing bodies.
-
-## LLC Board Director Term Length {#term-length}
-
-The term length for a Director shall be three years in length. The exceptions to this guideline will be for the terms for some Directors during the first full formation of the LLC Board in order to establish staggered terms and for any appointments to fill a vacancy. The final exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s term length is governed instead by the term lengths established in {{RFC7437}} (BCP10), Section 3.4.
-
-## LLC Board Director Limit {#term-limit}
-
-A director may serve no more than two consecutive terms, with at least one full term prior to the start of any additional terms. An exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s service is governed instead by the term lengths established in {{RFC7437}} (BCP10), Section 3.4.
-
-An exception to the two consecutive term rule is for an LLC-appointed Director. For such a Director, they may serve only one term via this appointment method, after which any subsequent terms would be occur via other appointment or selection processes (such as via the NomCom process).
-
-Lastly, partial terms of less than three years for the initial appointments to the First Full Board {{first-full-board}}, for which some Directors will have terms of one or two years, do not count against the term limit.
-
-The limit on consecutive terms supports the healthy regular introduction of new ideas and energy into the Board and mitigates potential long-term risk of ossification or conflict, without adversely impacting the potential pool of director candidates over time.
-
-## Staggered Terms {#staggered-terms}
-ISOC, the IESG, the Nominating Committee, and the Board shall coordinate with each other to ensure that collectively their appointment or selection processes provide for no more than three Directors’ terms concluding in the same year.
-
-## LLC Board Director Removal {#director-removal}
-
-Directors may be removed with or without cause. A vote in favor of removal must be no fewer than the number of Directors less two.  So for example, if there are seven directors, then five votes are required. Directors may also be removed via the IETF recall process defined in {{RFC7437}} (BCP10), Section 7.
-
-## Filling a LLC Board Director Vacancy {#director-vacancy}
-
-It shall be the responsibility of each respective body that appointed or selected a Director that vacates the Board to appoint a new Director to fill the vacancy.  For example, if a Director selected by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom (using its mid-term rules, as specified in {{RFC8318}}, Section 3.5) as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director.  However, this obligation will not apply to vacancies in Board-appointed positions. 
-
-## Quorum {#quorum}
-
-At all meetings of the Board, at least 2/3 of the Directors then in office shall constitute a quorum for the transaction of business. If a quorum shall not be present at any meeting of the Board, the Directors present thereat may adjourn the meeting without notice other than announcement at the meeting, until a quorum shall be present.
-
-## Board Voting {#voting}
-
-The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. Decisions on regular LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted.
-
-## Interim Board {#interim-board}
-
-An initial interim Board will be necessary in order to legally form and bootstrap the LLC. As a result, an Interim Board will be formed on a temporary basis until the first full board is constituted. Barring unforeseen circumstances, the Interim Board should conclude no later than the end of the 104th meeting of the IETF, in March 2019.
-
-The interim Board shall be comprised of:
-
-* The IETF chair, ex officio
-
-* The IAOC chair, ex officio
-
-* The IAB chair, ex officio
-
-* One ISOC trustee, selected by the ISOC Board of Trustees
-
-## First Full Board {#first-full-board}
-
-A minimum of five Directors must be seated in order for the Board to be constituted, and then the Interim Board will be dissolved. Accordingly, the following steps must take place to ensure that this occurs on a timely basis:
-
-* The IESG shall make their appointment no later than January 31, 2019.
-
-* ISOC shall make their appointment no later than January 31, 2019.
-
-* The NomCom shall make their appointments no later than March 22, 2019.
-
-If these bodies can make their appointments sooner, then by all means they should do so in order to enable the first full board to begin as soon as possible. This is particularly so for the NomCom. If the NomCom can make their appointments sooner, then the first full board could be constituted in time for IETF 104 (March 23-29, 2019).
-
-## Board Positions {#board-positions}
-
-Following the formation of the first full LLC Board, and at each subsequent annual meeting of the LLC Board, the Directors shall elect by a majority vote of the LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for LLC Board Directors as necessary.
 
 # LLC Policies {#llc-policies}
 
