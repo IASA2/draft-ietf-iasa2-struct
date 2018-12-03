@@ -241,7 +241,7 @@ ISOC: Internet Society (see {{RFC2031}} and {{ISOC}}).
 * The Board of the LLC shall be more focused on strategy and oversight, with the IETF Executive Director and their team in charge of day-to-day operations.
 
 * The IAD role is now "IETF Executive Director" as they are the
-  executive director of the IETF Administration LLC.
+  Executive Director of the IETF Administration LLC.
 
 * The role that was previously referred to as "IETF Executive
   Director" in older documents such as {{RFC2026}} is now "Managing
@@ -464,6 +464,80 @@ A goal of this proposed Board composition is to balance the need for the LLC to 
 This board structure, with limited strategic responsibilities noted in {{board-responsibilities}} and limited size, together with the staff responsibilities noted in {{staff-responsibilities}}, is designed to overcome the challenges described in Section 3.1.4 of {{?I-D.haberman-iasa20dt-recs}} concerning oversight. This establishes a clear line of oversight over staff performance: the LLC Board oversees the IETF Executive Director's performance and has actual legal authority to remove a non-performing IETF Executive Director. The IETF Executive Director is responsible for the day-to-day operation of the LLC.
 
 Finally, the LLC Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA2 design process is detailed above in in {{principles}}. The Board will need to establish how it will meet that commitment.
+
+
+# IETF LLC Funding
+
+The IETF LLC must function within a budget of costs balanced against limited revenues.  The IETF community expects the IETF LLC to work to attain that goal, in order to maintain a viable IETF support function that prodvides the environment within which the IETF's technical work can remain vibrant and productive. 
+
+The IETF LLC generates income from a few key sources at the time that this document was written, as enumerated below. Additional sources of income may be developed in the future, within the general bounds noted in {{fundraising-practices}}, and some of these may decline in relevance or go away. As a result this list is subject to change over time and is merely an example of the current primary sources of income for the IETF LLC:
+
+1.  ISOC support
+2.  IETF meeting revenues
+3.  Donations to the IETF LLC (monetary and/or in-kind)
+
+## Financial Statements
+
+As noted in {{board-responsibilities}}, the IETF LLC must comply with relevant tax laws, such as filing an annual
+IRS Form 990. Other official financial statements may also be required. 
+
+In addition to these official financial statements and forms, the IETF LLC shall also report on a regular basis to the 
+IETF community on the current and future annual budget, budget forecasts vs. actuals over the course of a fiscal year, 
+and on other significant projects as needed. This regular reporting to the IETF community shall be reported in the form 
+of standard financial statements that reflects the income, expenses, assets, and liabilities of the IETF LLC.
+
+## Bank and Investment Accounts
+
+The IETF LLC shall establish and maintain it's own bank account, separate and distinct from ISOC. The IETF LLC 
+may at its discretion create additional accounts as needed. Similarly, the IETF LLC may as needed create investment 
+accounts in support of its financial goals and objectives.
+   
+## Financial Audits
+
+The IETF LLC shall retain and work with an independent auditor. Reports from the auditor shall be shared with the IETF community and other groups and organizations as needed or as required by law.
+
+## ISOC Financial Support
+
+ISOC currently provides significant financial support to the IETF LLC. Exhibit B of the {{IETF-LLC-OA}} summarizes the one-time and on-going financial support from ISOC for the forseeable future. It is envisioned that this support will be periodically reviewed and revised, via a cooperative assessment process between ISOC and the IETF LLC. 
+
+## IETF Meeting Revenues
+
+Meeting revenues are another important source of funding that supports the IETF, comining mainly from the fees paid 
+by IETF meeting participants. The IETF Executive Director sets those meeting fees, in consultation with the IETF LLC and 
+the IETF community, with formal approval by the IETF LLC. Setting these fees and projecting the number of participants 
+at future meetings is a key part of the annual budget process.  
+
+## Donations to the IETF LLC
+
+Donations are an essential component of the financial support for the IETF. Within the general bounds noted in 
+{{fundraising-practices}}, the IETF LLC is responsible for fundraising activities in order to establish, maintain, 
+and grow a strong foundation of donation revenues. This can and does include both direct financial contributions as well 
+as in-kind contributions, such as equipment, software licenses, and services. 
+
+Donations to the IETF LLC shall not convey to donors any special oversight or direct influence over the IETF's 
+technical work or other activities of the IETF or IETF LLC. This helps ensure that no undue influence may be 
+ascribed to those from whom funds are raised, and so helps to maintain an open and consensus-based IETF standards process.
+
+To the extent that the IETF LLC needs to undertake any significant special projects for the IETF, the IETF LLC 
+may need to fundraise distinctly for those special projects. As a result, the IETF LLC may conduct fundraising to support 
+the IETF in general as well as one or more special fundraising efforts (which may also be accounted for distinctly and be held in a separate bank account or investment, as needed).
+
+## IETF LLC Expenses
+
+The IETF LLC exists to support the IETF.  Therefore, the IETF LLC's funding and all revenues, in-kind contributions, 
+and other income that comprise that funding shall be used solely to support IETF-related activities and for no 
+other purposes.
+
+## Operating Reserve
+
+As an initial guideline and in normal operating circumstances, the IETF LLC should have an operating reserve for 
+its activities sufficient to cover at (1) least 6 months of non-meeting operational expenses, plus (2) at least 
+two times the recent average for meeting contract guarantees.  The IETF LLC, in cooperation with ISOC and the 
+IETF community, shall establish a financial target for this reserve fund, in accordance with prudent planning 
+and as part of the annual budget process and at other appropriate times.
+
+Should the IETF LLC generate an annual budget surplus, it may choose to direct all or part of the surplus towards 
+the growth of the operating reserve.
 
 
 # LLC Board Membership, Selection and Accountability {#board}
