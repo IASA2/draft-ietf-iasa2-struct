@@ -522,7 +522,7 @@ To the extent that the IETF LLC needs to undertake any significant special proje
 may need to fundraise distinctly for those special projects. As a result, the IETF LLC may conduct fundraising to support 
 the IETF in general as well as one or more special fundraising efforts (which may also be accounted for distinctly and be held in a separate bank account or investment, as needed).
 
-## IETF LLC Expenses
+## Funding Supports the IETF
 
 The IETF LLC exists to support the IETF.  Therefore, the IETF LLC's funding and all revenues, in-kind contributions, 
 and other income that comprise that funding shall be used solely to support IETF-related activities and for no 
@@ -539,9 +539,28 @@ and as part of the annual budget process and at other appropriate times.
 Should the IETF LLC generate an annual budget surplus, it may choose to direct all or part of the surplus towards 
 the growth of the operating reserve.
 
+## Annual Budget Process
+
+As noted in {{#llc-responsibilities}}, the IETF LLC is responsible for managing the IETF's finances and budget. 
+A key part of this responsibility is establishing, maintaining, and successfully meeting an annual budget. This 
+is essential to the continued operation and vibrancy of the IETF's technical activities and establishes trust 
+with ISOC and donors that funds are being appropriately spent, and that financial oversight is being conducted 
+properly. This is also essential to the IETF LLC meeting applicable legal and tax requirements and is a core part of 
+the IETF LLC Board's fiduciary responsibilities. 
+
+As explained in {{#staff-responsibilities}}, the IETF Executive Director shall develop, execute, and report on the 
+annual budget. Regular reporting shall include monthly and quarterly forecast vs. budget statements, including updated projections of income and expenses for the full fiscal year. 
+
+The IETF LLC Board, as explained in {{#board-responsibilities}}, shall review and approve the 
+budget, as well as provide ongoing oversight of the budget and of any other significant financial matters. 
+
+The annual budget shall be developed in an open, transparent, and collaborative manner, in accordance with 
+{{#principles}}. The specific timeline for the development, review, and approval of the IETF LLC annual budget shall 
+be established by the IETF LLC Board and may be revised as needed. In order to meet the expectations in {{#principles}}, 
+there should be sufficient time for the IETF community and others to review and comment on drafts of the annual budget, 
+and so the process should begin several months before the start of the next fiscal year.
 
 # LLC Board Membership, Selection and Accountability {#board}
-
 
 ## Board Composition {#board-composition}
 
