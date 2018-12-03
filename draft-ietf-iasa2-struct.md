@@ -229,7 +229,7 @@ multi-member "manager" of the LLC on behalf of ISOC (See
 
 ISOC: Internet Society (see {{RFC2031}} and {{ISOC}}).
 
-## Key Differences from the old IASA Structure
+## Key Differences From the Old IASA Structure
 
 * The IAOC and IAD roles defined in RFC 4071 are eliminated.
 
@@ -300,7 +300,7 @@ for the development and quality of the Internet Standards.  ISOC aids the IETF b
 within which the IETF LLC can exist, as well as with financial support. ISOC has no influence whatsoever on the 
 technical content of Internet Standards.
 
-## Relationship of the LLC Board to Existing IETF Leadership
+## Relationship of the LLC Board to the IETF Leadership
 
 The LLC Board is directly accountable to the IETF community for the
 performance of the IASA2.  However, the nature of the LLC Board's work
@@ -323,7 +323,7 @@ shall be made public.
 All LLC Board decisions shall be recorded in LLC Board minutes, and
 LLC Board minutes shall be published in a timely fashion.
 
-## Review and Appeal of IETF Executive Director and LLC Board Decision
+## Review and Appeal of IETF Executive Director and LLC Board Decisions
 
 The LLC Board is directly accountable to the IETF community for the
 performance of the IASA2.  In order to achieve this, the LLC Board and IETF Executive Director
