@@ -286,6 +286,11 @@ shall develop and maintain a public list of confidential items, describing the n
 * Unification: The IETF IETF LLC is reponsible for providing unified legal, financial, and administrative support for 
 operation of the IETF, IAB, IESG, IRTF, and RFC Editor.
 
+* Transfer or Dissolution: Consistent with {{IETF-LLC-OA}}, the IETF LLC subsidiary may be transferred from ISOC to 
+another organization, at the request of either party. Similarly, the IETF LLC may be dissolved if necessary. Should 
+either event occur, the IETF community should be closely involved in any decisions and plans, and any tranfer, 
+transition, or dissolution conducted carefully and with minimal potential disruption to the IETF.
+
 The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA2 process, with little to no dissent.  It was recognized that there will naturally be a confidentiality requirement about some aspects of hotel contracting, personnel matters, and other narrow areas.
 
 ## Principles of the IETF and ISOC Relationship
