@@ -197,7 +197,7 @@ IASA: The original IETF Administrative Support Activity, defined by
 {{RFC4071}} and obsoleted by this document and the ISOC/IETF LLC
 Agreement ({{IETF-LLC-OA}}).
 
-IASA2: Version 2.0 of the IETF Administrative Support Activity,
+IASA 2.0: Version 2.0 of the IETF Administrative Support Activity,
 defined by this document.
 
 IESG: Internet Engineering Steering Group (see {{RFC2026}},
@@ -206,7 +206,7 @@ IESG: Internet Engineering Steering Group (see {{RFC2026}},
 IETF: Internet Engineering Task Force (see {{RFC3233}}).
 
 IETF Administration LLC: The legal entity -- a disregarded Limited Liability Company
-(LLC) of The Internet Society -- established to house IASA2, specified
+(LLC) of The Internet Society -- established to house IASA 2.0, specified
 by the ISOC/IETF LLC Agreement ({{IETF-LLC-OA}}). Also referred to as "IETF LLC" or just the "LLC".
 
 IETF LLC Executive Director: the executive director for the IETF
@@ -223,27 +223,26 @@ multi-member "manager" of the IETF LLC on behalf of ISOC (See
 
 ISOC: Internet Society (see {{RFC2031}} and {{ISOC}}).
 
-## Key Differences From the Old IASA Structure to IASA2
+## Key Differences From the Old IASA Structure to IASA 2.0
 
-* The IAOC and IAD roles defined in RFC 4071 are eliminated.
+* The IAOC and IAD roles defined in RFC 4071 were eliminated.
 
-* The former ISOC and IAD responsibilities are assigned to a new
+* The former ISOC and IAD responsibilities were assigned to a new
   organization, IETF Administration LLC.
 
-* The Board of Directors of the IETF LLC -- formally a multi-member "manager" of the IETF LLC on behalf of ISOC -- will assume the oversight responsibilities of the IAOC.
+* The Board of Directors of the IETF LLC -- formally a multi-member "manager" of the IETF LLC on behalf of ISOC -- assumed the oversight responsibilities of the IAOC.
 
-* The Board of the IETF LLC shall be more focused on strategy and oversight, with the IETF Executive Director and their team in charge of day-to-day operations.
+* The Board of the IETF LLC is more focused on strategy and oversight than the IAOC was, with the IETF Executive Director and their team in charge of day-to-day operations.
 
-* The IAD role is now "IETF Executive Director" as they are the
-  Executive Director of the IETF Administration LLC.
+* The IAD role was replaced with the IETF Executive Director role.
 
 * The role that was previously referred to as "IETF Executive
-  Director" in older documents such as {{RFC2026}} is now "Managing
+  Director" in older documents such as {{RFC2026}} was replaced with "Managing
   Director, IETF Secretariat".
 
 ## General IETF LLC Responsibilities {#llc-responsibilities}
 
-The IETF LLC will be established to provide administrative support to the IETF. It will have no authority over the standards development activities of the IETF.
+The IETF LLC was established to provide administrative support to the IETF. It has no authority over the standards development activities of the IETF.
 
 The responsibilities of the IETF LLC are:
 
@@ -262,30 +261,30 @@ Specifically, this is
 intended to bring greater clarity around roles, responsibilities,
 representation, decision-making, and authority.
 
-In addition, by having the IETF LLC manage the IETF's finances and conduct the IETF's fundraising, confusion about who is responsible for representing the IETF to sponsors and who directs the uses of sponsorship funds will be eliminated. Finally, having the IETF LLC reside in a defined, distinct legal entity, and taking responsibility for operations, will enable the organization to execute its own contracts without the need for review and approval by ISOC.
+In addition, by having the IETF LLC manage the IETF's finances and conduct the IETF's fundraising, confusion about who is responsible for representing the IETF to sponsors and who directs the uses of sponsorship funds should have been eliminated. Finally, having the IETF LLC reside in a defined, distinct legal entity, and taking responsibility for operations, enables the organization to execute its own contracts without the need for review and approval by ISOC.
 
 ## IETF LLC Working Principles {#principles}
 
-The IETF LLC will be expected to conduct its work according to the following principles, subject to any reasonable confidentiality obligations:
+The IETF LLC is expected to conduct its work according to the following principles, subject to any reasonable confidentiality obligations:
 
-* Transparency. The IETF LLC will keep the IETF community informed about its work and will engage with the community to obtain consensus-based community input on key issues and otherwise as needed. The IETF community shall have complete visibility 
+* Transparency. The IETF LLC is expected to keep the IETF community informed about its work and to engage with the community to obtain consensus-based community input on key issues and otherwise as needed. The IETF community expects complete visibility 
 into the financial and legal structure of the IETF LLC. This includes information about the IETF LLC annual budget and associated regular financial reports, results of financial and any other independent audits, tax filings, significant contracts or other significant long-term financial commitments that bind the IETF LLC. As discussed in {{ietf101-slides}}, 
-whatever doesn't have a specific justification for being kept confidential, should be made public. The IETF LLC Board 
-shall develop and maintain a public list of confidential items, describing the nature of the information and the reason for confidentiality. 
+whatever doesn't have a specific justification for being kept confidential is expected to be made public. The IETF LLC Board 
+is expected to develop and maintain a public list of confidential items, describing the nature of the information and the reason for confidentiality. 
 
-* Responsiveness to the community. The IETF LLC will act consistently with the documented consensus of the IETF community, to be responsive to the community's needs, and adapt its decisions in response to consensus-based community feedback.
+* Responsiveness to the community. The IETF LLC is expected to act consistently with the documented consensus of the IETF community, to be responsive to the community's needs, and to adapt its decisions in response to consensus-based community feedback.
 
-* Diligence. The IETF LLC will act responsibly so as to minimize risks to IETF participants and to the future of the IETF as a whole, such as financial risks.
+* Diligence. The IETF LLC is expected to act responsibly so as to minimize risks to IETF participants and to the future of the IETF as a whole, such as financial risks.
 
 * Unification: The IETF IETF LLC is reponsible for providing unified legal, financial, and administrative support for 
 operation of the IETF, IAB, IESG, IRTF, and RFC Editor.
 
-* Transfer or Dissolution: Consistent with {{IETF-LLC-OA}}, the IETF LLC subsidiary may be transferred from ISOC to 
+* Transfer or Dissolution: Consistent with {{IETF-LLC-OA}}, the IETF LLC may be transferred from ISOC to 
 another organization, at the request of either party. Similarly, the IETF LLC may be dissolved if necessary. Should 
 either event occur, the IETF community should be closely involved in any decisions and plans, and any tranfer, 
 transition, or dissolution conducted carefully and with minimal potential disruption to the IETF.
 
-The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA2 process, with little to no dissent.  It was recognized that there will naturally be a confidentiality requirement about some aspects of hotel contracting, personnel matters, and other narrow areas.
+The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA 2.0 process, with little to no dissent.  It was recognized that there will naturally be a confidentiality requirement about some aspects of hotel contracting, personnel matters, and other narrow areas.
 
 ## Principles of the IETF and ISOC Relationship
 
