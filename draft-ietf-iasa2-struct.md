@@ -403,8 +403,7 @@ Based on the amount of work previously undertaken by the IAD and others involved
 
 The IETF has historically benefitted from the use of contractors for accounting, finance, meeting planning, administrative assistance, legal counsel, tools, and web site support, as well as other services related to the standards process (RFC Editor and IANA). Prior to making the transition from IASA to IASA 2.0, the IETF budget reflected specific support from ISOC for communications and fundraising as well as some general support for accounting, finance, legal, and other services. The division of responsibilities between staff and contractors is at the discretion of the IETF Executive Director and his or her staff.
 
-The IETF has a long history of community involvement in the execution of certain administrative functions, in particular development of IETF tools, the NOC's operation of the meeting network, and some outreach and communications activities conducted by the Education and Mentoring Directorate. The IETF LLC staff is expected to respect the IETF community's wishes about community involvement in these and other functions going forward as long as the staff feels that they can meet the otherwise-stated needs of the community. Establishing the framework to allow the IETF LLC to staff each administrative function as appropriate may require the IETF community to document its consensus expectations in areas where no documentation currently exists (see {{transition-considerations}}).
-(TODO: We are considering removing {{transition-considerations}} or moving it to {{?I-D.haberman-iasa20dt-recs}}.)
+The IETF has a long history of community involvement in the execution of certain administrative functions, in particular development of IETF tools, the NOC's operation of the meeting network, and some outreach and communications activities conducted by the Education and Mentoring Directorate. The IETF LLC staff is expected to respect the IETF community's wishes about community involvement in these and other functions going forward as long as the staff feels that they can meet the otherwise-stated needs of the community. Establishing the framework to allow the IETF LLC to staff each administrative function as appropriate may require the IETF community to document its consensus expectations in areas where no documentation currently exists.
 
 In summary, the IETF Executive Director, with support from the team that they alone direct and lead, is responsible for:
 
@@ -712,86 +711,6 @@ The IETF LLC is expected report to ISOC on the implementation of its compliance 
 # Three-Year Assessment
 
 The IETF LLC, with the involvement of the community, shall conduct and complete an assessment of the structure, processes, and operation of IASA 2.0 and the IETF LLC. This should be presented to the community after a period of roughly three years of operation. The assessment may potentially include recommendations for improvements or changes to the IASA2 and/or IETF LLC.
-
-# Transitioning to the IETF LLC {#transition-considerations}
-
-(TODO: This section is a bit out of place now. It was appropriate when
-this was -struct which was documenting work of the IASA2 WG and not
-obsoleting 4071bis. We can probably either 1) delete this section, or
-2) move to {{?I-D.haberman-iasa20dt-recs}}.)
-
-Conducting a transition to the IETF LLC from the earlier structure of the IASAn to IASA2 will encompass many different work activities and will require action, involvement, support, and/or feedback from groups and individuals across the IETF community. The transition is likely to proceed in these steps but the community should remain flexible and adapt this plan as changes occur and complications inevitably arise.
-
-Phase 1: IETF LLC Formation (Complete)
-
-* The IETF LLC is formed with an Interim Board (see {{interim-board}}).
-
-* The IAOC continues to operate as usual, such as reviewing and approving the IETF's FY2019 budget.
-
-* The NomCom is given instructions by the IETF chair to not recruit for 2019 IAOC positions, and instead recruit for IETF LLC Board Directors.
-
-* An update of all relevant RFCs is started, reflecting the change from IAOC to IETF LLC.
-
-Phase 2: Transition from IAOC to IETF LLC (In Process)
-
-* The IETF LLC's Interim Board and IAOC shall agree to a transition schedule to transition IAOC responsibilities one-by-one to the IETF LLC.
-
-* This phase should optimally conclude prior to the expiration of IAOC member terms in 2019.
-
-Phase 3: Transition Complete
-
-* The first full board is seated (see {{first-full-board}}).
-
-* All responsibilities of the IAOC have been assumed by the IETF LLC.
-
-* The IAOC can then be shut down.
-
-## Initial Tasks of the IETF LLC Board
-
-The initial tasks of the IETF LLC Board should be prioritized according to legal necessity and relative importance. Below are suggested priorities to consider as and after the IETF LLC is formed.
-
-High priority for the Interim Board:
-
-1 – Form the IETF LLC legally
-
-2 – Setup a bank account so that funds can be moved over
-
-3 – Transfer all necessary contracts from ISOC/IAOC to the IETF LLC
-
-4 – Establish & implement a process to pay any employees or contractors, as necessary
-
-5 - Agree to a transition schedule with the IAOC
-
-6 - Secure any necessary insurance such as Commercial General Liability and other appropriate insurance policies, with appropriate coverage limits
-
-Medium Priority for the Interim Board:
-
-1 – Create a job description for the IETF Executive Director
-
-2 - Initiate the process of beginning to search for an IETF Executive Director and/or outline a process to do so and defer it to the first full board, as appropriate
-
-First Tasks of the Full Board:
-
-1 – Develop all necessary IETF LLC policies
-
-2 – Develop all necessary Board operating procedures and bylaws
-
-3 – Determine the employee benefits/salary framework and/or make associated staffing decisions
-
-4 - Interview and hire an IETF Executive Director (targeting the first
-half of 2019)
-
-5 - Select a chair and other positions as necessary
-
-6 - Define and document how the Board will fulfill its transparency obligations to the IETF community
-
-7 - Define the "significant materiality threshold", above which the Board must approve any contracts, expenditures, or other commitments.
-
-Once the IETF Executive Director and any additional staff are hired, it would be expected for IETF LLC to:
-
-* Do a thorough review of existing contracts, community volunteer arrangements, and administrative assets to determine the need for initial changes.
-
-* Assess areas where the IETF community needs to document its consensus, e.g., expectations about community involvement in NOC or tools efforts.
 
 # Security Considerations
 
