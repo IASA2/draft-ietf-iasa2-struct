@@ -32,6 +32,7 @@ author:
     email: jason_livingood@comcast.com
 
 informative:
+  RFC7691:
   RFC7437:
   RFC8318:
   RFC2026:
@@ -40,6 +41,7 @@ informative:
   RFC2031:
   RFC3710:
   RFC3233:
+  RFC4333:
 
   IETF-LLC-A:
     title: Limited Liability Company Agreement of IETF Administration LLC
@@ -510,7 +512,7 @@ A director may serve no more than two consecutive terms, with at least one full 
 
 An exception to the two consecutive term rule is for an IETF LLC-appointed Director. For such a Director, they may serve only one term via this appointment method, after which any subsequent terms would be occur via other appointment or selection processes (such as via the NomCom process).
 
-Lastly, partial terms of less than three years for the initial appointments to the First Full Board {{first-full-board}}, for which some Directors will have terms of one or two years, do not count against the term limit.
+Lastly, partial terms of less than three years for the initial appointments to the first full board, for which some Directors will have terms of one or two years, do not count against the term limit.
 
 The limit on consecutive terms supports the healthy regular introduction of new ideas and energy into the Board and mitigates potential long-term risk of ossification or conflict, without adversely impacting the potential pool of director candidates over time.
 
@@ -630,21 +632,21 @@ the growth of the operating reserve.
 
 ## Annual Budget Process
 
-As noted in {{#llc-responsibilities}}, the IETF LLC is responsible for managing the IETF's finances and budget. 
+As noted in {{llc-responsibilities}}, the IETF LLC is responsible for managing the IETF's finances and budget. 
 A key part of this responsibility is establishing, maintaining, and successfully meeting an annual budget. This 
 is essential to the continued operation and vibrancy of the IETF's technical activities and establishes trust 
 with ISOC and donors that funds are being appropriately spent, and that financial oversight is being conducted 
 properly. This is also essential to the IETF LLC meeting applicable legal and tax requirements and is a core part of 
 the IETF LLC Board's fiduciary responsibilities. 
 
-As explained in {{#staff-responsibilities}}, the IETF Executive Director is expected to develop, execute, and report on the 
+As explained in {{staff-responsibilities}}, the IETF Executive Director is expected to develop, execute, and report on the 
 annual budget. Regular reporting is expected to include monthly and quarterly forecast vs. budget statements, including updated projections of income and expenses for the full fiscal year. 
 
-The IETF LLC Board, as explained in {{#board-responsibilities}}, is expected to review and approve the 
+The IETF LLC Board, as explained in {{board-responsibilities}}, is expected to review and approve the 
 budget, as well as to provide ongoing oversight of the budget and of any other significant financial matters. 
 
 The annual budget is expected to be developed in an open, transparent, and collaborative manner, in accordance with 
-{{#principles}}. The specific timeline for the development, review, and approval of the IETF LLC annual budget is established by the IETF LLC Board and may be revised as needed. 
+{{principles}}. The specific timeline for the development, review, and approval of the IETF LLC annual budget is established by the IETF LLC Board and may be revised as needed. 
 
 # IETF LLC Policies {#llc-policies}
 
