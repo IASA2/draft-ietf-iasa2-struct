@@ -381,7 +381,9 @@ adjustments, etc.).
 The IETF is a consensus-based group, and authority to act on behalf of
 the community requires a high degree of consensus and the continued
 consent of the community.  After a careful process of deliberation, a
-broad-based community consensus emerged to house the administration of the IETF within the IETF LLC as a disregarded entity of the Internet Society. This document reflects that consensus.
+broad-based community consensus emerged to house the administration of the 
+IETF within the IETF LLC as a disregarded entity of the Internet Society. 
+This document reflects that consensus.
 
 ##  Termination and Change
 
@@ -462,7 +464,6 @@ As part of the responsibilities outlined above the Board is expected to work to 
 
 The description below outlines the composition of the IETF LLC Board, selection of IETF LLC Board Directors, and related details.
 
-
 ## Board Design Goals {#board-design-goals}
 
 A goal of this Board composition is to balance the need for the IETF LLC to be accountable to the IETF community with the need for this Board to have the expertise necessary to oversee a small non-profit corporation. The Board is smaller than the previous IAOC and the other leadership bodies of the IETF, in part to keep the Board focused on its rather limited set of strategic responsibilities as noted in {{board-responsibilities}}.
@@ -517,6 +518,7 @@ Lastly, partial terms of less than three years for the initial appointments to t
 The limit on consecutive terms supports the healthy regular introduction of new ideas and energy into the Board and mitigates potential long-term risk of ossification or conflict, without adversely impacting the potential pool of director candidates over time.
 
 ## Staggered Terms {#staggered-terms}
+
 ISOC, the IESG, the Nominating Committee, and the Board are expected to coordinate with each other to ensure that collectively their appointment or selection processes provide for no more than three Directors’ terms concluding in the same year.
 
 ## IETF LLC Board Director Removal {#director-removal}
@@ -568,10 +570,11 @@ The IETF LLC generates income from a few key sources at the time that this docum
 As noted in {{board-responsibilities}}, the IETF LLC must comply with relevant tax laws, such as filing an annual
 IRS Form 990. Other official financial statements may also be required. 
 
-In addition to these official financial statements and forms, the IETF LLC is also expected to report on a regular basis to the 
-IETF community on the current and future annual budget, budget forecasts vs. actuals over the course of a fiscal year, 
-and on other significant projects as needed. This regular reporting to the IETF community is expected to be reported in the form 
-of standard financial statements that reflect the income, expenses, assets, and liabilities of the IETF LLC.
+In addition to these official financial statements and forms, the IETF LLC is also expected to report on a regular basis 
+to the IETF community on the current and future annual budget, budget forecasts vs. actuals over the course of a fiscal 
+year, and on other significant projects as needed. This regular reporting to the IETF community is expected to be 
+reported in the form of standard financial statements that reflect the income, expenses, assets, and liabilities of the 
+IETF LLC.
 
 ## Bank and Investment Accounts
 
@@ -646,9 +649,7 @@ The IETF LLC Board, as explained in {{#board-responsibilities}}, is expected to 
 budget, as well as to provide ongoing oversight of the budget and of any other significant financial matters. 
 
 The annual budget is expected to be developed in an open, transparent, and collaborative manner, in accordance with 
-{{#principles}}. The specific timeline for the development, review, and approval of the IETF LLC annual budget is established by the IETF LLC Board and may be revised as needed. In order to meet the expectations in {{#principles}}, 
-there should be sufficient time for the IETF community and others to review and comment on drafts of the annual budget, 
-and so the process should begin several months before the start of the next fiscal year.
+{{#principles}}. The specific timeline for the development, review, and approval of the IETF LLC annual budget is established by the IETF LLC Board and may be revised as needed. 
 
 # IETF LLC Policies {#llc-policies}
 
