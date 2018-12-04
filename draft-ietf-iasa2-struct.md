@@ -624,11 +624,9 @@ When the IETF LLC conducts fundraising, it substantiates charitable contribution
 
 ## Operating Reserve
 
-As an initial guideline and in normal operating circumstances, the IETF LLC is expected to have an operating reserve for 
-its activities sufficient to cover (1) at least 6 months of non-meeting operational expenses, plus (2) at least 
-two times the recent average for meeting contract guarantees.  The IETF LLC, in cooperation with ISOC and the 
-IETF community, is expected to establish a financial target for this reserve fund, in accordance with prudent planning 
-and as part of the annual budget process and at other appropriate times.
+An initial target operating reserve has been specified in Exhibit B of the {{IETF-LLC-A}}.  That says that the IETF LLC 
+should maintain an operating reserve equal to the IETF LLC’s budgeted Net Loss for 2019 multiplied times three. The IETF 
+LLC, in cooperation with ISOC, may regularly review the financial target for this reserve fund, as noted in the {{IETF-LLC-A}} or as otherwise necessary.
 
 Should the IETF LLC generate an annual budget surplus, it may choose to direct all or part of the surplus towards 
 the growth of the operating reserve.
