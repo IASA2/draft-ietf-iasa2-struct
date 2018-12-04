@@ -549,18 +549,6 @@ The interim Board was comprised of:
 
 * One ISOC trustee, selected by the ISOC Board of Trustees
 
-## First Full Board {#first-full-board}
-
-A minimum of five Directors must be seated in order for the Board to be constituted, and then the Interim Board will be dissolved. Accordingly, the following steps must take place to ensure that this occurs on a timely basis:
-
-* The IESG shall make their appointment no later than January 31, 2019.
-
-* ISOC shall make their appointment no later than January 31, 2019.
-
-* The NomCom shall make their appointments no later than March 22, 2019.
-
-If these bodies can make their appointments sooner, then by all means they should do so in order to enable the first full board to begin as soon as possible. This is particularly so for the NomCom. If the NomCom can make their appointments sooner, then the first full board could be constituted in time for IETF 104 (March 23-29, 2019).
-
 ## Board Positions {#board-positions}
 
 Following the formation of the first full IETF LLC Board, and at each subsequent annual meeting of the IETF LLC Board, the Directors are expected to elect by a majority vote of the IETF LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for IETF LLC Board Directors as necessary.
