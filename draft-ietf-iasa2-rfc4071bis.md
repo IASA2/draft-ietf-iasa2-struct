@@ -190,7 +190,9 @@ IETF LLC Executive Director.
 
 IAOC: IETF Administrative Oversight Committee, a committee that oversaw
 IETF administrative activity, obsoleted by this document and replaced
-by the IETF LLC Board.
+by the IETF LLC Board. (The IETF Trust function of the former IAOC was
+not included in the new responsibilities of the IETF LLC Board (See
+{{?I-D.ietf-iasa2-trust-update}}).)
 
 IASA: The original IETF Administrative Support Activity, defined by
 {{RFC4071}} and obsoleted by this document and the ISOC/IETF LLC
