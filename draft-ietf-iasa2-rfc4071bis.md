@@ -205,7 +205,6 @@ IESG: Internet Engineering Steering Group (see {{RFC2026}},
 IETF: Internet Engineering Task Force (see {{RFC3233}}).
 
 IETF Administration LLC: The legal entity -- a disregarded Limited Liability Company
-
 (LLC) of The Internet Society -- established to house IASA2, specified
 by the ISOC/IETF LLC Agreement ({{IETF-LLC-A}}). Also referred to as "IETF LLC" or just the "LLC".
 
