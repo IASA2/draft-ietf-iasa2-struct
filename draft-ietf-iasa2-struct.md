@@ -569,7 +569,7 @@ Following the formation of the first full IETF LLC Board, and at each subsequent
 
 The IETF LLC must function within a budget of costs balanced against limited revenues.  The IETF community expects the IETF LLC to work to attain that goal, in order to maintain a viable IETF support function that prodvides the environment within which the IETF's technical work can remain vibrant and productive. 
 
-The IETF LLC generates income from a few key sources at the time that this document was written, as enumerated below. Additional sources of income may be developed in the future, within the general bounds noted in {{fundraising-practices}}, and some of these may decline in relevance or go away. As a result this list is subject to change over time and is merely an example of the current primary sources of income for the IETF LLC:
+The IETF LLC generates income from a few key sources at the time that this document was written, as enumerated below. Additional sources of income may be developed in the future, within the general bounds noted in {{fundraising-practices}}, and some of these may decline in relevance or go away. As a result this list is subject to change over time and is merely an example of the primary sources of income for the IETF LLC at the time of this writing:
 
 1.  ISOC support
 2.  IETF meeting revenues
@@ -580,24 +580,24 @@ The IETF LLC generates income from a few key sources at the time that this docum
 As noted in {{board-responsibilities}}, the IETF LLC must comply with relevant tax laws, such as filing an annual
 IRS Form 990. Other official financial statements may also be required. 
 
-In addition to these official financial statements and forms, the IETF LLC shall also report on a regular basis to the 
+In addition to these official financial statements and forms, the IETF LLC is also expected to report on a regular basis to the 
 IETF community on the current and future annual budget, budget forecasts vs. actuals over the course of a fiscal year, 
-and on other significant projects as needed. This regular reporting to the IETF community shall be reported in the form 
-of standard financial statements that reflects the income, expenses, assets, and liabilities of the IETF LLC.
+and on other significant projects as needed. This regular reporting to the IETF community is expected to be reported in the form 
+of standard financial statements that reflect the income, expenses, assets, and liabilities of the IETF LLC.
 
 ## Bank and Investment Accounts
 
-The IETF LLC shall establish and maintain it's own bank account, separate and distinct from ISOC. The IETF LLC 
+The IETF LLC maintains its own bank account, separate and distinct from ISOC. The IETF LLC 
 may at its discretion create additional accounts as needed. Similarly, the IETF LLC may as needed create investment 
 accounts in support of its financial goals and objectives.
    
 ## Financial Audits
 
-The IETF LLC shall retain and work with an independent auditor. Reports from the auditor shall be shared with the IETF community and other groups and organizations as needed or as required by law.
+The IETF LLC is expected to retain and work with an independent auditor. Reports from the auditor are expected to be shared with the IETF community and other groups and organizations as needed or as required by law.
 
 ## ISOC Financial Support
 
-ISOC currently provides significant financial support to the IETF LLC. Exhibit B of the {{IETF-LLC-OA}} summarizes the one-time and on-going financial support from ISOC for the forseeable future. It is envisioned that this support will be periodically reviewed and revised, via a cooperative assessment process between ISOC and the IETF LLC. 
+At the time of this writing ISOC provides significant financial support to the IETF LLC. Exhibit B of the {{IETF-LLC-OA}} summarizes the one-time and on-going financial support from ISOC at the time of the creation of the IETF LLC. It is envisioned that this support will be periodically reviewed and revised, via a cooperative assessment process between ISOC and the IETF LLC. 
 
 ## IETF Meeting Revenues
 
@@ -629,14 +629,14 @@ other purposes.
 
 ## Charitable Fundraising Practices {#fundraising-practices}
 
-When the IETF LLC conducts fundraising, it will substantiate charitable contributions on behalf of ISOC. The IETF LLC will evaluate and facilitate state, federal, and other applicable law and regulatory compliance for ISOC and/or the LLC with respect to such fundraising activities. In addition, the IETF LLC shall ensure that all fundraising activities are conducted in compliance with any policies developed by the IETF LLC, including but not limited to those noted in {{llc-policies}}.
+When the IETF LLC conducts fundraising, it substantiates charitable contributions on behalf of ISOC. The IETF LLC evaluates and facilitates state, federal, and other applicable law and regulatory compliance for ISOC and/or the LLC with respect to such fundraising activities. In addition, the IETF LLC ensures that all fundraising activities are conducted in compliance with any policies developed by the IETF LLC, including but not limited to those noted in {{llc-policies}}.
 
 ## Operating Reserve
 
-As an initial guideline and in normal operating circumstances, the IETF LLC should have an operating reserve for 
-its activities sufficient to cover at (1) least 6 months of non-meeting operational expenses, plus (2) at least 
+As an initial guideline and in normal operating circumstances, the IETF LLC is expected to have an operating reserve for 
+its activities sufficient to cover (1) at least 6 months of non-meeting operational expenses, plus (2) at least 
 two times the recent average for meeting contract guarantees.  The IETF LLC, in cooperation with ISOC and the 
-IETF community, shall establish a financial target for this reserve fund, in accordance with prudent planning 
+IETF community, is expected to establish a financial target for this reserve fund, in accordance with prudent planning 
 and as part of the annual budget process and at other appropriate times.
 
 Should the IETF LLC generate an annual budget surplus, it may choose to direct all or part of the surplus towards 
@@ -651,21 +651,20 @@ with ISOC and donors that funds are being appropriately spent, and that financia
 properly. This is also essential to the IETF LLC meeting applicable legal and tax requirements and is a core part of 
 the IETF LLC Board's fiduciary responsibilities. 
 
-As explained in {{#staff-responsibilities}}, the IETF Executive Director shall develop, execute, and report on the 
-annual budget. Regular reporting shall include monthly and quarterly forecast vs. budget statements, including updated projections of income and expenses for the full fiscal year. 
+As explained in {{#staff-responsibilities}}, the IETF Executive Director is expected to develop, execute, and report on the 
+annual budget. Regular reporting is expected to include monthly and quarterly forecast vs. budget statements, including updated projections of income and expenses for the full fiscal year. 
 
-The IETF LLC Board, as explained in {{#board-responsibilities}}, shall review and approve the 
-budget, as well as provide ongoing oversight of the budget and of any other significant financial matters. 
+The IETF LLC Board, as explained in {{#board-responsibilities}}, is expected to review and approve the 
+budget, as well as to provide ongoing oversight of the budget and of any other significant financial matters. 
 
-The annual budget shall be developed in an open, transparent, and collaborative manner, in accordance with 
-{{#principles}}. The specific timeline for the development, review, and approval of the IETF LLC annual budget shall 
-be established by the IETF LLC Board and may be revised as needed. In order to meet the expectations in {{#principles}}, 
+The annual budget is expected to be developed in an open, transparent, and collaborative manner, in accordance with 
+{{#principles}}. The specific timeline for the development, review, and approval of the IETF LLC annual budget is established by the IETF LLC Board and may be revised as needed. In order to meet the expectations in {{#principles}}, 
 there should be sufficient time for the IETF community and others to review and comment on drafts of the annual budget, 
 and so the process should begin several months before the start of the next fiscal year.
 
 # IETF LLC Policies {#llc-policies}
 
-The Board shall develop policies as necessary to achieve the goals of the IETF LLC, meet transparency expectations of the community, comply with applicable laws or regulations, or for other reasons as appropriate. All policies should be developed with input from the IETF community. Some policies of ISOC may provide a good starting point from which the Board can begin.
+The Board is expected to develop policies as necessary to achieve the goals of the IETF LLC, meet transparency expectations of the community, comply with applicable laws or regulations, or for other reasons as appropriate. All policies should be developed with input from the IETF community. Some policies of ISOC may provide a good starting point from which the Board can begin.
 
 ## Conflict of Interest Policy {#conflict-of-interest}
 
