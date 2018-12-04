@@ -397,7 +397,6 @@ subsequent Best Current Practice (BCP) document.
 ## IETF Executive Director and Staff Responsibilities {#staff-responsibilities}
 
 The IETF LLC is led by an IETF Executive Director chosen by the Board. The IETF Executive Director is responsible for managing the day-to-day operations of the IETF LLC, including hiring staff to perform various operational functions. The IETF Executive Director and any staff may be employees or independent contractors.
-(Note: The is the Executive Director of the IETF LLC, not the "IETF Executive Director" mentioned in some older documents (e.g., {{RFC2026}}), which is currently known as "Managing Director, IETF Secretariat.")
 
 Allowing for the division of responsibilities among multiple staff members and contractors is designed to address some of the concerns raised in Section 3.2 (Lack of Resources) and Section 3.4 (Funding/Operating Model Mismatch and Rising Costs) of {{?I-D.haberman-iasa20dt-recs}}.
 
