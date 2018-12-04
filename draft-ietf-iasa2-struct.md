@@ -469,13 +469,13 @@ A goal of this Board composition is to balance the need for the IETF LLC to be a
 
 This board structure, with limited strategic responsibilities noted in {{board-responsibilities}} and limited size, together with the staff responsibilities noted in {{staff-responsibilities}}, is designed to overcome the challenges described in Section 3.1.4 of {{?I-D.haberman-iasa20dt-recs}} concerning oversight. This establishes a clear line of oversight over staff performance: the IETF LLC Board oversees the IETF Executive Director's performance and has actual legal authority to remove a non-performing IETF Executive Director. The IETF Executive Director is responsible for the day-to-day operation of the IETF LLC.
 
-Finally, the IETF LLC Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA2 design process is detailed above in in {{principles}}. The Board will need to establish how it will meet that commitment.
+Finally, the IETF LLC Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA 2.0 design process is detailed above in {{principles}}. The Board will need to establish how it will meet that commitment.
 
 # IETF LLC Board Membership, Selection and Accountability {#board}
 
 ## Board Composition {#board-composition}
 
-There shall be a minimum of 5 directors, expandable to 6 or 7.
+There is a minimum of 5 directors, expandable to 6 or 7.
 
 * 1 IETF Chair or delegate selected by the IESG
 
@@ -483,7 +483,7 @@ There shall be a minimum of 5 directors, expandable to 6 or 7.
 
 * 3 Selected by the IETF NomCom, confirmed by the IESG
 
-* Up to 2 Appointed by the IETF LLC board itself, on an as needed basis, confirmed by the IESG
+* Up to 2 Appointed by the IETF LLC board itself, on an as-needed basis, confirmed by the IESG
 
 For the first slot listed above, the presumption is that the IETF
 Chair will serve on the board. At the IESG's discretion, another area
@@ -494,17 +494,17 @@ board and the IESG.
 
 ## IETF LLC-Appointed Directors {#llc-directors}
 
-As noted above, a maximum of two Directors may be appointed by the IETF LLC Board. They can obviously choose to appoint none, one, or two. These appointments need not be on an exceptional basis, but rather be routine, and may occur at any time of the year since it is on an as needed basis.
+As noted above, a maximum of two Directors may be appointed by the IETF LLC Board. They can obviously choose to appoint none, one, or two. These appointments need not be on an exceptional basis, but rather be routine, and may occur at any time of the year since it is on an as-needed basis.
 
-The appointment of a IETF LLC Board-appointed Director requires a 2/3rd-majority vote of the Directors then in office, and the appointee shall take office immediately upon appointment. The term of each appointment shall be designated by the Board, with the maximum term being three years, or until their earlier resignation, removal or death.  The Board may decide on a case-by-case basis how long each term shall be, factoring in the restriction for consecutive terms in {{term-length}}.
+The appointment of an IETF LLC Board-appointed Director requires a 2/3rd-majority vote of the Directors then in office, and the appointee shall take office immediately upon appointment. The term of each appointment is designated by the Board, with the maximum term being three years, or until their earlier resignation, removal or death.  The Board may decide on a case-by-case basis how long each term shall be, factoring in the restriction for consecutive terms in {{term-length}}.
 
 ## Recruiting IETF LLC Board Directors {#director-recruitment}
 
-The IETF LLC Board itself should take an active role in recruiting potential new Directors, regardless of the process that may be used to appoint them. In particular, the NomCom is primarily focused on considering requirements expressed by the Board and others, reviewing community feedback on candidates, conducting candidate interviews, and ultimately appointing Directors. The IETF LLC Board and others can recruit potential Directors and get them into the consideration process of the NomCom or other appointing bodies.
+The IETF LLC Board itself is expected to take an active role in recruiting potential new Directors, regardless of the process that may be used to appoint them. In particular, the NomCom is primarily focused on considering requirements expressed by the Board and others, reviewing community feedback on candidates, conducting candidate interviews, and ultimately appointing Directors. The IETF LLC Board and others can recruit potential Directors and get them into the consideration process of the NomCom or other appointing bodies.
 
 ## IETF LLC Board Director Term Length {#term-length}
 
-The term length for a Director shall be three years in length. The exceptions to this guideline will be for the terms for some Directors during the first full formation of the IETF LLC Board in order to establish staggered terms and for any appointments to fill a vacancy. The final exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s term length is governed instead by the term lengths established in {{RFC7437}} (BCP10), Section 3.4.
+The term length for a Director is three years in length. The exceptions to this guideline will be for the terms for some Directors during the first full formation of the IETF LLC Board in order to establish staggered terms and for any appointments to fill a vacancy. The final exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s term length is governed instead by the term lengths established in {{RFC7437}} (BCP10), Section 3.4.
 
 ## IETF LLC Board Director Limit {#term-limit}
 
@@ -517,7 +517,7 @@ Lastly, partial terms of less than three years for the initial appointments to t
 The limit on consecutive terms supports the healthy regular introduction of new ideas and energy into the Board and mitigates potential long-term risk of ossification or conflict, without adversely impacting the potential pool of director candidates over time.
 
 ## Staggered Terms {#staggered-terms}
-ISOC, the IESG, the Nominating Committee, and the Board shall coordinate with each other to ensure that collectively their appointment or selection processes provide for no more than three Directors’ terms concluding in the same year.
+ISOC, the IESG, the Nominating Committee, and the Board are expected to coordinate with each other to ensure that collectively their appointment or selection processes provide for no more than three Directors’ terms concluding in the same year.
 
 ## IETF LLC Board Director Removal {#director-removal}
 
@@ -529,17 +529,17 @@ It shall be the responsibility of each respective body that appointed or selecte
 
 ## Quorum {#quorum}
 
-At all meetings of the Board, at least 2/3 of the Directors then in office shall constitute a quorum for the transaction of business. If a quorum shall not be present at any meeting of the Board, the Directors present thereat may adjourn the meeting without notice other than announcement at the meeting, until a quorum shall be present.
+At all meetings of the Board, at least 2/3 of the Directors then in office constitute a quorum for the transaction of business. If a quorum is not be present at any meeting of the Board, the Directors present thereat may adjourn the meeting without notice other than announcement at the meeting, until a quorum is present.
 
 ## Board Voting {#voting}
 
-The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. Decisions on regular IETF LLC matters shall be made by a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy shall not be permitted.
+The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. Decisions on regular IETF LLC matters require a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy are not permitted.
 
 ## Interim Board {#interim-board}
 
-An initial interim Board will be necessary in order to legally form and bootstrap the IETF LLC. As a result, an Interim Board will be formed on a temporary basis until the first full board is constituted. Barring unforeseen circumstances, the Interim Board should conclude no later than the end of the 104th meeting of the IETF, in March 2019.
+An initial interim Board was necessary in order to legally form and bootstrap the IETF LLC. As a result, an Interim Board was formed on a temporary basis until the first full board was constituted. The Interim Board was expected to conclude no later than the end of the 104th meeting of the IETF, in March 2019.
 
-The interim Board shall be comprised of:
+The interim Board was comprised of:
 
 * The IETF chair, ex officio
 
@@ -563,7 +563,7 @@ If these bodies can make their appointments sooner, then by all means they shoul
 
 ## Board Positions {#board-positions}
 
-Following the formation of the first full IETF LLC Board, and at each subsequent annual meeting of the IETF LLC Board, the Directors shall elect by a majority vote of the IETF LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for IETF LLC Board Directors as necessary.
+Following the formation of the first full IETF LLC Board, and at each subsequent annual meeting of the IETF LLC Board, the Directors are expected to elect by a majority vote of the IETF LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for IETF LLC Board Directors as necessary.
 
 # IETF LLC Funding
 
