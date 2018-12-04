@@ -2,7 +2,7 @@
 
 title: Structure of the IETF Administrative Support Activity, Version 2.0
 abbrev: IASA2
-docname: draft-ietf-iasa2-struct-latest
+docname: draft-ietf-iasa2-rfc4071bis
 category: bcp
 obsoletes: RFC4071, RFC4333, RFC7691
 
