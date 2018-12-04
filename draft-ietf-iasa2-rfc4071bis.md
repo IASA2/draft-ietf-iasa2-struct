@@ -81,28 +81,22 @@ informative:
 --- abstract
 
 The IETF Administrative Support Activity (IASA) was originally
-established in 2005.  In the years since that time, the needs of the
+established in 2005.  In the years since then, the needs of the
 IETF evolved in ways that required changes to its administrative
-structure.  The purpose of this document is to describe the structure
-of a IASA 2.0 and to document the decisions made by the IETF community
-in making the transition from IASA to IASA 2.0.
+structure.  The purpose of this document is to document and describe 
+the IASA 2.0 structure.
 
-In IASA 2.0, the IETF's administrative and fundraising tasks are conducted by
-an administrative organization, the IETF Administration Limited
-Liability Company (IETF LLC), a disregarded LLC of the Internet Society
-(ISOC). Under the structure, the Internet Administrative Oversight
-Committee (IAOC) and the IETF Administrative Director (IAD) position were
-eliminated, and the corresponding oversight and administrative
-functions transferred to the new IETF Administration LLC Board of
-Directors (IETF LLC Board) and the IETF LLC Executive Director 
-(IETF Executive Director),
-respectively.
+Under IASA 2.0, the work of the IETF's administrative and fundraising 
+tasks is conducted by an administrative organization, the IETF Administration 
+Limited Liability Company ("IETF LLC"). Under this structure, the Internet 
+Administrative Oversight Committee (IAOC) was eliminated, and its oversight 
+and advising functions transferred to the IETF LLC Board. 
 
 This document describes the structure of the IETF Administrative
 Support Activity, version 2 (IASA 2.0).  It defines the roles and
 responsibilities of the IETF LLC Board, the IETF Executive Director,
-and ISOC in the fiscaland administrative support of the IETF standards 
-process.  It alsodefines the membership and selection rules for the IETF 
+and ISOC in the fiscal and administrative support of the IETF standards 
+process.  It also defines the membership and selection rules for the IETF 
 LLC Board.
 
 This document obsoletes {{RFC4071}}, {{RFC4333}}, and {{RFC7691}}.
@@ -112,16 +106,16 @@ This document obsoletes {{RFC4071}}, {{RFC4333}}, and {{RFC7691}}.
 # Introduction
 
 The IETF Administrative Support Activity (IASA) was originally
-established in 2005.  In the years since 2005, the needs of
-the IETF evolved in ways that required changes to its
-administrative structure.  The purpose of this document is to document
-and describe
-the IASA 2.0 structure. Under IASA 2.0, the work of
-the IETF's administrative and fundraising tasks is conducted by an administrative organization, the IETF Administration Limited
-Liability Company ("IETF LLC"). Under this structure, the Internet
-Administrative Oversight Committee (IAOC) was eliminated, and its
-oversight and advising functions transferred to the IETF LLC
-Board. 
+established in 2005.  In the years since then, the needs of the 
+IETF evolved in ways that required changes to its administrative 
+structure.  The purpose of this document is to document and describe
+the IASA 2.0 structure. 
+
+Under IASA 2.0, the work of the IETF's administrative and fundraising 
+tasks is conducted by an administrative organization, the IETF Administration 
+Limited Liability Company ("IETF LLC"). Under this structure, the Internet 
+Administrative Oversight Committee (IAOC) was eliminated, and its oversight 
+and advising functions transferred to the IETF LLC Board. 
 
 {{?I-D.haberman-iasa20dt-recs}} discusses the challenges facing the
 original IASA structure as well as several options for reorganizing the
@@ -136,20 +130,21 @@ input about how to address the challenges identified in
 mailing list and the IASA2 working group meetings at IETF 101
 {{ietf101-slides}} and IETF 102 {{ietf102-slides}}.
 
-This document obsoletes RFC 4071, which specified the original IASA, and RFC 7691, which specified terms for IAOC members.
-
-Under IASA 2.0, most of the
-responsibilities that RFC 4071 assigned to the IETF
-Administrative Director (IAD) and the Internet Society (ISOC) were transferred to the IETF LLC and IETF Administration LLC Executive
-Director (IETF Executive Director).
-It is the job of the IETF 
-LLC to meet the administrative needs of the IETF and to ensure that the IETF LLC
-meets the needs of the IETF community.
+Under IASA 2.0, most of the responsibilities that {{RFC4071}} assigned to 
+the IETF Administrative Director (IAD) and the Internet Society (ISOC) were 
+transferred to the IETF LLC and IETF Administration LLC Executive Director 
+(IETF Executive Director). It is the job of the IETF LLC to meet the 
+administrative needs of the IETF and to ensure that the IETF LLC meets the 
+needs of the IETF community.
 
 Eliminating the IAOC meant that changes were required in how
 trustees could be appointed ro the IETF Trust. The details of how this
 is done are outside the scope of this document but are covered in
 {{?I-D.ietf-iasa2-trust-update}}.
+
+This document obsoletes {{RFC4071}}, which specified the original IASA, 
+{{RFC4333}}, which specified the selection guidelines and process for IAOC 
+members and {{RFC7691}}, which specified terms for IAOC members.
 
 # Scope Limitation
 
