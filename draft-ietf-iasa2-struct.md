@@ -94,16 +94,18 @@ Liability Company (IETF LLC), a disregarded LLC of the Internet Society
 Committee (IAOC) and the IETF Administrative Director (IAD) position were
 eliminated, and the corresponding oversight and administrative
 functions transferred to the new IETF Administration LLC Board of
-Directors (IETF LLC
-Board) and the IETF LLC Executive Director (IETF Executive Director),
+Directors (IETF LLC Board) and the IETF LLC Executive Director 
+(IETF Executive Director),
 respectively.
 
 This document describes the structure of the IETF Administrative
 Support Activity, version 2 (IASA 2.0).  It defines the roles and
-responsibilities of the IETF LLC Board, the IETF 
-Executive Director, and ISOC in the fiscal
-and administrative support of the IETF standards process.  It also
-defines the membership and selection rules for the IETF LLC Board.
+responsibilities of the IETF LLC Board, the IETF Executive Director,
+and ISOC in the fiscaland administrative support of the IETF standards 
+process.  It alsodefines the membership and selection rules for the IETF 
+LLC Board.
+
+This document obsoletes {{RFC4071}}, {{RFC4333}}, and {{RFC7691}}.
 
 --- middle
 
