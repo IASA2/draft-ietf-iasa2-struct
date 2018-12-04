@@ -140,7 +140,7 @@ administrative needs of the IETF and to ensure that the IETF LLC meets the
 needs of the IETF community.
 
 Eliminating the IAOC meant that changes were required in how
-trustees could be appointed ro the IETF Trust. The details of how this
+trustees could be appointed to the IETF Trust. The details of how this
 is done are outside the scope of this document but are covered in
 {{?I-D.ietf-iasa2-trust-update}}.
 
@@ -503,7 +503,7 @@ The IETF LLC Board itself is expected to take an active role in recruiting poten
 
 ## IETF LLC Board Director Term Length {#term-length}
 
-The term length for a Director is three years in length. The exceptions to this guideline will be for the terms for some Directors during the first full formation of the IETF LLC Board in order to establish staggered terms and for any appointments to fill a vacancy. The final exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s term length is governed instead by the term lengths established in {{RFC7437}} (BCP10), Section 3.4.
+The term length for a Director is three years. The exceptions to this guideline will be for the terms for some Directors during the first full formation of the IETF LLC Board in order to establish staggered terms and for any appointments to fill a vacancy. The final exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s term length is governed instead by the term lengths established in {{RFC7437}} (BCP10), Section 3.4.
 
 ## IETF LLC Board Director Limit {#term-limit}
 
@@ -555,7 +555,7 @@ Following the formation of the first full IETF LLC Board, and at each subsequent
 
 # IETF LLC Funding
 
-The IETF LLC must function within a budget of costs balanced against limited revenues.  The IETF community expects the IETF LLC to work to attain that goal, in order to maintain a viable IETF support function that prodvides the environment within which the IETF's technical work can remain vibrant and productive. 
+The IETF LLC must function within a budget of costs balanced against limited revenues.  The IETF community expects the IETF LLC to work to attain that goal, in order to maintain a viable IETF support function that provides the environment within which the IETF's technical work can remain vibrant and productive. 
 
 The IETF LLC generates income from a few key sources at the time that this document was written, as enumerated below. Additional sources of income may be developed in the future, within the general bounds noted in {{fundraising-practices}}, and some of these may decline in relevance or go away. As a result this list is subject to change over time and is merely an example of the primary sources of income for the IETF LLC at the time of this writing:
 
