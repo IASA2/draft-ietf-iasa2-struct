@@ -503,7 +503,17 @@ The IETF LLC Board itself is expected to take an active role in recruiting poten
 
 ## IETF LLC Board Director Term Length {#term-length}
 
-The term length for a Director is three years. The exceptions to this guideline will be for the terms for some Directors during the first full formation of the IETF LLC Board in order to establish staggered terms and for any appointments to fill a vacancy. The final exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s term length is governed instead by the term lengths established in {{RFC7437}} (BCP10), Section 3.4.
+The term length for a Director is three years. The exceptions to this
+guideline are:
+
+* For the terms for some Directors during the first full formation of
+  the IETF LLC Board in order to establish staggered terms and for any
+  appointments to fill a vacancy.
+
+* The Director slot occupied by the IETF Chair ex officio or a
+  delegate selected by the IESG will serve a two-year term. This
+  allows the term length for this slot to align with the term lengths
+  established in {{RFC7437}} (BCP10), Section 3.4.
 
 ## IETF LLC Board Director Limit {#term-limit}
 
