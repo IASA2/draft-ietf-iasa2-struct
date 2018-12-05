@@ -511,8 +511,8 @@ guideline are:
   appointments to fill a vacancy.
 
 * The Director slot occupied by the IETF Chair ex officio or a
-  delegate selected by the IESG will serve a two-year term. This
-  allows the term length for this slot to align with the term lengths
+  delegate selected by the IESG will serve a two-year term. This makes
+  the term length for this slot the same as the term lengths
   established in {{RFC7437}} (BCP10), Section 3.4.
 
 ## IETF LLC Board Director Limit {#term-limit}
