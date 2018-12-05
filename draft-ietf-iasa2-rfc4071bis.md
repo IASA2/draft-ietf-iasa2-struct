@@ -543,7 +543,7 @@ At all meetings of the Board, at least 2/3 of the Directors then in office const
 
 ## Board Voting {#voting}
 
-The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. Decisions on regular IETF LLC matters require a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy are not permitted.
+The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. A given vote shall be either conducted entirely during a synchronous live meeting or entirely via asynchronous written means, not a mix of the two. Decisions on regular IETF LLC matters require a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy are not permitted.
 
 ## Interim Board {#interim-board}
 
