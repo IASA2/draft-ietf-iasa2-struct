@@ -442,7 +442,7 @@ The IETF LLC Board is responsible for conducting oversight of the IETF LLC's exe
 * recruiting new Directors, for consideration in all of the various appointment processes.
 
 The IETF LLC Board is an oversight body, with responsibilities limited to those listed above. It does not directly conduct any of the IETF's administrative work, which is the day-to-day job of the IETF Executive Director and their team.
-Per Section 5(d) of the LLC Agreement {{IETF-LLC-A}}, the Board must provide the IETF community with an opportunity to review and discuss any proposed changes to the IETF LLC structure.
+Per Section 5(d) of the LLC Agreement {{IETF-LLC-A}}, the Board must provide the IETF community with an opportunity to review and discuss any proposed changes to the IETF LLC structure prior to their adoption.
 
 The role of the IETF LLC Board is to ensure that the strategy and conduct of the IETF LLC is consistent with the IETF's needs -- both its concrete needs and its needs for transparency and accountability.  The Board is not intended to directly define the IETF's needs; to the extent that is required, the IETF community should document its needs in consensus-based RFCs (e.g., as the community did in {{?I-D.ietf-mtgvenue-iaoc-venue-selection-process}}) and provide more detailed input via consultations with the IETF LLC Board (such as takes place on email discussion lists or at IETF meetings).
 
