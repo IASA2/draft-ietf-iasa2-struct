@@ -504,11 +504,18 @@ The IETF LLC Board itself is expected to take an active role in recruiting poten
 
 ## IETF LLC Board Director Term Length {#term-length}
 
-The term length for a Director is three years. The exceptions to this guideline will be for the terms for some Directors during the first full formation of the IETF LLC Board in order to establish staggered terms and for any appointments to fill a vacancy. The final exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s term length is governed instead by the term lengths established in {{RFC7437}} (BCP10), Section 3.4.
+The term length for a Director is three years. An exception to this guideline is for the terms for some Directors during the first full formation of the IETF LLC Board in order to establish staggered terms and for any appointments to fill a vacancy. 
+
+OPTION 1 LANGUAGE:
+The other exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s term length is governed instead by the term lengths established in {{RFC7437}} (BCP10), Section 3.4, which may be shorter than the typical three year term length. But if the IESG selects a director other than the IETF Chair, the normal term length will apply. 
+
+OPTION 2 LANGUAGE:
+The other exception is for the Director filled by the IESG, which may be the IETF Chair or anyone else selected by the IESG. In the latter case, the normal three year term length will apply. If the IETF Chair is selected, the IESG may decide to either use a three year term lenth (even if it extends beyond the appointment term to the role of IETF Chair) or use a shorter term in order to have it conclude at the same time as the appointment as IETF Chair, asestablished in {{RFC7437}} (BCP10), Section 3.4.
+
 
 ## IETF LLC Board Director Limit {#term-limit}
 
-A director may serve no more than two consecutive terms, with at least one full term prior to the start of any additional terms. An exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s service is governed instead by the term lengths established in {{RFC7437}} (BCP10), Section 3.4.
+A director may serve no more than two consecutive terms, with at least one full term prior to the start of any additional terms. 
 
 An exception to the two consecutive term rule is for an IETF LLC-appointed Director. For such a Director, they may serve only one term via this appointment method, after which any subsequent terms would be occur via other appointment or selection processes (such as via the NomCom process).
 
