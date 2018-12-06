@@ -338,7 +338,7 @@ guidelines, or questions whether the IETF LLC has created and
 maintained appropriate guidelines, he or she may ask the IETF LLC
 Board for a formal review of the decision or action.
 
-The request for review should be addressed to the IETF LLC Board chair
+A request for review should be addressed to the IETF LLC Board chair
 and should include a description of the decision or action to be
 reviewed, an explanation of how, in the requestor's opinion, the
 decision or action violates the BCPs or operational guidelines, and a
