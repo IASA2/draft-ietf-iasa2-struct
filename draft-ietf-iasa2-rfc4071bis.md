@@ -342,16 +342,16 @@ The request for review should be addressed to the IETF LLC Board chair
 and should include a description of the decision or action to be
 reviewed, an explanation of how, in the requestor's opinion, the
 decision or action violates the BCPs or operational guidelines, and a
-suggestion for how the situation could be rectified.  All requests for
-review shall be posted publicly, and the IETF LLC Board is expected to
-respond publicly to these requests within a reasonable period,
-typically within 90 days.  It is up to the IETF LLC Board to determine
-what type of review and response is required, based on the nature of
-the review request.  Based on the results of the review, the IETF LLC
-Board may choose to overturn their own decision, to change their
-operational guidelines to prevent further misunderstandings, to take
-other action as appropriate, or just to publish the review result and
-take no other action.
+suggestion for how the situation could be rectified.  All requests for 
+review shall be sent to the IETF LLC, such as via email to llc@ietf.org. 
+The IETF LLC shall in turn publish those and is expected to respond 
+publicly to a request within a reasonable period, typically within 90 days.
+It is up to the IETF LLC Board to determine what type of review and 
+response is required, based on the nature of the review request.  
+Based on the results of the review, the IETF LLC Board may choose to 
+overturn their own decision, to change their operational guidelines to 
+prevent further misunderstandings, to take other action as appropriate, 
+or just to publish the review result and take no other action.
 
 If a member of the community is not satisfied with the IETF LLC
 Board's response to his or her review request, he or she may escalate
