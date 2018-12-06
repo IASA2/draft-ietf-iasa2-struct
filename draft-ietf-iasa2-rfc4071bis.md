@@ -360,26 +360,18 @@ appeals procedures outlined in {{RFC2026}}.  If he or she is not
 satisfied with the IAB response, he or she can escalate the issue to
 the ISOC Board of Trustees, as described in {{RFC2026}}.
 
-The reviewing body (the IAB or ISOC Board of Trustees) shall review
-the decision of the IETF Executive Director or IETF LLC Board to
-determine whether it was made in accordance with existing BCPs and
-operational guidelines.  As a result of this review, the reviewing
-body may recommend to the community that the BCPs governing IETF LLC
-Board actions should be changed.  The reviewing body may also advise
-the IETF LLC Board to modify existing operational guidelines to avoid
-similar issues in the future and/or it may advise the IETF LLC Board
-to re-consider their decision or action.  It may also recommend that
-no action be taken, based on the review.
 
-In exceptional cases, when no other recourse seems reasonable, the
-reviewing body may overturn or reverse a non-binding decision or
-action of the IETF LLC Board.  This should be done only after careful
-consideration and consultation with the IETF LLC Board regarding the
-ramifications of this action.  In no circumstances may the IAB or ISOC
-Board of Trustees overturn a decision of the IETF LLC Board that
-involves a binding contract or overturn a personnel-related action
-(such as hiring, firing, promotion, demotion, performance reviews,
-salary adjustments, etc.).
+Depending on the nature of the review request, either the IAB
+or ISOC Board of Trustees shall consider it. As described in
+RFC 2026, the ISOC Board of Trustees SHALL only consider those
+that are process-related. All others SHALL be considered by the
+IAB. The appropriate reviewing body SHALL consider the review
+request and determine an appropriate course of action, if any.
+Under no circumstances may the IAB or ISOC Board of Trustees
+overturn a decision of the IETF LLC Board that involves a binding
+contract or overturn a personnel-related action (such as hiring,
+firing, promotion, demotion, performance reviews, salary
+adjustments, etc.).
 
 ## Community Consensus and Grant of Authority
 
