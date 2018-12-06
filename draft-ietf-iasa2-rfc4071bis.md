@@ -343,7 +343,8 @@ and should include a description of the decision or action to be
 reviewed, an explanation of how, in the requestor's opinion, the
 decision or action violates the BCPs or operational guidelines, and a
 suggestion for how the situation could be rectified.  All requests for
-review shall be posted publicly, and the IETF LLC Board is expected to
+review shall be sent to the IETF LLC, such as via email to llc@ietf.org. 
+The IETF LLC shall in turn publish those publicly, and is expected to
 respond publicly to these requests within a reasonable period,
 typically within 90 days.  It is up to the IETF LLC Board to determine
 what type of review and response is required, based on the nature of
