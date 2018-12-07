@@ -335,7 +335,7 @@ If a member of the IETF community questions whether a decision or
 action of the IETF Executive Director or the IETF LLC Board has been
 undertaken in accordance with IETF BCPs or IASA 2.0 operational
 guidelines, or questions whether the IETF LLC has created and
-maintained appropriate guidelines, he or she may ask the IETF LLC
+maintained appropriate guidelines, they may ask the IETF LLC
 Board for a formal review of the decision or action.
 
 The request for review should be addressed to the IETF LLC Board chair
@@ -354,10 +354,10 @@ other action as appropriate, or just to publish the review result and
 take no other action.
 
 If a member of the community is not satisfied with the IETF LLC
-Board's response to his or her review request, he or she may escalate
+Board's response to his or her review request, they may escalate
 the issue by appealing the decision or action to the IAB, using the
-appeals procedures outlined in {{RFC2026}}.  If he or she is not
-satisfied with the IAB response, he or she can escalate the issue to
+appeals procedures outlined in {{RFC2026}}.  If they are not
+satisfied with the IAB response, they can escalate the issue to
 the ISOC Board of Trustees, as described in {{RFC2026}}.
 
 The reviewing body (the IAB or ISOC Board of Trustees) shall review
