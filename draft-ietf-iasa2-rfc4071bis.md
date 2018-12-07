@@ -354,7 +354,7 @@ other action as appropriate, or just to publish the review result and
 take no other action.
 
 If a member of the community is not satisfied with the IETF LLC
-Board's response to his or her review request, they may escalate
+Board's response to their review request, they may escalate
 the issue by appealing the decision or action to the IAB, using the
 appeals procedures outlined in {{RFC2026}}.  If they are not
 satisfied with the IAB response, they can escalate the issue to
@@ -407,7 +407,7 @@ Allowing for the division of responsibilities among multiple staff members and c
 
 Based on the amount of work previously undertaken by the IAD and others involved in the IETF administration, the design of the IETF LLC anticipated that the IETF Executive Director may need to hire multiple additional staff members. For example, resources to manage fundraising, to manage the various contractors that are engaged to fulfill the IETF's administrative needs, and to support outreach and communications were envisioned.
 
-The IETF has historically benefitted from the use of contractors for accounting, finance, meeting planning, administrative assistance, legal counsel, tools, and web site support, as well as other services related to the standards process (RFC Editor and IANA). Prior to making the transition from IASA to IASA 2.0, the IETF budget reflected specific support from ISOC for communications and fundraising as well as some general support for accounting, finance, legal, and other services. The division of responsibilities between staff and contractors is at the discretion of the IETF Executive Director and his or her staff.
+The IETF has historically benefitted from the use of contractors for accounting, finance, meeting planning, administrative assistance, legal counsel, tools, and web site support, as well as other services related to the standards process (RFC Editor and IANA). Prior to making the transition from IASA to IASA 2.0, the IETF budget reflected specific support from ISOC for communications and fundraising as well as some general support for accounting, finance, legal, and other services. The division of responsibilities between staff and contractors is at the discretion of the IETF Executive Director and their staff.
 
 The IETF has a long history of community involvement in the execution of certain administrative functions, in particular development of IETF tools, the NOC's operation of the meeting network, and some outreach and communications activities conducted by the Education and Mentoring Directorate. The IETF LLC staff is expected to respect the IETF community's wishes about community involvement in these and other functions going forward as long as the staff feels that they can meet the otherwise-stated needs of the community. Establishing the framework to allow the IETF LLC to staff each administrative function as appropriate may require the IETF community to document its consensus expectations in areas where no documentation currently exists.
 
