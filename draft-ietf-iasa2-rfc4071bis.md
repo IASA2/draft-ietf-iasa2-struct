@@ -322,64 +322,14 @@ are expected to be public.
 All IETF LLC Board decisions are expected to be recorded in IETF LLC Board minutes, and
 IETF LLC Board minutes are expected to be published in a timely fashion.
 
-## Review and Appeal of IETF Executive Director and IETF LLC Board Decisions
+## Review of IETF Executive Director and IETF LLC Board Decisions
+The IETF LLC Board is directly accountable to the IETF community for the performance of the IASA 2.0, including hiring and managing the IETF Executive Director. In extreme cases of dissatisfaction with the IETF LLC, the IETF community can utilize the recall process as noted in {{#director-removal}}.
 
-The IETF LLC Board is directly accountable to the IETF community for
-the performance of the IASA 2.0.  In order to achieve this, the IETF
-LLC Board and IETF Executive Director are expected to ensure that
-guidelines are developed for regular operational decision making.
-Where appropriate, these guidelines should be developed with public
-input.  In all cases, they must be made public.
+A member of the IETF community may ask the IETF LLC Board for a formal review of a decision or action by the IETF Executive Director or IETF LLC Board if they believe this was not undertaken in accordance with IETF BCPs or IASA 2.0 operational guidelines.
 
-If a member of the IETF community questions whether a decision or
-action of the IETF Executive Director or the IETF LLC Board has been
-undertaken in accordance with IETF BCPs or IASA 2.0 operational
-guidelines, or questions whether the IETF LLC has created and
-maintained appropriate guidelines, they may ask the IETF LLC
-Board for a formal review of the decision or action.
+A formal request for review must be addressed to the IETF LLC Board chair and must include a description of the decision or action to be reviewed, an explanation of how, in the requestor's opinion, the decision or action violates the BCPs or IASA 2.0 operational guidelines, and a suggestion for how the situation could be rectified.
 
-A request for review should be addressed to the IETF LLC Board chair
-and should include a description of the decision or action to be
-reviewed, an explanation of how, in the requestor's opinion, the
-decision or action violates the BCPs or operational guidelines, and a
-suggestion for how the situation could be rectified.  All requests for 
-review shall be sent to the IETF LLC, such as via email to llc@ietf.org. 
-The IETF LLC shall in turn publish those and is expected to respond 
-publicly to a request within a reasonable period, typically within 90 days.
-It is up to the IETF LLC Board to determine what type of review and 
-response is required, based on the nature of the review request.  
-Based on the results of the review, the IETF LLC Board may choose to 
-overturn their own decision, to change their operational guidelines to 
-prevent further misunderstandings, to take other action as appropriate, 
-or just to publish the review result and take no other action.
-
-If a member of the community is not satisfied with the IETF LLC
-Board's response to their review request, they may escalate
-the issue by appealing the decision or action to the IAB, using the
-appeals procedures outlined in {{RFC2026}}.  If they are not
-satisfied with the IAB response, they can escalate the issue to
-the ISOC Board of Trustees, as described in {{RFC2026}}.
-
-The reviewing body (the IAB or ISOC Board of Trustees) shall review
-the decision of the IETF Executive Director or IETF LLC Board to
-determine whether it was made in accordance with existing BCPs and
-operational guidelines.  As a result of this review, the reviewing
-body may recommend to the community that the BCPs governing IETF LLC
-Board actions should be changed.  The reviewing body may also advise
-the IETF LLC Board to modify existing operational guidelines to avoid
-similar issues in the future and/or it may advise the IETF LLC Board
-to re-consider their decision or action.  It may also recommend that
-no action be taken, based on the review.
-
-In exceptional cases, when no other recourse seems reasonable, the
-reviewing body may overturn or reverse a non-binding decision or
-action of the IETF LLC Board.  This should be done only after careful
-consideration and consultation with the IETF LLC Board regarding the
-ramifications of this action.  In no circumstances may the IAB or ISOC
-Board of Trustees overturn a decision of the IETF LLC Board that
-involves a binding contract or overturn a personnel-related action
-(such as hiring, firing, promotion, demotion, performance reviews,
-salary adjustments, etc.).
+The IETF LLC shall respond to such requests within a reasonable period, typically within 90 days, and shall publicly publish information about the request and the corresponding response and/or result.  
 
 ## Community Consensus and Grant of Authority
 
