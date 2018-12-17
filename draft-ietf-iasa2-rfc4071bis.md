@@ -4,7 +4,7 @@ title: Structure of the IETF Administrative Support Activity, Version 2.0
 abbrev: IASA2
 docname: draft-ietf-iasa2-rfc4071bis-latest
 category: bcp
-obsoletes: RFC4071, RFC4333, RFC7691
+obsoletes: BCP101, RFC4071, RFC4333, RFC7691
 
 ipr: trust200902
 area: General
@@ -101,7 +101,7 @@ and ISOC in the fiscal and administrative support of the IETF standards
 process.  It also defines the membership and selection rules for the IETF 
 LLC Board.
 
-This document obsoletes {{RFC4071}}, {{RFC4333}}, and {{RFC7691}}.
+This document obsoletes {{RFC4071}} (BCP101), {{RFC4333}}, and {{RFC7691}}.
 
 --- middle
 
@@ -116,7 +116,7 @@ the IASA 2.0 structure.
 Under IASA 2.0, the work of the IETF's administrative and fundraising 
 tasks is conducted by an administrative organization, the IETF Administration 
 Limited Liability Company ("IETF LLC"). Under this structure, the Internet 
-Administrative Oversight Committee (IAOC) was eliminated, and its oversight 
+Administrative Oversight Committee (IAOC) is eliminated, and its oversight 
 and advising functions transferred to the IETF LLC Board. 
 
 {{?I-D.haberman-iasa20dt-recs}} discusses the challenges facing the
@@ -175,11 +175,11 @@ documents that fill gaps.
 
 # Definitions and Principles
 
-## Alphabet Soup
+## Terminology
 
 Although most of the terms, abbreviations, and acronyms used in this
-document are reasonably well known, first-time readers may find this
-alphabet soup confusing.  This section therefore attempts to provide a
+document are reasonably well known, first-time readers may find some 
+terminology confusing.  This section therefore attempts to provide a
 quick summary.
 
 IAB: Internet Architecture Board (see {{RFC2026}}, {{RFC2850}}).
@@ -208,7 +208,7 @@ IETF: Internet Engineering Task Force (see {{RFC3233}}).
 
 IETF Administration LLC: The legal entity -- a disregarded Limited Liability Company
 (LLC) of The Internet Society -- established to house IASA2, specified
-by the ISOC/IETF LLC Agreement ({{IETF-LLC-A}}). Also referred to as "IETF LLC" or just the "LLC".
+by the ISOC/IETF LLC Agreement ({{IETF-LLC-A}}) and referred to as "IETF LLC".
 
 IETF LLC Executive Director: the executive director for the IETF
 Administration Limited Liability Company, responsible for day-to-day administrative
@@ -226,24 +226,24 @@ ISOC: Internet Society (see {{RFC2031}} and {{ISOC}}).
 
 ## Key Differences From the Old IASA Structure to IASA 2.0
 
-* The IAOC and IAD roles defined in RFC 4071 were eliminated.
+* The IAOC and IAD roles defined in RFC 4071 are eliminated.
 
-* The former ISOC and IAD responsibilities were assigned to a new
+* The former ISOC and IAD responsibilities are assigned to a new
   organization, IETF Administration LLC.
 
-* The Board of Directors of the IETF LLC -- formally a multi-member "manager" of the IETF LLC on behalf of ISOC -- assumed the oversight responsibilities of the IAOC.
+* The Board of Directors of the IETF LLC -- formally a multi-member "manager" of the IETF LLC on behalf of ISOC -- assume the oversight responsibilities of the IAOC.
 
 * The Board of the IETF LLC is more focused on strategy and oversight than the IAOC was, with the IETF Executive Director and their team in charge of day-to-day operations.
 
-* The IAD role was replaced with the IETF Executive Director role.
+* The IAD role is replaced with the IETF Executive Director role.
 
 * The role that was previously referred to as "IETF Executive
-  Director" in older documents such as {{RFC2026}} was replaced with "Managing
+  Director" in older documents such as {{RFC2026}} is replaced with "Managing
   Director, IETF Secretariat".
 
 ## General IETF LLC Responsibilities {#llc-responsibilities}
 
-The IETF LLC was established to provide administrative support to the IETF. It has no authority over the standards development activities of the IETF.
+The IETF LLC is established to provide administrative support to the IETF. It has no authority over the standards development activities of the IETF.
 
 The responsibilities of the IETF LLC are:
 
@@ -323,7 +323,7 @@ All IETF LLC Board decisions are expected to be recorded in IETF LLC Board minut
 IETF LLC Board minutes are expected to be published in a timely fashion.
 
 ## Review of IETF Executive Director and IETF LLC Board Decisions
-The IETF LLC Board is directly accountable to the IETF community for the performance of the IASA 2.0, including hiring and managing the IETF Executive Director. In extreme cases of dissatisfaction with the IETF LLC, the IETF community can utilize the recall process as noted in {{#director-removal}}.
+The IETF LLC Board is directly accountable to the IETF community for the performance of the IASA 2.0, including hiring and managing the IETF Executive Director. In extreme cases of dissatisfaction with the IETF LLC, the IETF community can utilize the recall process as noted in {{director-removal}}.
 
 Anyone in the community of IETF participants may ask the IETF LLC Board for a formal review of a decision or action by the IETF Executive Director or IETF LLC Board if they believe this was not undertaken in accordance with IETF BCPs or IASA 2.0 operational guidelines.
 
@@ -482,7 +482,7 @@ The limit on consecutive terms supports the healthy regular introduction of new 
 
 ## Staggered Terms {#staggered-terms}
 
-ISOC, the IESG, the Nominating Committee, and the Board are expected to coordinate with each other to ensure that collectively their appointment or selection processes provide for no more than three Directors’ terms concluding in the same year.
+The Internet Society, the IESG, the Nominating Committee, and the Board are expected to coordinate with each other to ensure that collectively their appointment or selection processes provide for no more than three Directors’ terms concluding in the same year.
 
 ## IETF LLC Board Director Removal {#director-removal}
 
@@ -494,11 +494,11 @@ It shall be the responsibility of each respective body that appointed or selecte
 
 ## Quorum {#quorum}
 
-At all meetings of the Board, at least 2/3 of the Directors then in office constitute a quorum for the transaction of business. If a quorum is not be present at any meeting of the Board, the Directors present thereat may adjourn the meeting without notice other than announcement at the meeting, until a quorum is present.
+At all meetings of the Board, at least 2/3 of the Directors then in office constitute a quorum for the transaction of business. If a quorum is not be present at any meeting of the Board, the Directors present may adjourn the meeting without notice other than announcement at the meeting, until a quorum is present.
 
 ## Board Voting {#voting}
 
-The Board can hold votes during synchronous live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. A given vote shall be either conducted entirely during a synchronous live meeting or entirely via asynchronous written means, not a mix of the two. Decisions on regular IETF LLC matters require a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy are not permitted.
+The Board can hold votes during live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. A given vote shall be either conducted entirely during a live meeting or entirely via asynchronous written means, not a mix of the two. Decisions on regular IETF LLC matters require a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy are not permitted.
 
 ## Interim Board {#interim-board}
 
