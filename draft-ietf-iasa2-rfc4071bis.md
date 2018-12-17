@@ -150,13 +150,13 @@ members and {{RFC7691}}, which specified terms for IAOC members.
 
 # Scope Limitation
 
-The document does not propose any changes to anything related to the
-oversight or steering of the standards process as currently conducted
+The document does not propose any changes related to the
+standards process as currently conducted
 by the Internet Engineering Steering Group (IESG) and Internet
-Architecture Board (IAB), the appeals chain, the process for making
-and confirming IETF and IAB appointments, the IETF Nominating
-Committee (NomCom), the Internet Research Task Force (IRTF), or ISOC's
-memberships in or support of other organizations.
+Architecture Board (IAB). In addition, no changes are made to the appeals 
+chain, the process for making and confirming IETF and IAB appointments, 
+the technical work of the Internet Research Task Force (IRTF), or to 
+ISOC's membership in or support of other organizations.
 
 ## LLC Agreement with the Internet Society
 
