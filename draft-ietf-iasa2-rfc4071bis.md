@@ -177,10 +177,10 @@ documents that fill gaps.
 
 ## Alphabet Soup
 
-Although most of the terms, abbreviations, and acronyms used in this
-document are reasonably well known, first-time readers may find this
-alphabet soup confusing.  This section therefore attempts to provide a
-quick summary.
+Most of the terms, abbreviations, and acronyms used in this
+document are reasonably well known. Since some first-time 
+readers may find this alphabet soup confusing, this section 
+provides a quick summary.
 
 IAB: Internet Architecture Board (see {{RFC2026}}, {{RFC2850}}).
 
