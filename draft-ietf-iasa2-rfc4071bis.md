@@ -4,7 +4,7 @@ title: Structure of the IETF Administrative Support Activity, Version 2.0
 abbrev: IASA2
 docname: draft-ietf-iasa2-rfc4071bis-latest
 category: bcp
-obsoletes: RFC4071, RFC4333, RFC7691
+obsoletes: BCP101, RFC4071, RFC4333, RFC7691
 
 ipr: trust200902
 area: General
@@ -37,6 +37,7 @@ informative:
   RFC8318:
   RFC2026:
   RFC2850:
+  BCP101:
   RFC4071:
   RFC2031:
   RFC3710:
@@ -101,7 +102,7 @@ and ISOC in the fiscal and administrative support of the IETF standards
 process.  It also defines the membership and selection rules for the IETF 
 LLC Board.
 
-This document obsoletes {{RFC4071}}, {{RFC4333}}, and {{RFC7691}}.
+This document obsoletes {{BCP101}}, {{RFC4071}}, {{RFC4333}}, and {{RFC7691}}.
 
 --- middle
 
@@ -208,7 +209,7 @@ IETF: Internet Engineering Task Force (see {{RFC3233}}).
 
 IETF Administration LLC: The legal entity -- a disregarded Limited Liability Company
 (LLC) of The Internet Society -- established to house IASA2, specified
-by the ISOC/IETF LLC Agreement ({{IETF-LLC-A}}). Also referred to as "IETF LLC" or just the "LLC".
+by the ISOC/IETF LLC Agreement ({{IETF-LLC-A}}) and referred to as "IETF LLC".
 
 IETF LLC Executive Director: the executive director for the IETF
 Administration Limited Liability Company, responsible for day-to-day administrative
@@ -277,7 +278,7 @@ is expected to develop and maintain a public list of confidential items, describ
 
 * Diligence. The IETF LLC is expected to act responsibly so as to minimize risks to IETF participants and to the future of the IETF as a whole, such as financial risks.
 
-* Unification: The IETF LLC is reponsible for providing unified legal, financial, and administrative support for 
+* Unification: The IETF LLC is responsible for providing unified legal, financial, and administrative support for 
 operation of the IETF, IAB, IESG, IRTF, and RFC Editor.
 
 * Transfer or Dissolution: Consistent with {{IETF-LLC-A}}, the IETF LLC subsidiary may be transferred from ISOC to 
