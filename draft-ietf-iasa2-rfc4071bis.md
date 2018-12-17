@@ -37,7 +37,6 @@ informative:
   RFC8318:
   RFC2026:
   RFC2850:
-  BCP101:
   RFC4071:
   RFC2031:
   RFC3710:
@@ -102,7 +101,7 @@ and ISOC in the fiscal and administrative support of the IETF standards
 process.  It also defines the membership and selection rules for the IETF 
 LLC Board.
 
-This document obsoletes {{BCP101}}, {{RFC4071}}, {{RFC4333}}, and {{RFC7691}}.
+This document obsoletes {{RFC4071}} (BCP101), {{RFC4333}}, and {{RFC7691}}.
 
 --- middle
 
