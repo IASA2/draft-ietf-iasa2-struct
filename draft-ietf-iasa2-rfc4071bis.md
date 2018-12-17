@@ -323,7 +323,7 @@ All IETF LLC Board decisions are expected to be recorded in IETF LLC Board minut
 IETF LLC Board minutes are expected to be published in a timely fashion.
 
 ## Review of IETF Executive Director and IETF LLC Board Decisions
-The IETF LLC Board is directly accountable to the IETF community for the performance of the IASA 2.0, including hiring and managing the IETF Executive Director. In extreme cases of dissatisfaction with the IETF LLC, the IETF community can utilize the recall process as noted in {{#director-removal}}.
+The IETF LLC Board is directly accountable to the IETF community for the performance of the IASA 2.0, including hiring and managing the IETF Executive Director. In extreme cases of dissatisfaction with the IETF LLC, the IETF community can utilize the recall process as noted in {{director-removal}}.
 
 Anyone in the community of IETF participants may ask the IETF LLC Board for a formal review of a decision or action by the IETF Executive Director or IETF LLC Board if they believe this was not undertaken in accordance with IETF BCPs or IASA 2.0 operational guidelines.
 
