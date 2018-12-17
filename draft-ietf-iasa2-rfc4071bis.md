@@ -218,8 +218,7 @@ Also referred to as "IETF Executive Director".
 the title of "IETF Executive Director" in older documents such as
 {{RFC2026}} is now "Managing Director, IETF Secretariat".)
 
-IETF LLC Board: The Board of Directors of the IETF LLC -- formally a
-multi-member "manager" of the IETF LLC on behalf of ISOC (See
+IETF LLC Board: The Board of Directors of the IETF LLC (see
 {{board-responsibilities}}).
 
 ISOC: Internet Society (see {{RFC2031}} and {{ISOC}}).
@@ -231,7 +230,7 @@ ISOC: Internet Society (see {{RFC2031}} and {{ISOC}}).
 * The former ISOC and IAD responsibilities were assigned to a new
   organization, IETF Administration LLC.
 
-* The Board of Directors of the IETF LLC -- formally a multi-member "manager" of the IETF LLC on behalf of ISOC -- assumed the oversight responsibilities of the IAOC.
+* The IETF LLC Board of Directors assumed the oversight responsibilities of the IAOC.
 
 * The Board of the IETF LLC is more focused on strategy and oversight than the IAOC was, with the IETF Executive Director and their team in charge of day-to-day operations.
 
