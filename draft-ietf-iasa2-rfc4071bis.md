@@ -277,7 +277,7 @@ is expected to develop and maintain a public list of confidential items, describ
 
 * Diligence. The IETF LLC is expected to act responsibly so as to minimize risks to IETF participants and to the future of the IETF as a whole, such as financial risks.
 
-* Unification: The IETF LLC is reponsible for providing unified legal, financial, and administrative support for 
+* Unification: The IETF LLC is responsible for providing unified legal, financial, and administrative support for 
 operation of the IETF, IAB, IESG, IRTF, and RFC Editor.
 
 * Transfer or Dissolution: Consistent with {{IETF-LLC-A}}, the IETF LLC subsidiary may be transferred from ISOC to 
