@@ -568,7 +568,7 @@ Donations are an essential component of the financial support for the IETF. With
 and grow a strong foundation of donation revenues. This can and does include both direct financial contributions as well 
 as in-kind contributions, such as equipment, software licenses, and services. 
 
-Donations to the IETF LLC shall not convey to donors any special oversight or direct influence over the IETF's 
+Donations to the IETF LLC do not (and must not) convey to donors any special oversight or direct influence over the IETF's 
 technical work or other activities of the IETF or IETF LLC. This helps ensure that no undue influence may be 
 ascribed to those from whom funds are raised, and so helps to maintain an open and consensus-based IETF standards process.
 
