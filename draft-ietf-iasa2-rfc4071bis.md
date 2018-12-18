@@ -483,7 +483,10 @@ The limit on consecutive terms supports the healthy regular introduction of new 
 
 ## Staggered Terms {#staggered-terms}
 
-The Internet Society, the IESG, the Nominating Committee, and the Board are expected to coordinate with each other to ensure that collectively their appointment or selection processes provide for no more than three Directors’ terms concluding in the same year.
+The Internet Society Board of Trustees, the IESG, the Nominating Committee, and the
+Board are expected to coordinate with each other to ensure that
+collectively their appointment or selection processes provide for no
+more than three Directors’ terms concluding in the same year.
 
 ## IETF LLC Board Director Removal {#director-removal}
 
