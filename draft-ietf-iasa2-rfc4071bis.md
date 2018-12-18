@@ -469,11 +469,11 @@ guideline are:
 * The Director slot occupied by the IETF Chair ex officio or a
   delegate selected by the IESG will serve a two-year term. This makes
   the term length for this slot the same as the term lengths
-  established in {{RFC7437}} (BCP10), Section 3.4.
+  established in {{?I-D.ietf-iasa2-rfc7437bis}}, Section 3.4.
 
 ## IETF LLC Board Director Limit {#term-limit}
 
-A director may serve no more than two consecutive terms, with at least one full term prior to the start of any additional terms. An exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s service is governed instead by the term lengths established in {{RFC7437}} (BCP10), Section 3.4.
+A director may serve no more than two consecutive terms, with at least one full term prior to the start of any additional terms. An exception is if a Director role is occupied by the IETF Chair ex officio, since that person’s service is governed instead by the term lengths established in {{?I-D.ietf-iasa2-rfc7437bis}}, Section 3.4.
 
 An exception to the two consecutive term rule is for an IETF LLC-appointed Director. For such a Director, they may serve only one term via this appointment method, after which any subsequent terms would be occur via other appointment or selection processes (such as via the NomCom process).
 
@@ -487,7 +487,11 @@ The Internet Society, the IESG, the Nominating Committee, and the Board are expe
 
 ## IETF LLC Board Director Removal {#director-removal}
 
-Directors may be removed with or without cause. A vote in favor of removal must be no fewer than the number of Directors less two.  So for example, if there are seven directors, then five votes are required. Directors may also be removed via the IETF recall process defined in {{RFC7437}} (BCP10), Section 7.
+Directors may be removed with or without cause. A vote in favor of
+removal must be no fewer than the number of Directors less two.  So
+for example, if there are seven directors, then five votes are
+required. Directors may also be removed via the IETF recall process
+defined in {{?I-D.ietf-iasa2-rfc7437bis}}, Section 7.
 
 ## Filling an IETF LLC Board Director Vacancy {#director-vacancy}
 
