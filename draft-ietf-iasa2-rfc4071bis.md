@@ -657,7 +657,7 @@ The Board is expected to maintain additional policies for the IETF LLC as necess
 
 The IETF LLC is expected to implement a compliance program to ensure its compliance with all applicable laws, rules and regulations, including without limitation laws governing bribery, anti-terrorism sanctions, export controls, data protection/privacy, as well as other applicable policies noted in {{llc-policies}}. In addition, actions and activities of the IETF LLC must be consistent with 501(c)(3) purposes.
 
-The IETF LLC is expected report to ISOC on the implementation of its compliance plan on an annual basis.
+The IETF LLC is expected report to ISOC and the IETF community on the implementation of its compliance plan on an annual basis.
 
 # Three-Year Assessment
 
