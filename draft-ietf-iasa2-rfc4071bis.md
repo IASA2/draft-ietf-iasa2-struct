@@ -272,7 +272,7 @@ The IETF LLC is expected to conduct its work according to the following principl
 * Transparency. The IETF LLC is expected to keep the IETF community informed about its work and to engage with the community to obtain consensus-based community input on key issues and otherwise as needed. The IETF community expects complete visibility 
 into the financial and legal structure of the IETF LLC. This includes information about the IETF LLC annual budget and associated regular financial reports, results of financial and any other independent audits, tax filings, significant contracts or other significant long-term financial commitments that bind the IETF LLC. As discussed in {{ietf101-slides}}, 
 whatever doesn't have a specific justification for being kept confidential is expected to be made public. The IETF LLC Board 
-is expected to develop and maintain a public list of confidential items, describing the nature of the information and the reason for confidentiality. 
+is expected to develop and maintain a public list of confidential items, describing the nature of the information and the reason for confidentiality. The IETF LLC Board will also publish its operating procedures.
 
 * Responsiveness to the community. The IETF LLC is expected to act consistently with the documented consensus of the IETF community, to be responsive to the community's needs, and to adapt its decisions in response to consensus-based community feedback.
 
@@ -308,20 +308,6 @@ involves treating the IESG and IAB as major internal customers of the
 administrative support services.  The IETF LLC Board and the IETF Executive Director should not
 consider their work successful unless the IESG and IAB are also
 satisfied with the administrative support that the IETF is receiving.
-
-## IETF LLC Board Decision Making
-
-The IETF LLC Board attempts to reach consensus on all decisions.  If the
-IETF LLC Board cannot achieve a consensus decision, then the IETF LLC Board may
-decide by voting.
-
-The IETF LLC Board decides the details about its decision-making rules,
-including its rules for quorum (see {{quorum}}), conflict of interest
-(see {{conflict-of-interest}}), and breaking of ties. These rules
-are expected to be public.
-
-All IETF LLC Board decisions are expected to be recorded in IETF LLC Board minutes, and
-IETF LLC Board minutes are expected to be published in a timely fashion.
 
 ## Review of IETF Executive Director and IETF LLC Board Decisions
 The IETF LLC Board is directly accountable to the IETF community for the performance of the IASA 2.0, including hiring and managing the IETF Executive Director. In extreme cases of dissatisfaction with the IETF LLC, the IETF community can utilize the recall process as noted in {{director-removal}}.
