@@ -584,7 +584,15 @@ other purposes.
 
 ## Charitable Fundraising Practices {#fundraising-practices}
 
-When the IETF LLC conducts fundraising, it substantiates charitable contributions on behalf of ISOC. The IETF LLC evaluates and facilitates state, federal, and other applicable law and regulatory compliance for ISOC and/or the LLC with respect to such fundraising activities. In addition, the IETF LLC ensures that all fundraising activities are conducted in compliance with any policies developed by the IETF LLC, including but not limited to those noted in {{llc-policies}}.
+When the IETF LLC conducts fundraising, it substantiates charitable
+contributions on behalf of ISOC -- meaning that according to US tax
+law, the IETF LLC must send a written acknowledgment of contributions
+to donors. The IETF LLC evaluates and facilitates state, federal, and
+other applicable law and regulatory compliance for ISOC and/or the LLC
+with respect to such fundraising activities. In addition, the IETF LLC
+ensures that all fundraising activities are conducted in compliance
+with any policies developed by the IETF LLC, including but not limited
+to those noted in {{llc-policies}}.
 
 ## Operating Reserve
 
