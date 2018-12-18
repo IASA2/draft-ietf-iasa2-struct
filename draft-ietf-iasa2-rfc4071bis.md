@@ -31,6 +31,14 @@ author:
     organization: Comcast
     email: jason_livingood@comcast.com
 
+normative:
+  IETF-LLC-A:
+    title: Limited Liability Company Agreement of IETF Administration LLC
+    author:
+      org: The Internet Society
+    date: 2018-08
+    target: https://www.ietf.org/documents/180/IETF-LLC-Agreement.pdf
+
 informative:
   RFC7691:
   RFC7437:
@@ -42,13 +50,6 @@ informative:
   RFC3710:
   RFC3233:
   RFC4333:
-
-  IETF-LLC-A:
-    title: Limited Liability Company Agreement of IETF Administration LLC
-    author:
-      org: The Internet Society
-    date: 2018-08
-    target: https://www.ietf.org/documents/180/IETF-LLC-Agreement.pdf
 
   ISOC:
     title: Amended and restated By-Laws of the Internet Society
