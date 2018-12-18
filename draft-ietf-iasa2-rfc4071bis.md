@@ -615,7 +615,13 @@ The annual budget is expected to be developed in an open, transparent, and colla
 
 # IETF LLC Policies {#llc-policies}
 
-The Board is expected to maintain policies as necessary to achieve the goals of the IETF LLC, meet transparency expectations of the community, comply with applicable laws or regulations, or for other reasons as appropriate. All policies are expected to be developed with input from the IETF community. Some policies provided by ISOC may provide a useful starting point for the Board to consider.
+The Board is expected to maintain policies as necessary to achieve the
+goals of the IETF LLC, meet transparency expectations of the
+community, comply with applicable laws or regulations, or for other
+reasons as appropriate. All policies are expected to be developed with
+input from the IETF community. Some policies provided by ISOC and
+past policies developed by the previous IAOC may
+provide a useful starting point for the Board to consider.
 
 ## Conflict of Interest Policy {#conflict-of-interest}
 
