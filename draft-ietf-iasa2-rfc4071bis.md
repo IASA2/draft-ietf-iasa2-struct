@@ -4,7 +4,7 @@ title: Structure of the IETF Administrative Support Activity, Version 2.0
 abbrev: IASA2
 docname: draft-ietf-iasa2-rfc4071bis-latest
 category: bcp
-obsoletes: BCP101, RFC4071, RFC4333, RFC7691
+obsoletes: RFC4071, RFC4333, RFC7691
 
 ipr: trust200902
 area: General
@@ -102,7 +102,7 @@ and ISOC in the fiscal and administrative support of the IETF standards
 process.  It also defines the membership and selection rules for the IETF 
 LLC Board.
 
-This document obsoletes {{RFC4071}} (BCP101), {{RFC4333}}, and {{RFC7691}}.
+This document obsoletes {{RFC4071}}, {{RFC4333}}, and {{RFC7691}}.
 
 --- middle
 
