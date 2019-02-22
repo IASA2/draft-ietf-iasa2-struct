@@ -165,13 +165,15 @@ chain, the process for making and confirming IETF and IAB appointments,
 the technical work of the Internet Research Task Force (IRTF), or to 
 ISOC's membership in or support of other organizations.
 
-## LLC Agreement with the Internet Society
+# LLC Agreement with the Internet Society
 
-The LLC Agreement between the IETF LLC and ISOC {{IETF-LLC-A}}
-is also out
-of scope for this document, however this document depends on
-the LLC Agreement and will refer to it for certain aspects of the legal
-relationship between the IETF LLC and ISOC. The LLC Agreement was developed
+The LLC Agreement between the IETF LLC and ISOC is available 
+at {{IETF-LLC-A}}. This IASA2 structure, and thus this document, 
+depends on the LLC Agreement and will refer to it to help 
+explain certain aspects of the legal
+relationship between the IETF LLC and ISOC. 
+
+The LLC Agreement was developed
 between legal representatives of the IETF and ISOC and includes all
 critical terms of the relationship, while still enabling maximum
 unilateral flexibility for the IETF LLC Board.  The LLC Agreement includes only basic
