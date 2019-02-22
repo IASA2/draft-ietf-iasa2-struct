@@ -95,6 +95,9 @@ Limited Liability Company ("IETF LLC"). Under this structure, the Internet
 Administrative Oversight Committee (IAOC) was eliminated, and its oversight 
 and advising functions transferred to the IETF LLC Board. 
 
+The IETF LLC provides the corporate legal home for the IETF, the Internet 
+Architecture Board (IAB), and the Internet Research Task Force (IRTF).
+
 This document describes the structure of the IETF Administrative
 Support Activity, version 2 (IASA 2.0).  It defines the roles and
 responsibilities of the IETF LLC Board, the IETF Executive Director,
@@ -119,6 +122,9 @@ tasks is conducted by an administrative organization, the IETF Administration
 Limited Liability Company ("IETF LLC"). Under this structure, the Internet 
 Administrative Oversight Committee (IAOC) is eliminated, and its oversight 
 and advising functions transferred to the IETF LLC Board. 
+
+The IETF LLC provides the corporate legal home for the IETF, the Internet 
+Architecture Board (IAB), and the Internet Research Task Force (IRTF).
 
 {{?I-D.haberman-iasa20dt-recs}} discusses the challenges facing the
 original IASA structure as well as several options for reorganizing the
