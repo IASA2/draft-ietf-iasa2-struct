@@ -326,15 +326,6 @@ A formal request for review must be addressed to the IETF LLC Board chair and mu
 
 The IETF LLC shall respond to such requests within a reasonable period, typically within 90 days, and shall publicly publish information about the request and the corresponding response and/or result.  
 
-## Community Consensus and Grant of Authority
-
-The IETF is a consensus-based group, and authority to act on behalf of
-the community requires a high degree of consensus and the continued
-consent of the community.  After a careful process of deliberation, a
-broad-based community consensus emerged to house the administration of the 
-IETF within the IETF LLC as a disregarded entity of the Internet Society. 
-This document reflects that consensus.
-
 ##  Termination and Change
 
 Any major change to the IASA 2.0 arrangements shall require a similar level of
