@@ -177,9 +177,9 @@ The LLC Agreement was developed
 between legal representatives of the IETF and ISOC and includes all
 critical terms of the relationship, while still enabling maximum
 unilateral flexibility for the IETF LLC Board.  The LLC Agreement includes only basic
-details about how the IETF LLC Board manages itself or manages IETF LLC staff,
-so that the IETF LLC Board has flexibility to make changes without amending
-the agreement. The IETF LLC Board can independently develop policy or procedures
+details about how the Board manages itself or manages IETF LLC staff,
+so that the Board has flexibility to make changes without amending
+the agreement. The Board can independently develop policy or procedures
 documents that fill gaps.
 
 # Definitions and Principles
@@ -281,8 +281,8 @@ The IETF LLC is expected to conduct its work according to the following principl
 
 * Transparency. The IETF LLC is expected to keep the IETF community informed about its work and to engage with the community to obtain consensus-based community input on key issues and otherwise as needed. The IETF community expects complete visibility 
 into the financial and legal structure of the IETF LLC. This includes information about the IETF LLC annual budget and associated regular financial reports, results of financial and any other independent audits, tax filings, significant contracts or other significant long-term financial commitments that bind the IETF LLC. As discussed in {{ietf101-slides}}, 
-whatever doesn't have a specific justification for being kept confidential is expected to be made public. The IETF LLC Board 
-is expected to develop and maintain a public list of confidential items, describing the nature of the information and the reason for confidentiality. The IETF LLC Board will also publish its operating procedures.
+whatever doesn't have a specific justification for being kept confidential is expected to be made public. The Board 
+is expected to develop and maintain a public list of confidential items, describing the nature of the information and the reason for confidentiality. The Board will also publish its operating procedures.
 
 * Responsiveness to the community. The IETF LLC is expected to act consistently with the documented consensus of the IETF community, to be responsive to the community's needs, and to adapt its decisions in response to consensus-based community feedback.
 
@@ -313,16 +313,16 @@ technical content of Internet Standards.
 ## Relationship of the IETF LLC Board to the IETF Leadership
 
 The IETF LLC Board is directly accountable to the IETF community for the
-performance of the IASA 2.0.  However, the nature of the IETF LLC Board's work
+performance of the IASA 2.0.  However, the nature of the Board's work
 involves treating the IESG and IAB as major internal customers of the
-administrative support services.  The IETF LLC Board and the IETF Executive Director should not
+administrative support services.  The Board and the IETF Executive Director should not
 consider their work successful unless the IESG and IAB are also
 satisfied with the administrative support that the IETF is receiving.
 
 ## Review of IETF Executive Director and IETF LLC Board Decisions
 The IETF LLC Board is directly accountable to the IETF community for the performance of the IASA 2.0, including hiring and managing the IETF Executive Director. In extreme cases of dissatisfaction with the IETF LLC, the IETF community can utilize the recall process as noted in {{director-removal}}.
 
-Anyone in the community of IETF participants may ask the IETF LLC Board for a formal review of a decision or action by the IETF Executive Director or IETF LLC Board if they believe this was not undertaken in accordance with IETF BCPs or IETF 
+Anyone in the community of IETF participants may ask the Board for a formal review of a decision or action by the IETF Executive Director or Board if they believe this was not undertaken in accordance with IETF BCPs or IETF 
 LLC Board policies and procedures.
 
 A formal request for review must be addressed to the IETF LLC Board chair and must include a description of the decision or action to be reviewed, an explanation of how, in the requestor's opinion, the decision or action violates the BCPs or IASA 2.0 operational guidelines, and a suggestion for how the situation could be rectified.
@@ -352,17 +352,17 @@ The IETF has a long history of community involvement in the execution of certain
 
 In summary, the IETF Executive Director, with support from the team that they alone direct and lead, is responsible for:
 
-* Developing and refining an annual budget and other strategic financial planning documents at the direction of the IETF LLC Board.
+* Developing and refining an annual budget and other strategic financial planning documents at the direction of the Board.
 
-* Executing on the annual budget, including reporting to the IETF LLC Board regularly with forecasts and actual performance to budget.
+* Executing on the annual budget, including reporting to the Board regularly with forecasts and actual performance to budget.
 
 * Hiring and/or contracting the necessary resources to meet their goals, within the defined limits of their authority and within the approved budget. This includes managing and leading any such resources, including performing regular performance reviews.
 
-* Following the pre-approval guidelines set forth by the IETF LLC Board for contracts or other decisions that have financial costs that exceed a certain threshold of significance. Such thresholds are expected to be set reasonably high so that the need for such approvals is infrequent and only occurs when something is truly significant or otherwise exceptional. It is expected that the IETF Executive Director is sufficiently empowered to perform their job on a day-to-day basis, being held accountable for meeting high level goals rather than micromanaged.
+* Following the pre-approval guidelines set forth by the Board for contracts or other decisions that have financial costs that exceed a certain threshold of significance. Such thresholds are expected to be set reasonably high so that the need for such approvals is infrequent and only occurs when something is truly significant or otherwise exceptional. It is expected that the IETF Executive Director is sufficiently empowered to perform their job on a day-to-day basis, being held accountable for meeting high level goals rather than micromanaged.
 
-* Regularly updating the IETF LLC Board on operations and other notable issues as reasonable and appropriate.
+* Regularly updating the Board on operations and other notable issues as reasonable and appropriate.
 
-* Ensuring that all staff and/or other resources comply with any applicable policies established or approved by the IETF LLC Board, such as ethics guidelines and/or a code of conduct.
+* Ensuring that all staff and/or other resources comply with any applicable policies established or approved by the Board, such as ethics guidelines and/or a code of conduct.
 
 
 ## IETF LLC Board Responsibilities {#board-responsibilities}
@@ -372,20 +372,20 @@ the precise and legally binding responsibilities are defined in the LLC Agreemen
 To the extent to which there are unintentional differences or other confusion between this 
 document and the LLC Agreement, the LLC Agreement is in all cases authoritative.
 
-The IETF LLC Board has duties of loyalty, care, and good faith, and a legal and fiduciary 
+The Board has duties of loyalty, care, and good faith, and a legal and fiduciary 
 responsibility. It will set broad strategic direction 
 for the LLC, and will be responsible for adopting an annual budget, hiring or terminating an 
 IETF Executive Director (or amending the terms of their engagement), adopting any employee benefit plans, 
 consulting the relevant IETF communities on matters related to the LLC as appropriate, approving any 
 changes to the LLC governance structure, incurring any debt, and approving entering into agreements 
-that that meet a significant materiality threshold to be determined by the IETF LLC Board. The IETF LLC 
+that that meet a significant materiality threshold to be determined by the Board. The IETF LLC 
 Board is expected to delegate management of day-to-day activities and related decision-making to staff.
 
 Per Section 5(d) of the LLC Agreement and as also described in {{principles}}, the Board shall, 
 as appropriate, act transparently and provide the IETF community with an opportunity to review 
 and discuss any proposed changes to the IETF LLC structure prior to their adoption.
 
-The role of the IETF LLC Board is to ensure that the strategy and conduct of the IETF LLC is consistent with the IETF's needs -- both its concrete needs and its needs for transparency and accountability.  The Board is not intended to directly define the IETF's needs; to the extent that is required, the IETF community should document its needs in consensus-based RFCs (e.g., as the community did in {{?I-D.ietf-mtgvenue-iaoc-venue-selection-process}}) and provide more detailed input via consultations with the IETF LLC Board (such as takes place on email discussion lists or at IETF meetings).
+The role of the Board is to ensure that the strategy and conduct of the IETF LLC is consistent with the IETF's needs -- both its concrete needs and its needs for transparency and accountability.  The Board is not intended to directly define the IETF's needs; to the extent that is required, the IETF community should document its needs in consensus-based RFCs (e.g., as the community did in {{?I-D.ietf-mtgvenue-iaoc-venue-selection-process}}) and provide more detailed input via consultations with the Board (such as takes place on email discussion lists or at IETF meetings).
 
 Key IETF LLC Board responsibilities include:
 
@@ -409,7 +409,7 @@ accepted accounting principles.
 * Provide assistance to help facilitate ISOC’s tax compliance, including but not limited to assistance related to preparing the Form 990 and responding to any IRS questions and audits.
 
 * Approve entering into agreements that that meet a significant materiality threshold to be 
-determined by the IETF LLC Board. 
+determined by the Board. 
 
 * Limit its activities to the purposes as set forth in Section 4 of the LLC Agreement, in a manner 
 consistent with ISOC's charitable purposes.
@@ -434,7 +434,7 @@ A goal of this Board composition is to balance the need for the IETF LLC to be a
 
 This board structure, with limited strategic responsibilities noted in {{board-responsibilities}} and limited size, together with the staff responsibilities noted in {{staff-responsibilities}}, is designed to overcome the challenges described in Section 3.1.4 of {{?I-D.haberman-iasa20dt-recs}} concerning oversight. This establishes a clear line of oversight over staff performance: the IETF LLC Board oversees the IETF Executive Director's performance and has actual legal authority to remove a non-performing IETF Executive Director. The IETF Executive Director is responsible for the day-to-day operation of the IETF LLC.
 
-Finally, the IETF LLC Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA 2.0 design process is detailed above in {{principles}}. The Board will need to establish how it will meet that commitment.
+Finally, the Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA 2.0 design process is detailed above in {{principles}}. The Board will need to establish how it will meet that commitment.
 
 # IETF LLC Board Membership, Selection and Accountability {#board}
 
@@ -463,11 +463,11 @@ board and the IESG.
 
 As noted above, a maximum of two Directors may be appointed by the IETF LLC Board. They can obviously choose to appoint none, one, or two. These appointments need not be on an exceptional basis, but rather be routine, and may occur at any time of the year since it is on an as-needed basis.
 
-The appointment of an IETF LLC Board-appointed Director requires a 2/3rd-majority vote of the Directors then in office, and the appointee shall take office immediately upon appointment. The term of each appointment is designated by the Board, with the maximum term being three years, or until their earlier resignation, removal or death.  The Board may decide on a case-by-case basis how long each term shall be, factoring in the restriction for consecutive terms in {{term-length}}.
+The appointment of a Board-appointed Director requires a two-thirds majority vote of the Directors then in office, and the appointee shall take office immediately upon appointment. The term of each appointment is designated by the Board, with the maximum term being three years, or until their earlier resignation, removal or death.  The Board may decide on a case-by-case basis how long each term shall be, factoring in the restriction for consecutive terms in {{term-length}}.
 
 ## Recruiting IETF LLC Board Directors {#director-recruitment}
 
-The IETF LLC Board itself is expected to take an active role in recruiting potential new Directors, regardless of the process that may be used to appoint them. In particular, the NomCom is primarily focused on considering requirements expressed by the Board and others, reviewing community feedback on candidates, conducting candidate interviews, and ultimately appointing Directors. The IETF LLC Board and others can recruit potential Directors and get them into the consideration process of the NomCom or into open considerations processes of the other appointing bodies if those bodies choose to use such processes.
+The Board itself is expected to take an active role in recruiting potential new Directors, regardless of the process that may be used to appoint them. In particular, the NomCom is primarily focused on considering requirements expressed by the Board and others, reviewing community feedback on candidates, conducting candidate interviews, and ultimately appointing Directors. The  Board and others can recruit potential Directors and get them into the consideration process of the NomCom or into open considerations processes of the other appointing bodies if those bodies choose to use such processes.
 
 ## IETF LLC Board Director Term Length {#term-length}
 
@@ -551,7 +551,7 @@ The interim Board was comprised of:
 Following the formation of the first permanent Board, and annually thereafter, the Directors shall 
 elect a Director to serve as Board Chair by majority vote. The IETF, IAB and IRTF chairs, and the 
 chair of ISOC's Board, will be ineligible for this Board Chair role. The Board may also form committees 
-of the Board and/or define other roles for IETF LLC Board Directors as necessary.
+of the Board and/or define other roles for Board Directors as necessary.
 
 # IETF LLC Funding
 
@@ -649,16 +649,16 @@ A key part of this responsibility is establishing, maintaining, and successfully
 is essential to the continued operation and vibrancy of the IETF's technical activities and establishes trust 
 with ISOC and donors that funds are being appropriately spent, and that financial oversight is being conducted 
 properly. This is also essential to the IETF LLC meeting applicable legal and tax requirements and is a core part of 
-the IETF LLC Board's fiduciary responsibilities. 
+the Board's fiduciary responsibilities. 
 
 As explained in {{staff-responsibilities}}, the IETF Executive Director is expected to develop, execute, and report on the 
 annual budget. Regular reporting is expected to include monthly and quarterly forecast vs. budget statements, including updated projections of income and expenses for the full fiscal year. 
 
-The IETF LLC Board, as explained in {{board-responsibilities}}, is expected to review and approve the 
+The Board, as explained in {{board-responsibilities}}, is expected to review and approve the 
 budget, as well as to provide ongoing oversight of the budget and of any other significant financial matters. 
 
 The annual budget is expected to be developed in an open, transparent, and collaborative manner, in accordance with 
-{{principles}}. The specific timeline for the development, review, and approval of the IETF LLC annual budget is established by the IETF LLC Board and may be revised as needed. 
+{{principles}}. The specific timeline for the development, review, and approval of the IETF LLC annual budget is established by the Board and may be revised as needed. 
 
 # IETF LLC Policies {#llc-policies}
 
@@ -674,7 +674,7 @@ provide a useful starting point for the Board to consider.
 
 The Board is expected to maintain a Conflict of Interest policy for the IETF LLC. While the details are determined by the Board, at a minimum such policy is expected to include the following:
 
-* The IETF, ISOC Board, IAB, or IRTF chair cannot be chair of this IETF LLC Board, though they may serve as a Director.
+* The IETF, ISOC Board, IAB, or IRTF chair cannot be chair of the IETF LLC Board, though they may serve as a Director.
 
 * A Director cannot be a paid consultant or employee of the IETF Executive Director or their sub-contractors, nor a paid consultant or employee of ISOC.
 
