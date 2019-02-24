@@ -597,8 +597,7 @@ the IETF LLC.
 ## IETF Meeting Revenues
 
 Meeting revenues are another important source of funding that supports the IETF, comining mainly from the fees paid 
-by IETF meeting participants. The IETF Executive Director sets those meeting fees, in consultation with the IETF LLC and 
-the IETF community, with formal approval by the IETF LLC. Setting these fees and projecting the number of participants 
+by IETF meeting participants. The IETF Executive Director sets those meeting fees, in consultation with other IETF staff and the IETF community, and approval by the IETF LLC Board. Setting these fees and projecting the number of participants 
 at future meetings is a key part of the annual budget process.  
 
 ## Sponsorships and Donations to the IETF LLC
