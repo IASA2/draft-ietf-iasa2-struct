@@ -381,7 +381,7 @@ changes to the LLC governance structure, incurring any debt, and approving enter
 that that meet a significant materiality threshold to be determined by the IETF LLC Board. The IETF LLC 
 Board is expected to delegate management of day-to-day activities and related decision-making to staff.
 
-Per Section 5(d) of the LLC Agreement and as also described in {{#principles}}, the Board shall, 
+Per Section 5(d) of the LLC Agreement and as also described in {{principles}}, the Board shall, 
 as appropriate, act transparently and provide the IETF community with an opportunity to review 
 and discuss any proposed changes to the IETF LLC structure prior to their adoption.
 
@@ -421,7 +421,7 @@ applicable laws, rules and regulations.
 
 * Ensure that IETF LLC is run in a manner that is transparent and accountable to the IETF community;
 
-* Develop policies, including those noted in {{#llc-policies}}), procedures, and a compliance program. 
+* Develop policies, including those noted in {{llc-policies}}), procedures, and a compliance program. 
 
 * Obtain Commercial General Liability and other appropriate insurance policies, with
 agreed-upon coverage limits.
@@ -519,11 +519,18 @@ It shall be the responsibility of each respective body that appointed or selecte
 
 ## Quorum {#quorum}
 
-At all meetings of the Board, at least 2/3 of the Directors then in office constitute a quorum for the transaction of business. If a quorum is not be present at any meeting of the Board, the Directors present may adjourn the meeting without notice other than announcement at the meeting, until a quorum is present.
+At all synchronous live meetings of the Board, two-thirds of the Directors then in office shall constitute 
+a quorum for the transaction of business. Unless a greater affirmative vote is expressly required for 
+an action under applicable law, the LLC Agreement, or an applicable Board policy, the affirmative vote of 
+two-thirds of the Directors then in office shall be an act of the Board. 
 
 ## Board Voting {#voting}
 
-The Board can hold votes during live meetings of the Board (including telephonic and video) or via asynchronous written (including electronic) means. A given vote shall be either conducted entirely during a live meeting or entirely via asynchronous written means, not a mix of the two. Decisions on regular IETF LLC matters require a 2/3 majority vote in favor, with the exception of removal of a Director as specified in {{director-removal}}. Absentee voting and voting by proxy are not permitted.
+Board decisions may be made either by vote communicated in a synchronous live (including telephonic and video) 
+meeting, or via an asynchronous written (including electronic) process. Absentee voting and voting by proxy 
+shall not be permitted. If a quorum is not present at any meeting of the Board, the Directors present may 
+adjourn the meeting from time to time, without notice other than announcement at the meeting, until a quorum 
+is present. Voting thresholds for Director removal are described in {{director-removal}}.
 
 ## Interim Board {#interim-board}
 
