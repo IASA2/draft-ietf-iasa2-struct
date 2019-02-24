@@ -467,7 +467,7 @@ The appointment of an IETF LLC Board-appointed Director requires a 2/3rd-majorit
 
 ## Recruiting IETF LLC Board Directors {#director-recruitment}
 
-The IETF LLC Board itself is expected to take an active role in recruiting potential new Directors, regardless of the process that may be used to appoint them. In particular, the NomCom is primarily focused on considering requirements expressed by the Board and others, reviewing community feedback on candidates, conducting candidate interviews, and ultimately appointing Directors. The IETF LLC Board and others can recruit potential Directors and get them into the consideration process of the NomCom or other appointing bodies.
+The IETF LLC Board itself is expected to take an active role in recruiting potential new Directors, regardless of the process that may be used to appoint them. In particular, the NomCom is primarily focused on considering requirements expressed by the Board and others, reviewing community feedback on candidates, conducting candidate interviews, and ultimately appointing Directors. The IETF LLC Board and others can recruit potential Directors and get them into the consideration process of the NomCom or into open considerations processes of the other appointing bodies if those bodies choose to use such processes.
 
 ## IETF LLC Board Director Term Length {#term-length}
 
