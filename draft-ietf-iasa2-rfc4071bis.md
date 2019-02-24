@@ -205,7 +205,9 @@ not included in the new responsibilities of the IETF LLC Board (See
 
 IASA: The IETF Administrative Support Activity, defined by
 {{RFC4071}} and updated by this document and the ISOC/IETF LLC
-Agreement ({{IETF-LLC-A}}).
+Agreement ({{IETF-LLC-A}}). IASA consists of the IETF LLC board, 
+employees, and contractors. Uses of the term 'IASA' as a proper 
+noun may imply a subset of these roles, or all of them.
 
 IASA 2.0: Version 2.0 of the IETF Administrative Support Activity,
 defined by this document.
