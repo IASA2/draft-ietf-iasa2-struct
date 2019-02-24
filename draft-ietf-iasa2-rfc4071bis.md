@@ -32,6 +32,7 @@ author:
     email: jason_livingood@comcast.com
 
 normative:
+  RFC7437:
   IETF-LLC-A:
     title: Limited Liability Company Agreement of IETF Administration LLC
     author:
@@ -41,7 +42,6 @@ normative:
 
 informative:
   RFC7691:
-  RFC7437:
   RFC8318:
   RFC2026:
   RFC2850:
