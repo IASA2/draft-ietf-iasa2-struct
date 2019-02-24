@@ -287,14 +287,14 @@ is expected to develop and maintain a public list of confidential items, describ
 * Diligence. The IETF LLC is expected to act responsibly so as to minimize risks to IETF participants and to the future of the IETF as a whole, such as financial risks.
 
 * Unification: The IETF LLC is responsible for providing unified legal, financial, and administrative support for 
-operation of the IETF, IAB, IESG, IRTF, and RFC Editor.
+operation of the IETF, IAB, and IRTF, and financial support for the operation of the RFC Editor.
 
 * Transfer or Dissolution: Consistent with {{IETF-LLC-A}}, the IETF LLC subsidiary may be transferred from ISOC to 
 another organization, at the request of either party. Similarly, the IETF LLC may be dissolved if necessary. Should 
 either event occur, the IETF community should be closely involved in any decisions and plans, and any tranfer, 
 transition, or dissolution conducted carefully and with minimal potential disruption to the IETF.
 
-The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA 2.0 process, with little to no dissent.  It was recognized that there will naturally be a confidentiality requirement about some aspects of hotel contracting, personnel matters, and other narrow areas.
+The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA 2.0 process, with little to no dissent.  It was recognized that there will naturally be a confidentiality requirement about some aspects of contracting, personnel matters, and other narrow areas.
 
 ## Principles of the IETF and ISOC Relationship
 
