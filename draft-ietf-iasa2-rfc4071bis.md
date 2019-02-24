@@ -548,7 +548,10 @@ The interim Board was comprised of:
 
 ## Board Positions {#board-positions}
 
-Following the formation of the first full IETF LLC Board, and at each subsequent annual meeting of the IETF LLC Board, the Directors are expected to elect by a majority vote of the IETF LLC Board a Director to serve as Board Chair. The Board may also form committees of the Board and/or define other roles for IETF LLC Board Directors as necessary.
+Following the formation of the first permanent Board, and annually thereafter, the Directors shall 
+elect a Director to serve as Board Chair by majority vote. The IETF, IAB and IRTF chairs, and the 
+chair of ISOC's Board, will be ineligible for this Board Chair role. The Board may also form committees 
+of the Board and/or define other roles for IETF LLC Board Directors as necessary.
 
 # IETF LLC Funding
 
