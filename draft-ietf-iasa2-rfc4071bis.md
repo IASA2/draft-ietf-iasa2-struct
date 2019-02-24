@@ -589,12 +589,10 @@ The IETF LLC is expected to retain and work with an independent auditor. Reports
 
 ## ISOC Financial Support
 
-ISOC currently provides significant financial support to the IETF
-LLC. Exhibit B of the {{IETF-LLC-A}} summarizes the one-time and
-on-going financial support from ISOC for the forseeable future. It is
-expected that this support will be periodically reviewed and
-revised, via a cooperative assessment process between ISOC and the
-IETF LLC.
+ISOC currently provides significant financial support to the IETF LLC. Exhibit B of the {{IETF-LLC-A}} 
+summarizes the financial support from ISOC for the forseeable future. It is expected that this support 
+will be periodically reviewed and revised, via a cooperative assessment process between ISOC and 
+the IETF LLC.
 
 ## IETF Meeting Revenues
 
