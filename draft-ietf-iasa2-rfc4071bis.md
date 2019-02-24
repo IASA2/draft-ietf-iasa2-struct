@@ -534,7 +534,7 @@ is present. Voting thresholds for Director removal are described in {{director-r
 
 ## Interim Board {#interim-board}
 
-An initial interim Board was necessary in order to legally form and bootstrap the IETF LLC. As a result, an Interim Board was formed on a temporary basis until the first full board was constituted. The Interim Board was expected to conclude no later than the end of the 104th meeting of the IETF, in March 2019.
+An initial interim Board was necessary in order to legally form and bootstrap the IETF LLC. As a result, an Interim Board was formed on a temporary basis until the first full board was constituted.
 
 The interim Board was comprised of:
 
