@@ -653,7 +653,7 @@ properly. This is also essential to the IETF LLC meeting applicable legal and ta
 the Board's fiduciary responsibilities. 
 
 As explained in {{staff-responsibilities}}, the IETF Executive Director is expected to develop, execute, and report on the 
-annual budget. Regular reporting is expected to include monthly and quarterly forecast vs. budget statements, including updated projections of income and expenses for the full fiscal year. 
+annual budget. Regular reporting is expected to include forecast vs. budget statements, including updated projections of income and expenses for the full fiscal year. 
 
 The Board, as explained in {{board-responsibilities}}, is expected to review and approve the 
 budget, as well as to provide ongoing oversight of the budget and of any other significant financial matters. 
