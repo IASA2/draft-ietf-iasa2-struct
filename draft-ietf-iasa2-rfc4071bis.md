@@ -555,13 +555,16 @@ of the Board and/or define other roles for Board Directors as necessary.
 
 # IETF LLC Funding
 
-The IETF LLC must function within a budget of costs balanced against limited revenues.  The IETF community expects the IETF LLC to work to attain that goal, in order to maintain a viable IETF support function that provides the environment within which the IETF's technical work can remain vibrant and productive. 
+The IETF LLC must function within a budget of costs balanced against limited revenues. The IETF community expects 
+the IETF LLC to work to attain that goal, in order to maintain a viable support function that provides the 
+environment within which the work of the IETF, IAB, IRTF, and RFC Editor can remain vibrant and productive.
 
 The IETF LLC generates income from a few key sources at the time that this document was written, as enumerated below. Additional sources of income may be developed in the future, within the general bounds noted in {{fundraising-practices}}, and some of these may decline in relevance or go away. As a result this list is subject to change over time and is merely an example of the primary sources of income for the IETF LLC at the time of this writing:
 
 1.  ISOC support
 2.  IETF meeting revenues
-3.  Donations to the IETF LLC (monetary and/or in-kind)
+3.  Sponsorships (monetary and/or in-kind)
+3.  Donations (monetary and/or in-kind)
 
 ## Financial Statements
 
@@ -600,16 +603,17 @@ by IETF meeting participants. The IETF Executive Director sets those meeting fee
 the IETF community, with formal approval by the IETF LLC. Setting these fees and projecting the number of participants 
 at future meetings is a key part of the annual budget process.  
 
-## Donations to the IETF LLC
+## Sponsorships and Donations to the IETF LLC
 
-Donations are an essential component of the financial support for the IETF. Within the general bounds noted in 
-{{fundraising-practices}}, the IETF LLC is responsible for fundraising activities in order to establish, maintain, 
-and grow a strong foundation of donation revenues. This can and does include both direct financial contributions as well 
-as in-kind contributions, such as equipment, software licenses, and services. 
+Sponsorships and donations are an essential component of the financial support for the IETF. Within the general 
+bounds noted in {{fundraising-practices}}, the IETF LLC is responsible for fundraising activities in order 
+to establish, maintain, and grow a strong foundation of donation revenues. This can and does include both 
+direct financial contributions as well as in-kind contributions, such as equipment, software licenses, and services. 
 
-Donations to the IETF LLC do not (and must not) convey to donors any special oversight or direct influence over the IETF's 
-technical work or other activities of the IETF or IETF LLC. This helps ensure that no undue influence may be 
-ascribed to those from whom funds are raised, and so helps to maintain an open and consensus-based IETF standards process.
+Sponsorships and donations to the IETF LLC do not (and must not) convey to donors any special oversight 
+or direct influence over the IETF's technical work or other activities of the IETF or IETF LLC. This helps 
+ensure that no undue influence may be ascribed to those from whom funds are raised, and so helps to maintain 
+an open and consensus-based IETF standards process.
 
 To the extent that the IETF LLC needs to undertake any significant special projects for the IETF, the IETF LLC 
 may need to fundraise distinctly for those special projects. As a result, the IETF LLC may conduct fundraising to support 
