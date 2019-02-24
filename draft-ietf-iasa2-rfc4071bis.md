@@ -322,7 +322,8 @@ satisfied with the administrative support that the IETF is receiving.
 ## Review of IETF Executive Director and IETF LLC Board Decisions
 The IETF LLC Board is directly accountable to the IETF community for the performance of the IASA 2.0, including hiring and managing the IETF Executive Director. In extreme cases of dissatisfaction with the IETF LLC, the IETF community can utilize the recall process as noted in {{director-removal}}.
 
-Anyone in the community of IETF participants may ask the IETF LLC Board for a formal review of a decision or action by the IETF Executive Director or IETF LLC Board if they believe this was not undertaken in accordance with IETF BCPs or IASA 2.0 operational guidelines.
+Anyone in the community of IETF participants may ask the IETF LLC Board for a formal review of a decision or action by the IETF Executive Director or IETF LLC Board if they believe this was not undertaken in accordance with IETF BCPs or IETF 
+LLC Board policies and procedures.
 
 A formal request for review must be addressed to the IETF LLC Board chair and must include a description of the decision or action to be reviewed, an explanation of how, in the requestor's opinion, the decision or action violates the BCPs or IASA 2.0 operational guidelines, and a suggestion for how the situation could be rectified.
 
