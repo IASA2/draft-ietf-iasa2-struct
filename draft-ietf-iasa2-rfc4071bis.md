@@ -237,7 +237,7 @@ ISOC: Internet Society (see {{?I-D.ietf-iasa2-rfc2031bis}} and {{ISOC}}).
 * The former ISOC and IAD responsibilities are assigned to a new
   organization, IETF Administration LLC.
 
-* The Board of Directors of the IETF LLC -- formally a multi-member "manager" of the IETF LLC on behalf of ISOC -- assume the oversight responsibilities of the IAOC.
+* The Board of Directors of the IETF LLC -- formally a multi-member "manager" of the IETF LLC on behalf of ISOC -- assumes the oversight responsibilities of the IAOC.
 
 * The Board of the IETF LLC is more focused on strategy and oversight than the IAOC was, with the IETF Executive Director and their team in charge of day-to-day operations.
 
@@ -272,12 +272,18 @@ In addition, by having the IETF LLC manage the IETF's finances and conduct the I
 
 ## IETF LLC Working Principles {#principles}
 
-The IETF LLC is expected to conduct its work according to the following principles, subject to any reasonable confidentiality obligations:
+The IETF LLC is expected to conduct its work according to the following principles:
 
-* Transparency. The IETF LLC is expected to keep the IETF community informed about its work and to engage with the community to obtain consensus-based community input on key issues and otherwise as needed. The IETF community expects complete visibility 
-into the financial and legal structure of the IETF LLC. This includes information about the IETF LLC annual budget and associated regular financial reports, results of financial and any other independent audits, tax filings, significant contracts or other significant long-term financial commitments that bind the IETF LLC. As discussed in {{ietf101-slides}}, 
-whatever doesn't have a specific justification for being kept confidential is expected to be made public. The Board 
-is expected to develop and maintain a public list of confidential items, describing the nature of the information and the reason for confidentiality. The Board will also publish its operating procedures.
+* Transparency. The IETF LLC is expected to keep the IETF community informed about its work, 
+subject to reasonable confidentiality concerns, and to engage with the community to obtain 
+consensus-based community input on key issues and otherwise as needed. The IETF community expects 
+complete visibility into the financial and legal structure of the IETF LLC. This includes information 
+about the IETF LLC annual budget and associated regular financial reports, results of financial and any 
+other independent audits, tax filings, significant contracts or other significant long-term financial 
+commitments that bind the IETF LLC. As discussed in {{ietf101-slides}}, whatever doesn't have a specific 
+justification for being kept confidential is expected to be made public. The Board is expected to develop 
+and maintain a public list of confidential items, describing the nature of the information and the reason 
+for confidentiality. The Board will also publish its operating procedures.
 
 * Responsiveness to the community. The IETF LLC is expected to act consistently with the documented consensus of the IETF community, to be responsive to the community's needs, and to adapt its decisions in response to consensus-based community feedback.
 
@@ -288,10 +294,10 @@ operation of the IETF, IAB, and IRTF, and financial support for the operation of
 
 * Transfer or Dissolution: Consistent with {{IETF-LLC-A}}, the IETF LLC subsidiary may be transferred from ISOC to 
 another organization, at the request of either party. Similarly, the IETF LLC may be dissolved if necessary. Should 
-either event occur, the IETF community should be closely involved in any decisions and plans, and any tranfer, 
-transition, or dissolution conducted carefully and with minimal potential disruption to the IETF.
+either event occur, the IETF community should be closely involved in any decisions and plans. Any tranfer, 
+transition, or dissolution should be conducted carefully and with minimal potential disruption to the IETF.
 
-The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA 2.0 process, with little to no dissent.  It was recognized that there will naturally be a confidentiality requirement about some aspects of contracting, personnel matters, and other narrow areas.
+The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA 2.0 process, with little to no dissent.  It was recognized that there will naturally be confidentiality requirements about some aspects of contracting, personnel matters, and other narrow areas.
 
 ## Principles of the IETF and ISOC Relationship
 
@@ -331,7 +337,7 @@ community consensus and deliberation and shall be reflected by a
 subsequent Best Current Practice (BCP) document.
 
 
-# Structure of the IASA2
+# Structure of IASA2
 
 ## IETF Executive Director and Staff Responsibilities {#staff-responsibilities}
 
@@ -351,9 +357,11 @@ In summary, the IETF Executive Director, with support from the team that they al
 
 * Executing on the annual budget, including reporting to the Board regularly with forecasts and actual performance to budget.
 
-* Hiring and/or contracting the necessary resources to meet their goals, within the defined limits of their authority and within the approved budget. This includes managing and leading any such resources, including performing regular performance reviews.
+* Hiring and/or contracting the necessary resources to meet their goals, within the defined limits of the IETF 
+Executive Director's authority and within the approved budget. This includes managing and leading any such 
+resources, including performing regular performance reviews.
 
-* Following the pre-approval guidelines set forth by the Board for contracts or other decisions that have financial costs that exceed a certain threshold of significance. Such thresholds are expected to be set reasonably high so that the need for such approvals is infrequent and only occurs when something is truly significant or otherwise exceptional. It is expected that the IETF Executive Director is sufficiently empowered to perform their job on a day-to-day basis, being held accountable for meeting high level goals rather than micromanaged.
+* Following the pre-approval guidelines set forth by the Board for contracts or other decisions that have financial costs that exceed a certain threshold of significance. Such thresholds are expected to be set reasonably high so that the need for such approvals is infrequent and only occurs when something is truly significant or otherwise exceptional. It is expected that the IETF Executive Director is sufficiently empowered to perform the job on a day-to-day basis, being held accountable for meeting high level goals rather than micromanaged.
 
 * Regularly updating the Board on operations and other notable issues as reasonable and appropriate.
 
@@ -425,7 +433,7 @@ agreed-upon coverage limits.
 
 ## Board Design Goals {#board-design-goals}
 
-A goal of this Board composition is to balance the need for the IETF LLC to be accountable to the IETF community with the need for this Board to have the expertise necessary to oversee a small non-profit corporation. The Board is smaller than the previous IAOC and the other leadership bodies of the IETF, in part to keep the Board focused on its rather limited set of strategic responsibilities as noted in {{board-responsibilities}}.
+A goal of this Board composition is to balance the need for the IETF LLC to be accountable to the IETF community with the need for this Board to have the expertise necessary to oversee a small non-profit company. The Board is smaller than the previous IAOC and the other leadership bodies of the IETF, in part to keep the Board focused on its rather limited set of strategic responsibilities as noted in {{board-responsibilities}}.
 
 This board structure, with limited strategic responsibilities noted in {{board-responsibilities}} and limited size, together with the staff responsibilities noted in {{staff-responsibilities}}, is designed to overcome the challenges described in Section 3.1.4 of {{?I-D.haberman-iasa20dt-recs}} concerning oversight. This establishes a clear line of oversight over staff performance: the IETF LLC Board oversees the IETF Executive Director's performance and has actual legal authority to remove a non-performing IETF Executive Director. The IETF Executive Director is responsible for the day-to-day operation of the IETF LLC.
 
@@ -502,7 +510,7 @@ more than three Directors’ terms concluding in the same year.
 
 ## IETF LLC Board Director Removal {#director-removal}
 
-Directors may be removed with or without cause. A vote in favor of
+NomCom-appointed Directors may be removed with or without cause. A vote in favor of
 removal must be no fewer than the number of Directors less two.  So
 for example, if there are seven directors, then five votes are
 required. Directors may also be removed via the IETF recall process
@@ -510,7 +518,12 @@ defined in {{?I-D.ietf-iasa2-rfc7437bis}}, Section 7.
 
 ## Filling an IETF LLC Board Director Vacancy {#director-vacancy}
 
-It shall be the responsibility of each respective body that appointed or selected a Director that vacates the Board to appoint a new Director to fill the vacancy.  For example, if a Director selected by the NomCom departs the Board prior to the end of their term for whatever reason, then it is the responsibility of the NomCom (using its mid-term rules, as specified in {{RFC8318}}, Section 3.5) as the original appointing body to designate a replacement that will serve out the remainder of the term of the departed Director.  However, this obligation will not apply to vacancies in Board-appointed positions. 
+It shall be the responsibility of each respective body that appointed or selected a Director that vacates the Board 
+to appoint a new Director to fill the vacancy.  For example, if a Director selected by the NomCom departs the Board 
+prior to the end of their term for whatever reason, then it is the responsibility of the NomCom (using its mid-term 
+rules, as specified in {{I-D.ietf-iasa2-rfc7437bis}}, Section 3.5) as the original appointing body to designate a 
+replacement that will serve out the remainder of the term of the departed Director.  However, this obligation will 
+not apply to vacancies in Board-appointed positions. 
 
 ## Quorum {#quorum}
 
@@ -554,7 +567,7 @@ The IETF LLC must function within a budget of costs balanced against limited rev
 the IETF LLC to work to attain that goal, in order to maintain a viable support function that provides the 
 environment within which the work of the IETF, IAB, IRTF, and RFC Editor can remain vibrant and productive.
 
-The IETF LLC generates income from a few key sources at the time that this document was written, as enumerated below. Additional sources of income may be developed in the future, within the general bounds noted in {{fundraising-practices}}, and some of these may decline in relevance or go away. As a result this list is subject to change over time and is merely an example of the primary sources of income for the IETF LLC at the time of this writing:
+The IETF LLC was generating income from a few key sources at the time that this document was written, as enumerated below. Additional sources of income may be developed in the future, within the general bounds noted in {{fundraising-practices}}, and some of these may decline in relevance or go away. As a result this list is subject to change over time and is merely an example of the primary sources of income for the IETF LLC at the time of this writing:
 
 1.  ISOC support
 2.  IETF meeting revenues
@@ -643,7 +656,7 @@ the growth of the operating reserve.
 As noted in {{llc-responsibilities}}, the IETF LLC is responsible for managing the IETF's finances and budget. 
 A key part of this responsibility is establishing, maintaining, and successfully meeting an annual budget. This 
 is essential to the continued operation and vibrancy of the IETF's technical activities and establishes trust 
-with ISOC and donors that funds are being appropriately spent, and that financial oversight is being conducted 
+with ISOC, sponsors, and donors that funds are being appropriately spent, and that financial oversight is being conducted 
 properly. This is also essential to the IETF LLC meeting applicable legal and tax requirements and is a core part of 
 the Board's fiduciary responsibilities. 
 
