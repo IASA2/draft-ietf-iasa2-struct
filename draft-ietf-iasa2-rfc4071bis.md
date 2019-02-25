@@ -728,7 +728,7 @@ The IETF LLC, with the involvement of the community, shall conduct and complete 
 # Security Considerations
 
 This document describes the structure of the IETF's Administrative
-Aupport Activity (IASA), version 2 (IASA2).  It introduces no security considerations
+Support Activity (IASA), version 2 (IASA2).  It introduces no security considerations
 for the Internet.
 
 # IANA Considerations
