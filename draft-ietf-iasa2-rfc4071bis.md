@@ -740,7 +740,7 @@ interested in the contents.
 
 # Pronouns
 
-The document has used "they" and "their" as a non-gender-specific pronoun to refer to a single individual.
+This document has used "they" and "their" as a non-gender-specific pronoun to refer to a single individual.
 
 # Acknowledgments
 
