@@ -738,6 +738,10 @@ However, some of the information in this document may affect how the
 IETF standards process interfaces with the IANA, so the IANA may be
 interested in the contents.
 
+# Pronouns
+
+The document has used "they" and "their" as a non-gender-specific pronoun to refer to a single individual.
+
 # Acknowledgments
 
 Thanks to Jari Arkko, Richard Barnes, Brian E Carpenter, Alissa
