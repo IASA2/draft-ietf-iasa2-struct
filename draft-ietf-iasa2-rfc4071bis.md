@@ -32,7 +32,9 @@ author:
     email: jason_livingood@comcast.com
 
 normative:
-  RFC7437:
+  draft-ietf-iasa2-rfc7437bis:
+  draft-ietf-iasa2-rfc2031bis:
+  
   IETF-LLC-A:
     title: Limited Liability Company Agreement of IETF Administration LLC
     author:
@@ -91,7 +93,7 @@ the IASA 2.0 structure.
 
 Under IASA 2.0, the work of the IETF's administrative and fundraising 
 tasks is conducted by an administrative organization, the IETF Administration 
-Limited Liability Company ("IETF LLC"). Under this structure, the Internet 
+Limited Liability Company ("IETF LLC"). Under this structure, the IETF 
 Administrative Oversight Committee (IAOC) was eliminated, and its oversight 
 and advising functions transferred to the IETF LLC Board. 
 
@@ -132,12 +134,6 @@ IETF's administration under different legal structures. This document
 outlines how the chosen option is structured and describes how
 the organization fits together with existing and new IETF
 community structures.
-
-The point of the IASA2 WG and process has been to solicit community
-input about how to address the challenges identified in
-{{?I-D.haberman-iasa20dt-recs}}, and included much debate on the IASA2
-mailing list and the IASA2 working group meetings at IETF 101
-{{ietf101-slides}} and IETF 102 {{ietf102-slides}}.
 
 Under IASA 2.0, most of the responsibilities that {{RFC4071}} assigned to 
 the IETF Administrative Director (IAD) and the Internet Society (ISOC) were 
@@ -197,11 +193,11 @@ IAD: IETF Administrative Director, a role obsoleted by this document
 and the ISOC/IETF LLC Agreement ({{IETF-LLC-A}}) and replaced by the
 IETF LLC Executive Director.
 
-IAOC: IETF Administrative Oversight Committee, a committee that oversaw
-IETF administrative activity, obsoleted by this document and replaced
-by the IETF LLC Board. (The IETF Trust function of the former IAOC was
-not included in the new responsibilities of the IETF LLC Board (See
-{{?I-D.ietf-iasa2-trust-update}}).)
+IAOC: IETF Administrative Oversight Committee, a committee that oversaw 
+IETF administrative activity. The IAOC is obsoleted by this document and
+replaced by the IETF LLC Board.  The IETF Trust was formerly populated by 
+IAOC members. Its membership is now distinct from that of the IETF LLC 
+Board (See {{?I-D.ietf-iasa2-trust-update}}).)
 
 IASA: The IETF Administrative Support Activity, defined by
 {{RFC4071}} and updated by this document and the ISOC/IETF LLC
@@ -217,23 +213,22 @@ IESG: Internet Engineering Steering Group (see {{RFC2026}},
 
 IETF: Internet Engineering Task Force (see {{RFC3233}}).
 
-IETF Administration LLC: The legal entity -- a disregarded Limited Liability Company
-(LLC) of The Internet Society -- established to house IASA2, specified
-by the ISOC/IETF LLC Agreement ({{IETF-LLC-A}}) and referred to as "IETF LLC".
+IETF Administration LLC: The legal entity - a disregarded Limited Liability Company 
+(LLC) of The Internet Society - established to provide a corporate legal framework 
+for facilitating current and future activities related to the IETF, IAB, and IRTF. 
+It was established by the ISOC/IETF LLC Agreement ({{IETF-LLC-A}}) and is referred 
+to as "IETF LLC."
 
-IETF LLC Executive Director: the executive director for the IETF
-Administration Limited Liability Company, responsible for day-to-day administrative
-and operational direction (See {{staff-responsibilities}}).
-Also referred to as "IETF Executive Director".
-(Note that
-the title of "IETF Executive Director" in older documents such as
-{{RFC2026}} is now "Managing Director, IETF Secretariat".)
 
-IETF LLC Board: The Board of Directors of the IETF LLC. (The IETF LLC
+IETF LLC Executive Director: the Executive Director for the IETF LLC, responsible 
+for day-to-day administrative and operational direction (See {{staff-responsibilities}}).
+Also referred to as "IETF Executive Director". 
+
+IETF LLC Board: The Board of Directors of the IETF LLC. The IETF LLC
 Board is formally a multi-member "manager" of the IETF LLC on behalf
-of ISOC (See {{board-responsibilities}}).)
+of ISOC (See {{board-responsibilities}}).
 
-ISOC: Internet Society (see {{RFC2031}} and {{ISOC}}).
+ISOC: Internet Society (see {{?I-D.ietf-iasa2-rfc2031bis}} and {{ISOC}}).
 
 ## Key Differences From the Old IASA Structure to IASA 2.0
 
@@ -249,7 +244,7 @@ ISOC: Internet Society (see {{RFC2031}} and {{ISOC}}).
 * The IAD role is replaced with the IETF Executive Director role.
 
 * The role that was previously referred to as "IETF Executive
-  Director" in older documents such as {{RFC2026}} is replaced with "Managing
+  Director" in older documents such as {{RFC2026}} is now "Managing
   Director, IETF Secretariat".
 
 ## General IETF LLC Responsibilities {#llc-responsibilities}
