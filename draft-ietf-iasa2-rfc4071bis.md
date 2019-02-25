@@ -294,7 +294,7 @@ operation of the IETF, IAB, and IRTF, and financial support for the operation of
 
 * Transfer or Dissolution: Consistent with {{IETF-LLC-A}}, the IETF LLC subsidiary may be transferred from ISOC to 
 another organization, at the request of either party. Similarly, the IETF LLC may be dissolved if necessary. Should 
-either event occur, the IETF community should be closely involved in any decisions and plans. Any tranfer, 
+either event occur, the IETF community should be closely involved in any decisions and plans. Any transfer, 
 transition, or dissolution should be conducted carefully and with minimal potential disruption to the IETF.
 
 The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA 2.0 process, with little to no dissent.  It was recognized that there will naturally be confidentiality requirements about some aspects of contracting, personnel matters, and other narrow areas.
@@ -598,13 +598,13 @@ The IETF LLC is expected to retain and work with an independent auditor. Reports
 ## ISOC Financial Support
 
 ISOC currently provides significant financial support to the IETF LLC. Exhibit B of the {{IETF-LLC-A}} 
-summarizes the financial support from ISOC for the forseeable future. It is expected that this support 
+summarizes the financial support from ISOC for the foreseeable future. It is expected that this support 
 will be periodically reviewed and revised, via a cooperative assessment process between ISOC and 
 the IETF LLC.
 
 ## IETF Meeting Revenues
 
-Meeting revenues are another important source of funding that supports the IETF, comining mainly from the fees paid 
+Meeting revenues are another important source of funding that supports the IETF, coming mainly from the fees paid 
 by IETF meeting participants. The IETF Executive Director sets those meeting fees, in consultation with other IETF staff and the IETF community, and approval by the IETF LLC Board. Setting these fees and projecting the number of participants 
 at future meetings is a key part of the annual budget process.  
 
