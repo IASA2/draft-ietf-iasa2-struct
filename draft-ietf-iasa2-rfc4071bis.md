@@ -370,13 +370,14 @@ resources, including performing regular performance reviews.
 
 ## IETF LLC Board Responsibilities {#board-responsibilities}
 
-This section is intended to provide a summary of key IETF LLC Board responsibilities, but 
-the precise and legally binding responsibilities are defined in the LLC Agreement {{IETF-LLC-A}}. 
-To the extent to which there are unintentional differences or other confusion between this 
-document and the LLC Agreement, the LLC Agreement is in all cases authoritative.
+This section is intended to provide a summary of key IETF LLC Board responsibilities, 
+but the precise and legally binding responsibilities are defined in the LLC Agreement 
+{{IETF-LLC-A}} and applicable law. To the extent to which there are unintentional differences 
+or other confusion between this document and these authoritative sources, these sources will 
+control over this document.
 
-The Board has duties of loyalty, care, and good faith, and a legal and fiduciary 
-responsibility. It will set broad strategic direction 
+Board members have fiduciary obligations imposed by the LLC Agreement and applicable law, 
+including duties of loyalty, care and good faith. The Board will set broad strategic direction 
 for the LLC, and will be responsible for adopting an annual budget, hiring or terminating an 
 IETF Executive Director (or amending the terms of their engagement), adopting any employee benefit plans, 
 consulting the relevant IETF communities on matters related to the LLC as appropriate, approving any 
