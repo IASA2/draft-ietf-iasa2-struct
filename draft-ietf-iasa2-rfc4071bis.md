@@ -301,15 +301,9 @@ The transparency and responsiveness principles are designed to address the conce
 
 ## Principles of the IETF and ISOC Relationship
 
-ISOC and the IETF have historically been philosophically aligned. The principles of the relationship between the 
-IETF and ISOC are outlined in {{?I-D.ietf-iasa2-rfc2031bis}}. ISOC's connection with the IETF community has always 
-played an important role in its policy work. ISOC has always been an advocate for multistakeholder processes, which 
-includes the technical community.  Open standards are an explicit part of one of the focus areas in ISOC's mission: Advancing the development and application of Internet infrastructure, technologies, and open standards.
-
-On a practical level, the IETF LLC is a distinct entity (a disregarded entity) of ISOC. The IETF remains responsible 
-for the development and quality of the Internet Standards.  ISOC aids the IETF by providing it a legal entity 
-within which the IETF LLC exists, as well as with financial support. ISOC has no influence whatsoever on the 
-technical content of Internet Standards.
+The principles of the relationship between the IETF and ISOC are outlined in {{?I-D.ietf-iasa2-rfc2031bis}}. 
+In short, the IETF is responsible for the development of the Internet Standards and ISOC aids the IETF by 
+providing it a legal entity within which the IETF LLC exists, as well as with financial support.
 
 ## Relationship of the IETF LLC Board to the IETF Leadership
 
