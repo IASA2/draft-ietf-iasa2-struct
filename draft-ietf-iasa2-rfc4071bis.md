@@ -199,11 +199,9 @@ replaced by the IETF LLC Board.  The IETF Trust was formerly populated by
 IAOC members. Its membership is now distinct from that of the IETF LLC 
 Board (See {{?I-D.ietf-iasa2-trust-update}}).)
 
-IASA: The IETF Administrative Support Activity, defined by
-{{RFC4071}} and updated by this document and the ISOC/IETF LLC
-Agreement ({{IETF-LLC-A}}). IASA consists of the IETF LLC board, 
-employees, and contractors. Uses of the term 'IASA' as a proper 
-noun may imply a subset of these roles, or all of them.
+IASA: The IETF Administrative Support Activity, consists of the IETF 
+LLC board, employees, and contractors. Uses of the term 'IASA' as 
+a proper noun may imply a subset of these roles, or all of them.
 
 IASA 2.0: Version 2.0 of the IETF Administrative Support Activity,
 defined by this document.
@@ -371,11 +369,11 @@ or other confusion between this document and these authoritative sources, these 
 control over this document.
 
 Board members have fiduciary obligations imposed by the LLC Agreement and applicable law, 
-including duties of loyalty, care and good faith. The Board will set broad strategic direction 
-for the LLC, and will be responsible for adopting an annual budget, hiring or terminating an 
-IETF Executive Director (or amending the terms of their engagement), adopting any employee benefit plans, 
-consulting the relevant IETF communities on matters related to the LLC as appropriate, approving any 
-changes to the LLC governance structure, incurring any debt, and approving entering into agreements 
+including duties of loyalty, care and good faith. The Board is responsible to set broad strategic direction 
+for the LLC, and adopt an annual budget, hire or terminate an 
+IETF Executive Director (or amend the terms of their engagement), adopt any employee benefit plans, 
+consult the relevant IETF communities on matters related to the LLC as appropriate, approve any 
+changes to the LLC governance structure, incur any debt, and approve entering into agreements 
 that that meet a significant materiality threshold to be determined by the Board. The IETF LLC 
 Board is expected to delegate management of day-to-day activities and related decision-making to staff.
 
@@ -600,8 +598,9 @@ the IETF LLC.
 ## IETF Meeting Revenues
 
 Meeting revenues are another important source of funding that supports the IETF, coming mainly from the fees paid 
-by IETF meeting participants. The IETF Executive Director sets those meeting fees, in consultation with other IETF staff and the IETF community, and approval by the IETF LLC Board. Setting these fees and projecting the number of participants 
-at future meetings is a key part of the annual budget process.  
+by IETF meeting participants. The IETF Executive Director sets those meeting fees, in consultation with other IETF 
+LLC staff and the IETF community, with approval by the IETF LLC Board. Setting these fees and projecting the number 
+of participants at future meetings is a key part of the annual budget process.  
 
 ## Sponsorships and Donations to the IETF LLC
 
@@ -610,7 +609,7 @@ bounds noted in {{fundraising-practices}}, the IETF LLC is responsible for fundr
 to establish, maintain, and grow a strong foundation of donation revenues. This can and does include both 
 direct financial contributions as well as in-kind contributions, such as equipment, software licenses, and services. 
 
-Sponsorships and donations to the IETF LLC do not (and must not) convey to donors any special oversight 
+Sponsorships and donations to the IETF LLC do not (and must not) convey to sponsors and donors any special oversight 
 or direct influence over the IETF's technical work or other activities of the IETF or IETF LLC. This helps 
 ensure that no undue influence may be ascribed to those from whom funds are raised, and so helps to maintain 
 an open and consensus-based IETF standards process.
