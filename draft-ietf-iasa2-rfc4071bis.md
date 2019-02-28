@@ -622,7 +622,7 @@ the IETF in general as well as one or more special fundraising efforts (which ma
 
 The IETF LLC exists to support the IETF, IAB, and IRTF.  Therefore, the IETF LLC's funding and all revenues, 
 in-kind contributions, and other income that comprise that funding shall be used solely to support activities 
-related to the IETF, IAB, and IRTF and for no other purposes.
+related to the IETF, IAB, IRTF, and RFC Editor, and for no other purposes.
 
 ## Charitable Fundraising Practices {#fundraising-practices}
 
