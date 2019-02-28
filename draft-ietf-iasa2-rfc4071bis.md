@@ -32,8 +32,8 @@ author:
     email: jason_livingood@comcast.com
 
 normative:
-  draft-ietf-iasa2-rfc7437bis:
-  draft-ietf-iasa2-rfc2031bis:
+  I-D.ietf-iasa2-rfc2031bis:
+  I-D.ietf-iasa2-rfc7437bis:
   
   IETF-LLC-A:
     title: Limited Liability Company Agreement of IETF Administration LLC
@@ -226,7 +226,7 @@ IETF LLC Board: The Board of Directors of the IETF LLC. The IETF LLC
 Board is formally a multi-member "manager" of the IETF LLC on behalf
 of ISOC (See {{board-responsibilities}}).
 
-ISOC: Internet Society (see {{?I-D.ietf-iasa2-rfc2031bis}} and {{ISOC}}).
+ISOC: Internet Society (see {{I-D.ietf-iasa2-rfc2031bis}} and {{ISOC}}).
 
 ## Key Differences From the Old IASA Structure to IASA 2.0
 
@@ -299,7 +299,7 @@ The transparency and responsiveness principles are designed to address the conce
 
 ## Principles of the IETF and ISOC Relationship
 
-The principles of the relationship between the IETF and ISOC are outlined in {{?I-D.ietf-iasa2-rfc2031bis}}. 
+The principles of the relationship between the IETF and ISOC are outlined in {{I-D.ietf-iasa2-rfc2031bis}}. 
 In short, the IETF is responsible for the development of the Internet Standards and ISOC aids the IETF by 
 providing it a legal entity within which the IETF LLC exists, as well as with financial support.
 
@@ -477,7 +477,7 @@ guideline are:
 * The Director slot occupied by the IETF Chair ex officio or a
   delegate selected by the IESG will serve a two-year term. This makes
   the term length for this slot the same as the term lengths
-  established in {{?I-D.ietf-iasa2-rfc7437bis}}, Section 3.4.
+  established in {{I-D.ietf-iasa2-rfc7437bis}}, Section 3.4.
 
 ## IETF LLC Board Director Limit {#term-limit}
 
@@ -486,7 +486,7 @@ A director cannot serve a third term until three years have
 passed since their second consecutive term. An
 exception is if a Director role is occupied by the IETF Chair ex
 officio, since that person’s service is governed instead by the term
-lengths established in {{?I-D.ietf-iasa2-rfc7437bis}}, Section 3.4.
+lengths established in {{I-D.ietf-iasa2-rfc7437bis}}, Section 3.4.
 
 An exception to the two consecutive term rule is for an IETF LLC-appointed Director. For such a Director, they may serve only one term via this appointment method, after which any subsequent terms would be occur via other appointment or selection processes (such as via the NomCom process).
 
@@ -507,7 +507,7 @@ NomCom-appointed Directors may be removed with or without cause. A vote in favor
 removal must be no fewer than the number of Directors less two.  So
 for example, if there are seven directors, then five votes are
 required. Directors may also be removed via the IETF recall process
-defined in {{?I-D.ietf-iasa2-rfc7437bis}}, Section 7.
+defined in {{I-D.ietf-iasa2-rfc7437bis}}, Section 7.
 
 ## Filling an IETF LLC Board Director Vacancy {#director-vacancy}
 
