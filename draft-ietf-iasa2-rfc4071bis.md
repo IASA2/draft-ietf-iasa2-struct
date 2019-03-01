@@ -4,7 +4,7 @@ title: Structure of the IETF Administrative Support Activity, Version 2.0
 abbrev: IASA2
 docname: draft-ietf-iasa2-rfc4071bis-latest
 category: bcp
-obsoletes: RFC4071, RFC4333, RFC7691
+obsoletes: 4071, 4333, 7691
 
 ipr: trust200902
 area: General
@@ -44,14 +44,17 @@ normative:
 
 informative:
   RFC7691:
-  RFC8318:
+  #RFC8318:
   RFC2026:
   RFC2850:
   RFC4071:
-  RFC2031:
+  #RFC2031:
   RFC3710:
   RFC3233:
   RFC4333:
+  I-D.ietf-mtgvenue-iaoc-venue-selection-process:
+  I-D.haberman-iasa20dt-recs:
+  I-D.ietf-iasa2-trust-update:
 
   ISOC:
     title: Amended and restated By-Laws of the Internet Society
@@ -60,12 +63,12 @@ informative:
     date: 2018-07
     target: https://www.internetsociety.org/about-internet-society/governance-policies/by-laws/
 
-  ML-memo:
-    title: Options for New Organization to Conduct IETF Administrative Support Activities
-    author:
-      org: Morgan Lewis
-    date: 2018-02
-    target: https://mailarchive.ietf.org/arch/msg/iasa20/XT_3vfd3OWVFCW335mRrvWuusaI/
+  #ML-memo:
+    #title: Options for New Organization to Conduct IETF Administrative Support Activities
+    #author:
+      #org: Morgan Lewis
+    #date: 2018-02
+    #target: https://mailarchive.ietf.org/arch/msg/iasa20/XT_3vfd3OWVFCW335mRrvWuusaI/
 
   ietf101-slides:
     title: IASA 2.0 IETF-101 Slides
@@ -108,7 +111,7 @@ and ISOC in the fiscal and administrative support of the IETF standards
 process.  It also defines the membership and selection rules for the IETF 
 LLC Board.
 
-This document obsoletes {{RFC4071}}, {{RFC4333}}, and {{RFC7691}}.
+This document obsoletes RFC 4071, RFC 4333, and RFC 7691.
 
 --- middle
 
@@ -130,7 +133,7 @@ The IETF LLC provides the corporate legal home for the IETF, the Internet
 Architecture Board (IAB), and the Internet Research Task Force (IRTF), and 
 financial support for the operation of the RFC Editor.
 
-{{?I-D.haberman-iasa20dt-recs}} discusses the challenges facing the
+{{I-D.haberman-iasa20dt-recs}} discusses the challenges facing the
 original IASA structure as well as several options for reorganizing the
 IETF's administration under different legal structures. This document
 outlines how the chosen option is structured and describes how
@@ -147,7 +150,7 @@ needs of the IETF community.
 Eliminating the IAOC meant that changes were required in how
 trustees could be appointed to the IETF Trust. The details of how this
 is done are outside the scope of this document but are covered in
-{{?I-D.ietf-iasa2-trust-update}}.
+{{I-D.ietf-iasa2-trust-update}}.
 
 This document obsoletes {{RFC4071}}, which specified the original IASA, 
 {{RFC4333}}, which specified the selection guidelines and process for IAOC 
@@ -199,7 +202,7 @@ IAOC: IETF Administrative Oversight Committee, a committee that oversaw
 IETF administrative activity. The IAOC is obsoleted by this document and
 replaced by the IETF LLC Board.  The IETF Trust was formerly populated by 
 IAOC members. Its membership is now distinct from that of the IETF LLC 
-Board (See {{?I-D.ietf-iasa2-trust-update}}).)
+Board (See {{I-D.ietf-iasa2-trust-update}}).)
 
 IASA: The IETF Administrative Support Activity, consists of the IETF 
 LLC board, employees, and contractors. Uses of the term 'IASA' as 
@@ -263,7 +266,7 @@ The responsibilities of the IETF LLC are:
 
 The manner by which these responsibilities under the IETF LLC are organized
 is intended to address the problems described in Sections 3.1.1.,
-3.1.2, and 3.1.3 of {{?I-D.haberman-iasa20dt-recs}}.
+3.1.2, and 3.1.3 of {{I-D.haberman-iasa20dt-recs}}.
 Specifically, this is
 intended to bring greater clarity around roles, responsibilities,
 representation, decision-making, and authority.
@@ -298,7 +301,7 @@ another organization, at the request of either party. Similarly, the IETF LLC ma
 either event occur, the IETF community should be closely involved in any decisions and plans. Any transfer, 
 transition, or dissolution should be conducted carefully and with minimal potential disruption to the IETF.
 
-The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA 2.0 process, with little to no dissent.  It was recognized that there will naturally be confidentiality requirements about some aspects of contracting, personnel matters, and other narrow areas.
+The transparency and responsiveness principles are designed to address the concern outlined in Section 3.3 of {{I-D.haberman-iasa20dt-recs}} about the need for improved timeliness of sharing of information and decisions and seeking community comments. The issue of increased transparency was important throughout the IASA 2.0 process, with little to no dissent.  It was recognized that there will naturally be confidentiality requirements about some aspects of contracting, personnel matters, and other narrow areas.
 
 ## Principles of the IETF and ISOC Relationship
 
@@ -338,7 +341,7 @@ subsequent Best Current Practice (BCP) document.
 
 The IETF LLC is led by an IETF Executive Director chosen by the Board. The IETF Executive Director is responsible for managing the day-to-day operations of the IETF LLC, including hiring staff to perform various operational functions. The IETF Executive Director and any staff may be employees or independent contractors.
 
-Allowing for the division of responsibilities among multiple staff members and contractors is designed to address some of the concerns raised in Section 3.2 (Lack of Resources) and Section 3.4 (Funding/Operating Model Mismatch and Rising Costs) of {{?I-D.haberman-iasa20dt-recs}}.
+Allowing for the division of responsibilities among multiple staff members and contractors is designed to address some of the concerns raised in Section 3.2 (Lack of Resources) and Section 3.4 (Funding/Operating Model Mismatch and Rising Costs) of {{I-D.haberman-iasa20dt-recs}}.
 
 Based on the amount of work previously undertaken by the IAD and others involved in the IETF administration, the design of the IETF LLC anticipated that the IETF Executive Director may need to hire multiple additional staff members. For example, resources to manage fundraising, to manage the various contractors that are engaged to fulfill the IETF's administrative needs, and to support outreach and communications were envisioned.
 
@@ -384,7 +387,7 @@ Per Section 5(d) of the LLC Agreement and as also described in {{principles}}, t
 as appropriate, act transparently and provide the IETF community with an opportunity to review 
 and discuss any proposed changes to the IETF LLC structure prior to their adoption.
 
-The role of the Board is to ensure that the strategy and conduct of the IETF LLC is consistent with the IETF's needs -- both its concrete needs and its needs for transparency and accountability.  The Board is not intended to directly define the IETF's needs; to the extent that is required, the IETF community should document its needs in consensus-based RFCs (e.g., as the community did in {{?I-D.ietf-mtgvenue-iaoc-venue-selection-process}}) and provide more detailed input via consultations with the Board (such as takes place on email discussion lists or at IETF meetings).
+The role of the Board is to ensure that the strategy and conduct of the IETF LLC is consistent with the IETF's needs -- both its concrete needs and its needs for transparency and accountability.  The Board is not intended to directly define the IETF's needs; to the extent that is required, the IETF community should document its needs in consensus-based RFCs (e.g., as the community did in {{I-D.ietf-mtgvenue-iaoc-venue-selection-process}}) and provide more detailed input via consultations with the Board (such as takes place on email discussion lists or at IETF meetings).
 
 Key IETF LLC Board responsibilities include:
 
@@ -431,9 +434,9 @@ agreed-upon coverage limits.
 
 A goal of this Board composition is to balance the need for the IETF LLC to be accountable to the IETF community with the need for this Board to have the expertise necessary to oversee a small non-profit company. The Board is smaller than the previous IAOC and the other leadership bodies of the IETF, in part to keep the Board focused on its rather limited set of strategic responsibilities as noted in {{board-responsibilities}}.
 
-This board structure, with limited strategic responsibilities noted in {{board-responsibilities}} and limited size, together with the staff responsibilities noted in {{staff-responsibilities}}, is designed to overcome the challenges described in Section 3.1.4 of {{?I-D.haberman-iasa20dt-recs}} concerning oversight. This establishes a clear line of oversight over staff performance: the IETF LLC Board oversees the IETF Executive Director's performance and has actual legal authority to remove a non-performing IETF Executive Director. The IETF Executive Director is responsible for the day-to-day operation of the IETF LLC.
+This board structure, with limited strategic responsibilities noted in {{board-responsibilities}} and limited size, together with the staff responsibilities noted in {{staff-responsibilities}}, is designed to overcome the challenges described in Section 3.1.4 of {{I-D.haberman-iasa20dt-recs}} concerning oversight. This establishes a clear line of oversight over staff performance: the IETF LLC Board oversees the IETF Executive Director's performance and has actual legal authority to remove a non-performing IETF Executive Director. The IETF Executive Director is responsible for the day-to-day operation of the IETF LLC.
 
-Finally, the Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{?I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA 2.0 design process is detailed above in {{principles}}. The Board will need to establish how it will meet that commitment.
+Finally, the Board would be expected to operate transparently, to further address the concern raised in Section 3.3 of {{I-D.haberman-iasa20dt-recs}}. The default transparency rule arrived at during the IASA 2.0 design process is detailed above in {{principles}}. The Board will need to establish how it will meet that commitment.
 
 # IETF LLC Board Membership, Selection and Accountability {#board}
 
