@@ -98,7 +98,8 @@ Administrative Oversight Committee (IAOC) was eliminated, and its oversight
 and advising functions transferred to the IETF LLC Board. 
 
 The IETF LLC provides the corporate legal home for the IETF, the Internet 
-Architecture Board (IAB), and the Internet Research Task Force (IRTF).
+Architecture Board (IAB), and the Internet Research Task Force (IRTF), and 
+financial support for the operation of the RFC Editor.
 
 This document describes the structure of the IETF Administrative
 Support Activity, version 2 (IASA 2.0).  It defines the roles and
@@ -126,7 +127,8 @@ Administrative Oversight Committee (IAOC) is eliminated, and its oversight
 and advising functions transferred to the IETF LLC Board. 
 
 The IETF LLC provides the corporate legal home for the IETF, the Internet 
-Architecture Board (IAB), and the Internet Research Task Force (IRTF).
+Architecture Board (IAB), and the Internet Research Task Force (IRTF), and 
+financial support for the operation of the RFC Editor.
 
 {{?I-D.haberman-iasa20dt-recs}} discusses the challenges facing the
 original IASA structure as well as several options for reorganizing the
@@ -287,8 +289,9 @@ for confidentiality. The Board will also publish its operating procedures.
 
 * Diligence. The IETF LLC is expected to act responsibly so as to minimize risks to IETF participants and to the future of the IETF as a whole, such as financial risks.
 
-* Unification: The IETF LLC is responsible for providing unified legal, financial, and administrative support for 
-operation of the IETF, IAB, and IRTF, and financial support for the operation of the RFC Editor.
+* Unification: The IETF LLC provides the corporate legal home for the IETF, the Internet 
+Architecture Board (IAB), and the Internet Research Task Force (IRTF), and 
+financial support for the operation of the RFC Editor.
 
 * Transfer or Dissolution: Consistent with {{IETF-LLC-A}}, the IETF LLC subsidiary may be transferred from ISOC to 
 another organization, at the request of either party. Similarly, the IETF LLC may be dissolved if necessary. Should 
