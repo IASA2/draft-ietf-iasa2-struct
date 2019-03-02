@@ -526,15 +526,15 @@ not apply to vacancies in Board-appointed positions.
 
 ## Quorum {#quorum}
 
-At all synchronous live meetings of the Board, two-thirds of the Directors then in office shall constitute 
+At all meetings of the Board, two-thirds of the Directors then in office shall constitute 
 a quorum for the transaction of business. Unless a greater affirmative vote is expressly required for 
 an action under applicable law, the LLC Agreement, or an applicable Board policy, the affirmative vote of 
 two-thirds of the Directors then in office shall be an act of the Board. 
 
 ## Board Voting {#voting}
 
-Board decisions may be made either by vote communicated in a synchronous live (including telephonic and video) 
-meeting, or via an asynchronous written (including electronic) process. Absentee voting and voting by proxy 
+Board decisions may be made either by vote communicated in a meeting of the Board (including telephonic and video), 
+or via an asynchronous written (including electronic) process. Absentee voting and voting by proxy 
 shall not be permitted. If a quorum is not present at any meeting of the Board, the Directors present may 
 adjourn the meeting from time to time, without notice other than announcement at the meeting, until a quorum 
 is present. Voting thresholds for Director removal are described in {{director-removal}}.
