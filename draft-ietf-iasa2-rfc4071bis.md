@@ -380,7 +380,7 @@ for the LLC, and adopt an annual budget, hire or terminate an
 IETF Executive Director (or amend the terms of their engagement), adopt any employee benefit plans, 
 consult the relevant IETF communities on matters related to the LLC as appropriate, approve any 
 changes to the LLC governance structure, incur any debt, and approve entering into agreements 
-that that meet a significant materiality threshold to be determined by the Board. The IETF LLC 
+that meet a significant materiality threshold to be determined by the Board. The IETF LLC 
 Board is expected to delegate management of day-to-day activities and related decision-making to staff.
 
 Per Section 5(d) of the LLC Agreement and as also described in {{principles}}, the Board shall, 
