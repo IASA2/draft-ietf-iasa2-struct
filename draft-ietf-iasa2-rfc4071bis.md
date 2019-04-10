@@ -313,9 +313,9 @@ providing it a legal entity within which the IETF LLC exists, as well as with fi
 
 The IETF LLC Board is directly accountable to the IETF community for the
 performance of the IASA 2.0.  However, the nature of the Board's work
-involves treating the IESG and IAB as major internal customers of the
+involves treating the IESG, IRTF, and IAB as major internal customers of the
 administrative support services.  The Board and the IETF Executive Director should not
-consider their work successful unless the IESG and IAB are also
+consider their work successful unless the IESG, IRTF, and IAB are also
 satisfied with the administrative support that the IETF is receiving.
 
 ## Review of IETF Executive Director and IETF LLC Board Decisions
