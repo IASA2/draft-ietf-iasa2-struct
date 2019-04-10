@@ -481,9 +481,12 @@ guideline are:
   appointments to fill a vacancy.
 
 * The Director slot occupied by the IETF Chair ex officio or a
-  delegate selected by the IESG will serve a two-year term. This makes
-  the term length for this slot the same as the term lengths
-  established in {{I-D.ietf-iasa2-rfc7437bis}}, Section 3.4.
+  delegate selected by the IESG will serve a two-year term. This
+  applies regardless of whether the appointed individual is on the
+  IESG, rotates off the IESG during the two-year term, or is not on
+  the IESG. This makes the term length for this slot the same as the
+  term lengths established in [I-D.ietf-iasa2-rfc7437bis], Section
+  3.4.
 
 ## IETF LLC Board Director Limit {#term-limit}
 
@@ -509,7 +512,7 @@ more than three Directors’ terms concluding in the same year.
 
 ## IETF LLC Board Director Removal {#director-removal}
 
-NomCom-appointed Directors may be removed with or without cause. A vote in favor of
+NomCom-appointed and IESG-appointed Directors may be removed with or without cause. A vote in favor of
 removal must be no fewer than the number of Directors less two.  So
 for example, if there are seven directors, then five votes are
 required. Directors may also be removed via the IETF recall process
