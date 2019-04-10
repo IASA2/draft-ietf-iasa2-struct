@@ -330,7 +330,7 @@ The IETF LLC shall respond to such requests within a reasonable period, typicall
 
 ##  Termination and Change
 
-Any major change to the IASA 2.0 arrangements shall require a similar level of
+Any major change to the IASA 2.0 arrangements shall require
 community consensus and deliberation and shall be reflected by a
 subsequent Best Current Practice (BCP) document.
 
