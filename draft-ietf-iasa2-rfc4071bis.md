@@ -440,7 +440,7 @@ board and the IESG.
 
 As noted above, a maximum of two Directors may be appointed by the IETF LLC Board. They can obviously choose to appoint none, one, or two. These appointments need not be on an exceptional basis, but rather be routine, and may occur at any time of the year since it is on an as-needed basis.
 
-The appointment of a Board-appointed Director requires a two-thirds majority vote of the Directors then in office, and the appointee shall take office immediately upon appointment. The term of each appointment is designated by the Board, with the maximum term being three years, or until their earlier resignation, removal or death.  The Board may decide on a case-by-case basis how long each term shall be, factoring in the restriction for consecutive terms in {{term-length}}.
+The appointment of a Board-appointed Director requires a two-thirds majority vote of the Directors then in office, and the appointee shall take office immediately upon appointment. The term of each appointment is designated by the Board, with the maximum term being three years, or until their earlier resignation, removal or death.  The Board may decide on a case-by-case basis how long each term shall be, factoring in the restriction for consecutive terms in {{term-limit}}.
 
 ## Recruiting IETF LLC Board Directors {#director-recruitment}
 
