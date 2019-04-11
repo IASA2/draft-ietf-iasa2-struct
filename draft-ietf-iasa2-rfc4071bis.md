@@ -520,7 +520,7 @@ of the Board (including telephonic and video), or via an asynchronous
 written (including electronic) process. Absentee voting and voting by
 proxy shall not be permitted. If a quorum is not present at any
 meeting of the Board, the Directors present may adjourn the meeting
-from time to time, without notice other than announcement at the
+without notice, other than announcement at the
 meeting, until a quorum is present. Voting thresholds for Director
 removal are described in {{director-removal}}.
 
