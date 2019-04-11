@@ -44,11 +44,9 @@ normative:
 
 informative:
   RFC7691:
-  #RFC8318:
   RFC2026:
   RFC2850:
   RFC4071:
-  #RFC2031:
   RFC3710:
   RFC3233:
   RFC4333:
@@ -62,29 +60,6 @@ informative:
       org: The Internet Society
     date: 2018-07
     target: https://www.internetsociety.org/about-internet-society/governance-policies/by-laws/
-
-  #ML-memo:
-    #title: Options for New Organization to Conduct IETF Administrative Support Activities
-    #author:
-      #org: Morgan Lewis
-    #date: 2018-02
-    #target: https://mailarchive.ietf.org/arch/msg/iasa20/XT_3vfd3OWVFCW335mRrvWuusaI/
-
-  ietf101-slides:
-    title: IASA 2.0 IETF-101 Slides
-    author:
-      name: Joseph Lorenzo Hall
-      ins: J.L. Hall
-    dates: 2018-03-20
-    target: https://datatracker.ietf.org/meeting/101/materials/slides-101-iasa20-dt-iasa-slides-00
-
-  ietf102-slides:
-    title: IASA 2.0 IETF-102 Slides
-    author:
-      name: Joseph Lorenzo Hall
-      ins: J.L. Hall
-    dates: 2018-07-18
-    target: https://datatracker.ietf.org/meeting/102/materials/slides-102-iasa2-iasa2-structure-draft-00
 
 --- abstract
 
@@ -283,7 +258,7 @@ consensus-based community input on key issues and otherwise as needed. The IETF 
 complete visibility into the financial and legal structure of the IETF LLC. This includes information 
 about the IETF LLC annual budget and associated regular financial reports, results of financial and any 
 other independent audits, tax filings, significant contracts or other significant long-term financial 
-commitments that bind the IETF LLC. As discussed in {{ietf101-slides}}, whatever doesn't have a specific 
+commitments that bind the IETF LLC. Whatever doesn't have a specific 
 justification for being kept confidential is expected to be made public. The Board is expected to develop 
 and maintain a public list of confidential items, describing the nature of the information and the reason 
 for confidentiality. The Board will also publish its operating procedures.
