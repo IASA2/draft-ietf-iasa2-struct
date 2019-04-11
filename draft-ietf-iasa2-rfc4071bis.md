@@ -446,7 +446,7 @@ on an as-needed basis.
 
 The appointment of a Board-appointed Director requires a two-thirds
 majority vote of the Directors then in office, and the appointee shall
-take office immediately upon appointment. The term of each appointment
+take office immediately upon appointment and IESG confirmation. The term of each appointment
 is designated by the Board, with the maximum term being three years,
 or until their earlier resignation, removal or death.  The Board may
 decide on a case-by-case basis how long each term shall be, factoring
