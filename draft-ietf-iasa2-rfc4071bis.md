@@ -45,6 +45,7 @@ normative:
 informative:
   RFC7691:
   RFC2026:
+  RFC2014:
   RFC2850:
   RFC4071:
   RFC3710:
@@ -136,9 +137,9 @@ members and {{RFC7691}}, which specified terms for IAOC members.
 The document does not propose any changes related to the
 standards process as currently conducted
 by the Internet Engineering Steering Group (IESG) and Internet
-Architecture Board (IAB). In addition, no changes are made to the appeals 
-chain, the process for making and confirming IETF and IAB appointments, 
-the technical work of the Internet Research Task Force (IRTF), or to 
+Architecture Board (IAB) (see BCP 9 {{RFC2026}}, BCP 39 {{RFC2850}}). In addition, no changes are made to the appeals 
+chain, the process for making and confirming IETF and IAB appointments (see BCP 10 [I-D.ietf-iasa2-rfc7437bis]), 
+the technical work of the Internet Research Task Force (IRTF) (see BCP 8 {{RFC2014}}), or to 
 ISOC's membership in or support of other organizations.
 
 # LLC Agreement with the Internet Society
