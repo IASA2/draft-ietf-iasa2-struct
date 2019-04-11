@@ -482,11 +482,14 @@ exception is if a Director role is occupied by the IETF Chair ex
 officio, since that person’s service is governed instead by the term
 lengths established in {{I-D.ietf-iasa2-rfc7437bis}}, Section 3.4.
 
-An exception to the two consecutive term rule is for an IETF
-LLC-appointed Director. For such a Director, they may serve only one
-term via this appointment method, after which any subsequent terms
-would be occur via other appointment or selection processes (such as
-via the NomCom process).
+The term limits specified above apply to an individual, even if that
+individual is appointed in different ways over time. For example, an
+individual appointed to two terms by the ISOC Board of Trustees
+may not immediately be appointed to a third term by the IETF
+NomCom. A Director appointed by the IETF LLC itself may only
+serve for one term by that appointment method, and any subsequent
+terms would have to be via other methods; in any case, the term
+limits above apply to that individual.
 
 Lastly, partial terms of less than three years for the initial appointments to the first full board, for which some Directors will have terms of one or two years, do not count against the term limit.
 
