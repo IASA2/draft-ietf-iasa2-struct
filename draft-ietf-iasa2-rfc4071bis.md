@@ -65,27 +65,15 @@ informative:
 --- abstract
 
 The IETF Administrative Support Activity (IASA) was originally
-established in 2005.  In the years since then, the needs of the
-IETF evolved in ways that required changes to its administrative
-structure.  The purpose of this document is to document and describe 
-the IASA 2.0 structure.
-
-Under IASA 2.0, the work of the IETF's administrative and fundraising 
-tasks is conducted by an administrative organization, the IETF Administration 
-Limited Liability Company ("IETF LLC"). Under this structure, the IETF 
-Administrative Oversight Committee (IAOC) is eliminated, and its oversight 
-and advising functions transferred to the IETF LLC Board. 
-
-The IETF LLC provides the corporate legal home for the IETF, the Internet 
-Architecture Board (IAB), and the Internet Research Task Force (IRTF), and 
-financial support for the operation of the RFC Editor.
-
-This document describes the structure of the IETF Administrative
-Support Activity, version 2 (IASA 2.0).  It defines the roles and
-responsibilities of the IETF LLC Board, the IETF Executive Director,
-and ISOC in the fiscal and administrative support of the IETF standards 
-process.  It also defines the membership and selection rules for the IETF 
-LLC Board.
+established in 2005. In the years since then, the needs of the IETF
+evolved in ways that required changes to its administrative
+structure. The purpose of this document is to document and describe
+the IETF Administrative Support Activity, version 2 (IASA 2.0). It
+defines the roles and responsibilities of the IETF Administrative LLC
+Board, the IETF Executive Director, and the Internet Society in the
+fiscal and administrative support of the IETF standards process.  It
+also defines the membership and selection rules for the IETF
+Administrative LLC Board.
 
 This document obsoletes RFC 4071, RFC 4333, and RFC 7691.
 
