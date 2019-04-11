@@ -216,7 +216,7 @@ ISOC: Internet Society (see {{I-D.ietf-iasa2-rfc2031bis}} and {{ISOC}}).
 * The former ISOC and IAD responsibilities are assigned to a new
   organization, IETF Administration LLC.
 
-* The Board of Directors of the IETF LLC -- formally a multi-member "manager" of the IETF LLC on behalf of ISOC -- assumes the oversight responsibilities of the IAOC.
+* The Board of Directors of the IETF LLC -- formally a multi-member "manager" of the IETF LLC on behalf of ISOC -- assumes the oversight responsibilities from the IAOC.
 
 * The Board of the IETF LLC is more focused on strategy and oversight than the IAOC was, with the IETF Executive Director and their team in charge of day-to-day operations.
 
