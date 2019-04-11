@@ -72,7 +72,7 @@ the IASA 2.0 structure.
 Under IASA 2.0, the work of the IETF's administrative and fundraising 
 tasks is conducted by an administrative organization, the IETF Administration 
 Limited Liability Company ("IETF LLC"). Under this structure, the IETF 
-Administrative Oversight Committee (IAOC) was eliminated, and its oversight 
+Administrative Oversight Committee (IAOC) is eliminated, and its oversight 
 and advising functions transferred to the IETF LLC Board. 
 
 The IETF LLC provides the corporate legal home for the IETF, the Internet 
@@ -100,7 +100,7 @@ the IASA 2.0 structure.
 
 Under IASA 2.0, the work of the IETF's administrative and fundraising 
 tasks is conducted by an administrative organization, the IETF Administration 
-Limited Liability Company ("IETF LLC"). Under this structure, the Internet 
+Limited Liability Company ("IETF LLC"). Under this structure, the IETF 
 Administrative Oversight Committee (IAOC) is eliminated, and its oversight 
 and advising functions transferred to the IETF LLC Board. 
 
