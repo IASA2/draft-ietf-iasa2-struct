@@ -69,11 +69,11 @@ established in 2005. In the years since then, the needs of the IETF
 evolved in ways that required changes to its administrative
 structure. The purpose of this document is to document and describe
 the IETF Administrative Support Activity, version 2 (IASA 2.0). It
-defines the roles and responsibilities of the IETF Administrative LLC
+defines the roles and responsibilities of the IETF Administration LLC
 Board, the IETF Executive Director, and the Internet Society in the
 fiscal and administrative support of the IETF standards process.  It
 also defines the membership and selection rules for the IETF
-Administrative LLC Board.
+Administration LLC Board.
 
 This document obsoletes RFC 4071, RFC 4333, and RFC 7691.
 
